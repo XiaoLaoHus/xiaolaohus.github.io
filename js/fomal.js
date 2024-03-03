@@ -54,7 +54,7 @@ function tonav() {
     position = scroll;
   });
   //修复没有弄右键菜单的童鞋无法回顶部的问题
-  document.getElementById("page-name").innerText = document.title.split(" | XiaoLaoHus🐯")[0];
+  document.getElementById("page-name").innerText = document.title.split(" | Fomalhaut🥝")[0];
 }
 
 function scrollToTop() {
@@ -73,7 +73,7 @@ $.ajax({
   type: 'get',
   url: 'https://apis.map.qq.com/ws/location/v1/ip',
   data: {
-    key: 'FDTBZ-AZTK7-TKCXU-HV3LE-5OAJK-PAFTE',  // 这里要写你的KEY!!!
+    key: '',  // 这里要写你的KEY!!!
     output: 'jsonp',
   },
   dataType: 'jsonp',
@@ -99,7 +99,7 @@ function getDistance(e1, n1, e2, n2) {
 
 function showWelcome() {
 
-  let dist = getDistance(118.766489, 34.522859, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //这里换成自己的经纬度
+  let dist = getDistance(113.34499552, 23.15537143, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //这里换成自己的经纬度
   let pos = ipLoacation.result.ad_info.nation;
   let ip;
   let posdesc;
@@ -168,8 +168,6 @@ function showWelcome() {
             case "苏州市":
               posdesc = "上有天堂，下有苏杭。";
               break;
-            case "连云港市":
-              posdesc = "美猴王故乡，花果山风景。";
             default:
               posdesc = "散装是必须要散装的。";
               break;
@@ -287,7 +285,7 @@ function showWelcome() {
   try {
     //自定义文本和需要放的位置
     document.getElementById("welcome-info").innerHTML =
-      `<b><center>🎉 欢迎信息 🎉</center>&emsp;&emsp;欢迎来自 <span style="color:var(--theme-color)">${pos}</span> 的小伙伴，${timeChange}您现在距离站长约 <span style="color:var(--theme-color)">${dist}</span> 公里，当前的IP地址为： <span style="color:var(--theme-color)">${ip}</span>， 所以，${posdesc}</b>`;
+      `<b><center>🎉 欢迎信息 🎉</center>&emsp;&emsp;欢迎来自 <span style="color:var(--theme-color)">${pos}</span> 的小伙伴，${timeChange}您现在距离站长约 <span style="color:var(--theme-color)">${dist}</span> 公里，当前的IP地址为： <span style="color:var(--theme-color)">${ip}</span>， ${posdesc}</b>`;
   } catch (err) {
     // console.log("Pjax无法获取#welcome-info元素🙄🙄🙄")
   }
@@ -1115,13 +1113,13 @@ function changeMouseMode() {
 var now1 = new Date();
 
 function createtime1() {
-  var grt = new Date("13/01/2019 00:00:00"); //此处修改你的建站时间或者网站上线时间
+  var grt = new Date("08/09/2022 00:00:00"); //此处修改你的建站时间或者网站上线时间
   now1.setTime(now1.getTime() + 250);
   var days = (now1 - grt) / 1000 / 60 / 60 / 24;
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到XiaoLaoHus🐯の小家!`,
+    `欢迎来到Fomalhaut🥝の小家!`,
     `Future is now 🍭🍭🍭`,
     `
         
@@ -1135,7 +1133,7 @@ function createtime1() {
     "小站已经苟活",
     dnum,
     "天啦!",
-    "©2019 By XiaoLaoHus",
+    "©2022 By Fomalhaut",
   ];
 
   setTimeout(
@@ -1174,7 +1172,7 @@ function createtime2() {
   setTimeout(
     console.warn.bind(
       console,
-      "%c ⚡ Powered by XiaoLaoHus🐯 %c 你正在访问XiaoLaoHus🐯の小家",
+      "%c ⚡ Powered by Fomalhaut🥝 %c 你正在访问Fomalhaut🥝の小家",
       "color:white; background-color:#f0ad4e",
       ""
     )
@@ -1284,8 +1282,8 @@ function share_() {
   try {
     // 截取标题
     var title = document.title;
-    var subTitle = title.endsWith("| XiaoLaoHus🐯") ? title.substring(0, title.length - 14) : title;
-    navigator.clipboard.writeText('XiaoLaoHus🐯的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
+    var subTitle = title.endsWith("| Fomalhaut🥝") ? title.substring(0, title.length - 14) : title;
+    navigator.clipboard.writeText('Fomalhaut🥝的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
     new Vue({
       data: function () {
         this.$notify({
@@ -1327,7 +1325,7 @@ document.addEventListener('visibilitychange', function () {
     clearTimeout(titleTime);
   } else {
     //返回当前页面时标签显示内容
-    document.title = '😅抓到你啦～';
+    document.title = '🐖抓到你啦～';
     //两秒后变回正常标题
     titleTime = setTimeout(function () {
       document.title = OriginTitile;
@@ -2521,9 +2519,15 @@ if (m == 12 && dd == 25) {//圣诞节
     sessionStorage.setItem("isPopupWindow", "1");
   }
 }
-if (m == 1 && dd == 13) {//站长生日
+if (m == 8 && dd == 11) {//站长生日
   if (sessionStorage.getItem("isPopupWindow") != "1") {
-    Swal.fire("祝站长" + (y - 1998).toString() + "岁生日快乐！");
+    Swal.fire("祝站长" + (y - 1998).toString() + "岁生日快乐！🥝");
+    sessionStorage.setItem("isPopupWindow", "1");
+  }
+}
+if (m == 6 && dd == 30) {//小猫咪生日
+  if (sessionStorage.getItem("isPopupWindow") != "1") {
+    Swal.fire("祝小猫咪" + (y - 1999).toString() + "岁生日快乐！🐱");
     sessionStorage.setItem("isPopupWindow", "1");
   }
 }
@@ -2785,7 +2789,7 @@ function createtime() {
   var dis = Math.trunc(23400000000 + ((now - start) / 1000) * 17); // 距离=秒数*速度 记住转换毫秒
   var unit = (dis / 149600000).toFixed(6);  // 天文单位
   // 网站诞生时间
-  var grt = new Date("13/01/2019 00:00:00");
+  var grt = new Date("08/09/2022 00:00:00");
   var days = (now - grt) / 1e3 / 60 / 60 / 24,
     dnum = Math.floor(days),
     hours = (now - grt) / 1e3 / 60 / 60 - 24 * dnum,
@@ -2800,8 +2804,8 @@ function createtime() {
   let currentTimeHtml = "";
   (currentTimeHtml =
     hnum < 18 && hnum >= 9
-      ? `<img class='boardsign' title='什么时候能够实现财富自由呀~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
-      : `<img class='boardsign' title='下班了就该开开心心地玩耍~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
+      ? `<img class='boardsign' src='https://lskypro.acozycotage.net/Fomalhaut/badge/F小屋-科研摸鱼中.svg' title='什么时候能够实现财富自由呀~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`
+      : `<img class='boardsign' src='https://lskypro.acozycotage.net/Fomalhaut/badge/F小屋-下班休息啦.svg' title='下班了就该开开心心地玩耍~'><br> <div style="font-size:13px;font-weight:bold">本站居然运行了 ${dnum} 天 ${hnum} 小时 ${mnum} 分 ${snum} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${dis} 千米，约为 ${unit} 个天文单位 🚀</div>`),
     document.getElementById("workboard") &&
     (document.getElementById("workboard").innerHTML = currentTimeHtml);
 }
@@ -2816,57 +2820,57 @@ setInterval(() => {
 
 
 /* fps检测 start */
-//if (window.localStorage.getItem("fpson") == undefined || window.localStorage.getItem("fpson") == "1") {
-  //var rAF = function () {
-   // return (
-      //window.requestAnimationFrame ||
-      //window.webkitRequestAnimationFrame ||
-      //function (callback) {
-      //  window.setTimeout(callback, 1000 / 60);
-     // }
-   // );
-  //}();
-  //var frame = 0;
-  //var allFrameCount = 0;
- // var lastTime = Date.now();
-//  var lastFameTime = Date.now();
-//  var loop = function () {
-//    var now = Date.now();
-//    var fs = (now - lastFameTime);
-//    var fps = Math.round(1000 / fs);
-//
-//    lastFameTime = now;
-//    // 不置 0，在动画的开头及结尾记录此值的差值算出 FPS
-//    allFrameCount++;
-//    frame++;
-//
-//    if (now > 1000 + lastTime) {
-//      var fps = Math.round((frame * 1000) / (now - lastTime));
-//      if (fps <= 5) {
-//        var kd = `<span style="color:#bd0000">卡成ppt🤢</span>`
-//      } else if (fps <= 15) {
-//        var kd = `<span style="color:red">电竞级帧率😖</span>`
-//      } else if (fps <= 25) {
-//        var kd = `<span style="color:orange">有点难受😨</span>`
-//      } else if (fps < 35) {
-//        var kd = `<span style="color:#9338e6">不太流畅🙄</span>`
-//      } else if (fps <= 45) {
-//        var kd = `<span style="color:#08b7e4">还不错哦😁</span>`
-//      } else {
-//        var kd = `<span style="color:#39c5bb">十分流畅🤣</span>`
-//      }
-//      document.getElementById("fps").innerHTML = `FPS:${fps} ${kd}`;
-//      frame = 0;
-//      lastTime = now;
-//    };
-//
-//    rAF(loop);
-//  }
-//
-//  loop();
-//} else {
-//  document.getElementById("fps").style = "display:none!important"
-//}
+if (window.localStorage.getItem("fpson") == undefined || window.localStorage.getItem("fpson") == "1") {
+  var rAF = function () {
+    return (
+      window.requestAnimationFrame ||
+      window.webkitRequestAnimationFrame ||
+      function (callback) {
+        window.setTimeout(callback, 1000 / 60);
+      }
+    );
+  }();
+  var frame = 0;
+  var allFrameCount = 0;
+  var lastTime = Date.now();
+  var lastFameTime = Date.now();
+  var loop = function () {
+    var now = Date.now();
+    var fs = (now - lastFameTime);
+    var fps = Math.round(1000 / fs);
+
+    lastFameTime = now;
+    // 不置 0，在动画的开头及结尾记录此值的差值算出 FPS
+    allFrameCount++;
+    frame++;
+
+    if (now > 1000 + lastTime) {
+      var fps = Math.round((frame * 1000) / (now - lastTime));
+      if (fps <= 5) {
+        var kd = `<span style="color:#bd0000">卡成ppt🤢</span>`
+      } else if (fps <= 15) {
+        var kd = `<span style="color:red">电竞级帧率😖</span>`
+      } else if (fps <= 25) {
+        var kd = `<span style="color:orange">有点难受😨</span>`
+      } else if (fps < 35) {
+        var kd = `<span style="color:#9338e6">不太流畅🙄</span>`
+      } else if (fps <= 45) {
+        var kd = `<span style="color:#08b7e4">还不错哦😁</span>`
+      } else {
+        var kd = `<span style="color:#39c5bb">十分流畅🤣</span>`
+      }
+      document.getElementById("fps").innerHTML = `FPS:${fps} ${kd}`;
+      frame = 0;
+      lastTime = now;
+    };
+
+    rAF(loop);
+  }
+
+  loop();
+} else {
+  document.getElementById("fps").style = "display:none!important"
+}
 /* fps检测 end */
 
 //----------------------------------------------------------------
@@ -2997,17 +3001,17 @@ function setSnow() {
 
 
 // 帧率监测开关
-//if (localStorage.getItem("fpson") == undefined) {
-//  localStorage.setItem("fpson", "1");
-//}
-//function fpssw() {
-//  if (document.getElementById("fpson").checked) {
-//    localStorage.setItem("fpson", "1");
-//  } else {
-//    localStorage.setItem("fpson", "0");
-//  }
-//  setTimeout(reload, 600);
-//}
+if (localStorage.getItem("fpson") == undefined) {
+  localStorage.setItem("fpson", "1");
+}
+function fpssw() {
+  if (document.getElementById("fpson").checked) {
+    localStorage.setItem("fpson", "1");
+  } else {
+    localStorage.setItem("fpson", "0");
+  }
+  setTimeout(reload, 600);
+}
 
 // 刷新窗口
 function reload() {
