@@ -8,12 +8,14 @@
       <link href="/posts/20240317.html"/>
       <url>/posts/20240317.html</url>
       
-        <content type="html"><![CDATA[<h1>1.前言</h1><p>平抛运动实验，是单元必考的内容。</p><p>这部分主要有两个考点：</p><p><strong>①平抛运动实验的实验 “注意事项”。</strong></p><p><strong>②计算平抛运动的初速度</strong></p><h1>**2.**平抛运动实验的基本内容</h1><p><img src="https://pic4.zhimg.com/v2-5d2132e7e0b59487f5d56be1a3bdc237_r.jpg" alt=""></p><p>平抛运动实验，考试中考察最多的方案，就是用平抛竖落仪进行实验的过程，就是下面这货：</p><p><img src="https://pic1.zhimg.com/v2-dda5aca8c3c23a9bbdb4185b8091a700_b.jpg" alt=""></p><p>实验的步骤你只需大概清楚就好。</p><p><strong>实验的 “注意事项” 都必须记住！</strong></p><h1>3.计算平抛运动初速度</h1><p><img src="https://pic2.zhimg.com/v2-e0dc611ef55a185f81501f5d6c7ef261_r.jpg" alt=""></p><p>初速度的计算，有分为 “轨迹有抛出点” 与“轨迹无抛出点”两种情况：</p><h2 id="3-1有抛出点"><strong>3.1有抛出点</strong></h2><p>这个情况，题目中给了你一个小球从抛出点开始抛出的完整轨迹</p><p><img src="https://pic4.zhimg.com/v2-2e5a948929dacdfc3b71aa0357dff293_b.jpg" alt=""></p><p>先测量出某个点到抛出点的水平位移 X，竖直方向位移 y</p><p>解题过程（详细过程见思维导图）：</p><p>**计算时间：**根据自由落体竖直方向的位移公式，代入 y，求出 t。</p><p>**计算初速度：**根据 X=Vt，代入 X 与 t，求出 V。</p><p>就是这么简单。</p><p>所以，出题老师觉得多准备几个陷阱…</p><p>我就知道出题老师不会这么安分</p><p><img src="https://pic3.zhimg.com/v2-5f352efa7afd5492db44380ce5ab8452_b.jpg" alt=""></p><h2 id="3-2无抛出点"><strong>3.2无抛出点</strong></h2><p>于是出题老师在轨迹中随便挖了一部分，搞出了个升级版。就如下面红色框框里面这货：</p><p><img src="https://pic2.zhimg.com/v2-adb4d61b93d8219a989ebc58ce54f125_b.jpg" alt=""></p><p>这下，计算时间的时候，你就不能够再用自由落体的位移公式了。</p><p>你得用到逐差公式：</p><p><img src="https://pic2.zhimg.com/v2-964c52487d69726ba59c86809b0e5b95_b.jpg" alt=""></p><p>解题的过程就是（详细流程见思维导图）：</p><p><strong>1、根据逐差公式计算出时间</strong></p><p>**2、根据 X=Vt 计算初速度。<br>**</p><p><img src="https://pic3.zhimg.com/v2-d39532c3e94f4ffea29ffae213183b72_b.jpg" alt=""></p><p>如图为某小球做平抛运动时，用闪光照相的方法获得的相片的一部分, 图中背景方格的边长为 5cm，g=10m/s2，求</p><p>小球平抛的初速度 v。</p><p><strong>1、画轨迹图：</strong></p><p><img src="https://pic2.zhimg.com/v2-877692cbaa4a0a40019ff4e26b2f0851_b.jpg" alt=""></p><p><strong>2、判断时间间隔是否相等：</strong></p><p>根据两个水平方向上的位移相等，可以判断间隔时间相等（依据匀速直线运动判断）</p><p><strong>3、列式计算：</strong></p><p><img src="https://pic3.zhimg.com/v2-a0e166bc8ff5bad04268ed094722747e_b.jpg" alt=""></p><h1>4.参考</h1><p>1.本文章选自知乎专栏《小心！平抛运动实验的这些陷阱！丨高中物理》<a href="https://zhuanlan.zhihu.com/p/34604560">(查看原文)</a>，若侵犯版权，请联系站长删除。</p>]]></content>
+        <content type="html"><![CDATA[<h1>1.前言</h1><p>平抛运动实验，是单元必考的内容。</p><p>这部分主要有两个考点：</p><p><strong>①平抛运动实验的实验 “注意事项”。</strong></p><p><strong>②计算平抛运动的初速度</strong></p><h1>2.平抛运动实验的基本内容</h1><p><img src="https://pic4.zhimg.com/v2-5d2132e7e0b59487f5d56be1a3bdc237_r.jpg" alt=""></p><p>平抛运动实验，考试中考察最多的方案，就是用平抛竖落仪进行实验的过程，就是下面这货：</p><p><img src="https://pic1.zhimg.com/v2-dda5aca8c3c23a9bbdb4185b8091a700_b.jpg" alt=""></p><p>实验的步骤你只需大概清楚就好。</p><p><strong>实验的 “注意事项” 都必须记住！</strong></p><h1>3.计算平抛运动初速度</h1><p><img src="https://pic2.zhimg.com/v2-e0dc611ef55a185f81501f5d6c7ef261_r.jpg" alt=""></p><p>初速度的计算，有分为 “轨迹有抛出点” 与“轨迹无抛出点”两种情况：</p><h2 id="3-1有抛出点"><strong>3.1有抛出点</strong></h2><p>这个情况，题目中给了你一个小球从抛出点开始抛出的完整轨迹</p><p><img src="https://pic4.zhimg.com/v2-2e5a948929dacdfc3b71aa0357dff293_b.jpg" alt=""></p><p>先测量出某个点到抛出点的水平位移 X，竖直方向位移 y</p><p>解题过程（详细过程见思维导图）：</p><p>**计算时间：**根据自由落体竖直方向的位移公式，代入 y，求出 t。</p><p>**计算初速度：**根据 X=Vt，代入 X 与 t，求出 V。</p><p>就是这么简单。</p><p>所以，出题老师觉得多准备几个陷阱…</p><p>我就知道出题老师不会这么安分</p><p><img src="https://pic3.zhimg.com/v2-5f352efa7afd5492db44380ce5ab8452_b.jpg" alt=""></p><h2 id="3-2无抛出点"><strong>3.2无抛出点</strong></h2><p>于是出题老师在轨迹中随便挖了一部分，搞出了个升级版。就如下面红色框框里面这货：</p><p><img src="https://pic2.zhimg.com/v2-adb4d61b93d8219a989ebc58ce54f125_b.jpg" alt=""></p><p>这下，计算时间的时候，你就不能够再用自由落体的位移公式了。</p><p>你得用到逐差公式：</p><p><img src="https://pic2.zhimg.com/v2-964c52487d69726ba59c86809b0e5b95_b.jpg" alt=""></p><p>解题的过程就是（详细流程见思维导图）：</p><p><strong>1、根据逐差公式计算出时间</strong></p><p><strong>2、根据 X=Vt 计算初速度。</strong></p><p><img src="https://pic3.zhimg.com/v2-d39532c3e94f4ffea29ffae213183b72_b.jpg" alt=""></p><p>如图为某小球做平抛运动时，用闪光照相的方法获得的相片的一部分, 图中背景方格的边长为 5cm，g=10m/s2，求</p><p>小球平抛的初速度 v。</p><p><strong>1、画轨迹图：</strong></p><p><img src="https://pic2.zhimg.com/v2-877692cbaa4a0a40019ff4e26b2f0851_b.jpg" alt=""></p><p><strong>2、判断时间间隔是否相等：</strong></p><p>根据两个水平方向上的位移相等，可以判断间隔时间相等（依据匀速直线运动判断）</p><p><strong>3、列式计算：</strong></p><p><img src="https://pic3.zhimg.com/v2-a0e166bc8ff5bad04268ed094722747e_b.jpg" alt=""></p><h1>4.参考</h1><p>1.本文章选自知乎专栏《小心！平抛运动实验的这些陷阱！丨高中物理》<a href="https://zhuanlan.zhihu.com/p/34604560">(查看原文)</a>，若侵犯版权，请联系站长删除。</p>]]></content>
       
       
       <categories>
           
           <category> 学习笔记 </category>
+          
+          <category> 高中物理 </category>
           
       </categories>
       
@@ -39,6 +41,8 @@
       <categories>
           
           <category> 学习笔记 </category>
+          
+          <category> 高中数学 </category>
           
       </categories>
       
