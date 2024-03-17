@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.xiaolaohus.top/posts/20240317.html</loc>
+    
+    <lastmod>2024-03-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xiaolaohus.top/posts/20240316.html</loc>
     
     <lastmod>2024-03-16</lastmod>
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://www.xiaolaohus.top/box/gallery/index.html</loc>
+    <loc>https://www.xiaolaohus.top/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -65,7 +74,25 @@
   </url>
   
   <url>
+    <loc>https://www.xiaolaohus.top/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xiaolaohus.top/life/games/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaolaohus.top/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -84,24 +111,6 @@
   
   <url>
     <loc>https://www.xiaolaohus.top/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaolaohus.top/tags/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xiaolaohus.top/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -144,7 +153,7 @@
   </url>
   
   <url>
-    <loc>https://www.xiaolaohus.top/tags/%E6%95%B0%E5%AD%A6/</loc>
+    <loc>https://www.xiaolaohus.top/tags/%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -159,6 +168,13 @@
   
   <url>
     <loc>https://www.xiaolaohus.top/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2024-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xiaolaohus.top/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
