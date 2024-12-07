@@ -6,7 +6,7 @@
   <link href="https://www.xiaolaohus.top/atom.xml" rel="self"/>
   
   <link href="https://www.xiaolaohus.top/"/>
-  <updated>2024-10-08T13:30:00.000Z</updated>
+  <updated>2024-11-23T16:06:00.000Z</updated>
   <id>https://www.xiaolaohus.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>“穿针引线”的使用</title>
+    <link href="https://www.xiaolaohus.top/posts/20241124.html"/>
+    <id>https://www.xiaolaohus.top/posts/20241124.html</id>
+    <published>2024-11-24T13:30:00.000Z</published>
+    <updated>2024-11-23T16:06:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1><strong>引入</strong></h1><p>首先，让我们回忆一下解不等式的方法.在初中时我们便已经学到我们可以把不等式当作方程来解，同时注意不等号的方向.</p><p>这样的方法对于一次不等式确实是最简单也是最有效的方法了.但是，当我们遇到二次不等式，那又是怎么解决的呢？</p><p>对于一元二次不等式，高中课本上采用了 ‘数形结合’ 的方法，即：将不等式各项都移到一边，并将得到的多项式看作一个函数并在平面直角坐标系中画出函数图像，再根据函数图像写出解集.</p><p>这便启发了我们：我们可以通过画函数图像的方法来解不等式.</p><h1><strong>“穿针引线”的内容</strong></h1><p>那么运用数形结合的思想，我们便能通过以下方法解决更高次的不等式：</p><ol><li><p><strong>分解</strong> :将不等式所有项移动到一边并进行因式分解.</p></li><li><p><strong>标根</strong> :在x轴上标出函数图像与x轴的交点.</p></li><li><p><strong>穿线</strong> :逢点必穿，奇穿偶不穿.</p></li><li><p><strong>解集</strong> :根据函数图像写出解集.</p></li></ol><p>下面让我们来试一试：</p><hr><p><strong>例1.</strong> 解不等式 $ (x-1)(x-2)(x-3)&gt;0 .$</p><p>首先我们发现该不等式已经帮我们因式分解了，接着便是解出它的零点.</p><p>使用瞪眼法，我们可以得到函数 $ f(x)=(x-1)(x-2)(x-3) $ 的3个零点分别为 $1$,$2$,$3$，那么我们便在x轴上将这三个点用实心点标注.</p><p>然后，让我们开始“穿线”.从哪里开始“穿”呢？其实我们可以简单试一下当x=4时它会是什么样子:</p><p>$$<br>f(4)=3<em>2</em>1=6&gt;0.<br>$$</p><p>那么，这便说明我们应该从右上角开始“穿”.“穿”完后，我们便可以得到一个大致的函数图像，然后用它写出原不等式的解集.</p><img src="/assets/posts/eg1.png" alt="eg1" style="zoom:50%" /><hr><p>多项式不等式一般可以使用这个方法.不过，分式方程是怎么解决的呢？让我们回想一下：在高中时，我们会将分式的分子与分母相乘变为多项式来解.</p><hr><p><strong>例2.</strong> 解不等式 $ \dfrac{(x-1)(x+2)}{(x-3)(x-2)} &gt;0 .$</p><p>首先将原不等式转化，将分子与分母相乘转化为多项式: $ (x-1)(x+2)(x-3)(x-2)&gt;0. $</p><p>然后便可以用穿针引线法来解决这个不等式了.</p><img src="/assets/posts/eg2.png" alt="eg2" style="zoom:50%" /><hr><p>不过，这里出现了一些不太一样的地方.当我们比较用穿针引线画出来的大致图像与原不等式左边的真实图像之间发生了不小的偏差:</p><img src="/assets/posts/gra2.png" alt="gra2" style="zoom:50%" /><p>那图像上的偏差是否会影响答案的正确性呢？“穿针引线法”难道出现问题了吗？</p><h1><strong>穿针引线法的溯源</strong></h1><p>首先我们要知道“穿针引线”是怎么来的.根据函数的单调性，例如 $ f(x)=x-1 $ 这个函数，我们可以得知它在 $ R $ 上单调递增.因此，在它的零点 $ x=1 $ 的左、右分别小于 $ 0 $ 、大于 $ 0 $ .</p><p>那么，当若干个多项式相乘，便仍然可以观察其单调性和零点，推断它大于 $ 0 $ 和小于 $ 0 $ 的区间.根据同号相乘得正，异号相乘得负，我们便能画出整个相乘式的大于 $ 0 $ 和小于 $ 0 $ 的区间.</p><p>所以，因为除或乘一个多项式对正负并没有影响，我们便能够把分式的不等式化为分子与分母相乘的多项式.唯一的区别就是，分式的分母不能为 $0$ ，所以分式的图像会出现渐近线，而相乘的形式却只是一个“取不到的零点”.</p><p>由此，我们便能将穿针引线法进行推广.</p><h1><strong>穿针引线法的推广</strong></h1><p><strong>例3.</strong> 解不等式 $ (x-4)(e^x-1)&gt;0. $</p><p>我们使用瞪眼法，得出两个零点 $ x=0 , x=4 $.因为函数 $ y=(x-4) $ 和 $ y=e^x-1 $ 均在 $R$ 内单调递增，所以我们便可以画出这样的图像来求解了.</p><img src="/assets/posts/eg3.png" alt="eg3" style="zoom:50%" /><p>这与它的函数原图像颇为相似：</p><img src="/assets/posts/gra3.png" alt="gra3" style="zoom:50%" /><h1><strong>课后练习</strong></h1><p><strong>解下列不等式:</strong></p><p>$(1) (x-4)log(3,x)&lt;0 ; $</p><p>$(2) \dfrac{(x-7)log(2,x)}{(e^x-3)x^2.}$</p>]]></content>
+    
+    
+    <summary type="html">对“穿针引线”的深入探析和拓展</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://www.xiaolaohus.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="高中数学" scheme="https://www.xiaolaohus.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+    
+    <category term="高中数学" scheme="https://www.xiaolaohus.top/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>圆锥曲线丨高中数学</title>
