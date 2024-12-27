@@ -6,7 +6,7 @@
   <link href="https://www.xiaolaohus.top/atom.xml" rel="self"/>
   
   <link href="https://www.xiaolaohus.top/"/>
-  <updated>2024-12-23T15:00:00.000Z</updated>
+  <updated>2024-12-27T16:00:00.000Z</updated>
   <id>https://www.xiaolaohus.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大除法因式分解丨高中数学</title>
+    <link href="https://www.xiaolaohus.top/posts/20241228.html"/>
+    <id>https://www.xiaolaohus.top/posts/20241228.html</id>
+    <published>2024-12-27T16:00:00.000Z</published>
+    <updated>2024-12-27T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>首先，我们先介绍一下什么是<strong>大除法</strong>，怎么用，怎么去理解？</p><p><strong>什么是大除法？</strong></p><p><a href="https://baike.sogou.com/v73214027.htm?fromTitle=%E5%A4%A7%E9%99%A4%E6%B3%95">大除法 - 搜狗百科</a></p><p>可能大家看得有点懵，给大家举个栗子，大家就明白了。</p><p>比如我们正常的一个除数除以被除数：<strong>比如 100 除以 4,9 除以 2 等。</strong></p><p>我们知道 100÷4=25，写过程为：</p><p><img src="https://pic3.zhimg.com/v2-1cf5dcdbbb35b163e0831a68e1bfcd34_r.jpg" alt=""></p><p>余数为零，说明这个数能被另一个数整除，也就是 4 可以被 100 整除，那么就有：</p><p>100=4×25</p><p><img src="https://pic4.zhimg.com/v2-05b75397afdffae706a2b68ede74f16d_r.jpg" alt=""></p><p>余数不为零，说明这个数不能被另一个数整除，也就是 2 不可以被 9 整除，那么就有：</p><p>9=2×4+1</p><p>那么，推广到多项式呢？</p><p>所以就有了今天的内容：</p><p><img src="https://pica.zhimg.com/v2-997c9954d2cdd026da013a470cec4b82_r.jpg" alt=""></p><p>如果常数 C 等于 0，那么 <strong>这个多项式能被另一个多项式整除。</strong></p><p>先来举一两个简单的例子：</p><p><img src="https://picx.zhimg.com/v2-3057f98ee4e47675676cca9e9f93fdf7_r.jpg" alt=""></p><p>先看第一个例子：</p><p><img src="https://pic3.zhimg.com/v2-b632c15d8aaf3146af49345b8deb3df8_r.jpg" alt=""></p><p>再看第二个式子：</p><p><img src="https://pic2.zhimg.com/v2-60c1e1468c9209b994262c3c049dce2b_r.jpg" alt=""></p><p>继续第三个式子：</p><p><img src="https://pic3.zhimg.com/v2-17a74dfa067d4770d45b9210e4fab5c0_r.jpg" alt=""></p><p>继续第四个例子：</p><p><img src="https://pic3.zhimg.com/v2-93aab7bf1cbad554b76008a8c1c278ae_r.jpg" alt=""></p><p>**<a href="https://zhida.zhihu.com/search?content_id=163316923&amp;content_type=Article&amp;match_order=1&amp;q=%E7%AB%8B%E6%96%B9%E5%92%8C%E5%85%AC%E5%BC%8F&amp;zhida_source=entity">立方和公式</a>**大家可以自行按此推导，其实这些都是需要记住的，如果会推导的话，记都不用记。</p><p>继续第五个例子：</p><p><img src="https://pica.zhimg.com/v2-1528a66ec93e4cf838c2f952d426ca9c_r.jpg" alt=""></p><p>当然，我们可以将其推导到更高次项也是完全可以的，这里就不再继续书写了。相信看到这里的童鞋基本都可以看懂了。</p><p>下面回到我们的正题，使用<strong>大除法（<a href="https://zhida.zhihu.com/search?content_id=163316923&amp;content_type=Article&amp;match_order=1&amp;q=%E9%95%BF%E9%99%A4%E6%B3%95&amp;zhida_source=entity">长除法</a>）求解一元三次方程</strong>，当然更高次也是适用的。</p><p>还是那句话，<strong>百闻不如一见，看书不如看实验</strong>！</p><p><img src="https://pic3.zhimg.com/v2-215faf58ea064d3ac0aefb050dea49a2_r.jpg" alt=""></p><p>就以这四个式子为大家做个示范吧：</p><p>先看第一个式子：</p><p>按照今天提到的方法解：（直接假定我们知道解，然后去找关联，当然解一定是常数的因数里面的一个，包含 1 以及它本身）。</p><p>如果有去了解过我以前写的内容的话，应该都会发现，<strong>根一定都是常数项的因数中的一个。如一式子中的 1 的因数有（-1,1），正数负数范围内都考虑。</strong></p><p><img src="https://pica.zhimg.com/v2-55ec591be53374ed6c9f5e8b5eca6282_r.jpg" alt=""><img src="https://pic1.zhimg.com/v2-ece7c0e93ed525a6a14f227c5507b26a_r.jpg" alt=""></p><p>继续看第二个例子：</p><p><img src="https://pic1.zhimg.com/v2-51c567b0637dc8eaaa0fd0233fc9f44a_r.jpg" alt=""></p><p>继续看第三个例子：</p><p><img src="https://picx.zhimg.com/v2-c30984a4b7bbfb6e0c6efd0c34af4d5d_r.jpg" alt=""><img src="https://picx.zhimg.com/v2-f910407ca72ba6f81f5f8ab0c9132ba3_r.jpg" alt=""></p><p>最后看第四个例子：</p><p><img src="https://pic3.zhimg.com/v2-ff6c7514abfae9d4b2345f4b00d8a7d6_r.jpg" alt=""></p><p>看，是不是也非常的简单，当然如果你能直接看出来一个解的话，那就直接非常简单了。</p><p><strong>最后再说明一点，这个使用条件也是不能去求解分式根，因为分解难度大，所以是分式根的话，推荐使用双十字法进行求解</strong>。</p><p>文章如下：</p><p><a href="http://mp.weixin.qq.com/s?__biz=MzU3MzY5MzU1NQ==&amp;mid=2247484641&amp;idx=2&amp;sn=3be7789639a3a00d64bb09173cee4738&amp;chksm=fd3c8ffdca4b06eb2e60ca635ad7ea8adfe479a1e9c5027139d05dbc32792295ec4a10983f6a&amp;scene=21#wechat_redirect">数学技巧 || 双十字法巧解一元三次方程</a></p><p>最后，我们把它推到高次项，也给大家<strong>举个栗子。</strong></p><p>**如果大家对大除法用的比较熟的话，其实进行<a href="https://zhida.zhihu.com/search?content_id=163316923&amp;content_type=Article&amp;match_order=1&amp;q=%E9%99%8D%E5%B9%82%E6%8E%92%E5%88%97&amp;zhida_source=entity">降幂排列</a>属于多余的，**进行降幂的目的主要是防止运算遗漏导致出错而已。</p><p><img src="https://pic4.zhimg.com/v2-71c1535413f0f4f8e78c1e7cf56439c5_r.jpg" alt=""><img src="https://pic4.zhimg.com/v2-6107a6ec5e073d06c075170537b019d1_r.jpg" alt=""></p><p>好了，以上就是本次的分享了！希望大家用得熟练~~</p><p>大致就写这么多了，由于号主也是在工作中只能闲下来的时候才会写一下，所以做工就会相当的粗糙，这篇文章或者这个技巧我个人希望的是能让需要的人看到，让更多的人知道还有这个方法，希望能看到这篇文章或者学到这个技巧的人能够走的更远，号主就只能走到这了，也希望对这个有研究的可以继续研究下去，让跟多的人学到，更多的人看到~~~</p><p>本文章选自知乎专栏《<strong>数学技巧||一元三次方程求解，大除法解一元三次方程！</strong>》<a href="https://zhuanlan.zhihu.com/p/338340227">(查看原文)</a>，若侵犯版权，请联系站长删除。</p>]]></content>
+    
+    
+    <summary type="html">一元三次方程求解，大除法解一元三次方程！</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://www.xiaolaohus.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="高中数学" scheme="https://www.xiaolaohus.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+    
+    <category term="高中数学" scheme="https://www.xiaolaohus.top/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>工艺流程题丨高中化学</title>
@@ -73,27 +96,6 @@
     
     
     <summary type="html">对“穿针引线”的深入探析和拓展</summary>
-    
-    
-    
-    <category term="学习笔记" scheme="https://www.xiaolaohus.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="高中数学" scheme="https://www.xiaolaohus.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
-    
-    
-    <category term="高中数学" scheme="https://www.xiaolaohus.top/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>圆锥曲线丨高中数学</title>
-    <link href="https://www.xiaolaohus.top/posts/20241008.html"/>
-    <id>https://www.xiaolaohus.top/posts/20241008.html</id>
-    <published>2024-10-08T13:30:00.000Z</published>
-    <updated>2024-10-08T13:30:00.000Z</updated>
-    
-    
-    <summary type="html">圆锥曲线解题方法大全</summary>
     
     
     

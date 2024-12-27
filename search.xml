@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>大除法因式分解丨高中数学</title>
+      <link href="/posts/20241228.html"/>
+      <url>/posts/20241228.html</url>
+      
+        <content type="html"><![CDATA[<p>首先，我们先介绍一下什么是<strong>大除法</strong>，怎么用，怎么去理解？</p><p><strong>什么是大除法？</strong></p><p><a href="https://baike.sogou.com/v73214027.htm?fromTitle=%E5%A4%A7%E9%99%A4%E6%B3%95">大除法 - 搜狗百科</a></p><p>可能大家看得有点懵，给大家举个栗子，大家就明白了。</p><p>比如我们正常的一个除数除以被除数：<strong>比如 100 除以 4,9 除以 2 等。</strong></p><p>我们知道 100÷4=25，写过程为：</p><p><img src="https://pic3.zhimg.com/v2-1cf5dcdbbb35b163e0831a68e1bfcd34_r.jpg" alt=""></p><p>余数为零，说明这个数能被另一个数整除，也就是 4 可以被 100 整除，那么就有：</p><p>100=4×25</p><p><img src="https://pic4.zhimg.com/v2-05b75397afdffae706a2b68ede74f16d_r.jpg" alt=""></p><p>余数不为零，说明这个数不能被另一个数整除，也就是 2 不可以被 9 整除，那么就有：</p><p>9=2×4+1</p><p>那么，推广到多项式呢？</p><p>所以就有了今天的内容：</p><p><img src="https://pica.zhimg.com/v2-997c9954d2cdd026da013a470cec4b82_r.jpg" alt=""></p><p>如果常数 C 等于 0，那么 <strong>这个多项式能被另一个多项式整除。</strong></p><p>先来举一两个简单的例子：</p><p><img src="https://picx.zhimg.com/v2-3057f98ee4e47675676cca9e9f93fdf7_r.jpg" alt=""></p><p>先看第一个例子：</p><p><img src="https://pic3.zhimg.com/v2-b632c15d8aaf3146af49345b8deb3df8_r.jpg" alt=""></p><p>再看第二个式子：</p><p><img src="https://pic2.zhimg.com/v2-60c1e1468c9209b994262c3c049dce2b_r.jpg" alt=""></p><p>继续第三个式子：</p><p><img src="https://pic3.zhimg.com/v2-17a74dfa067d4770d45b9210e4fab5c0_r.jpg" alt=""></p><p>继续第四个例子：</p><p><img src="https://pic3.zhimg.com/v2-93aab7bf1cbad554b76008a8c1c278ae_r.jpg" alt=""></p><p>**<a href="https://zhida.zhihu.com/search?content_id=163316923&amp;content_type=Article&amp;match_order=1&amp;q=%E7%AB%8B%E6%96%B9%E5%92%8C%E5%85%AC%E5%BC%8F&amp;zhida_source=entity">立方和公式</a>**大家可以自行按此推导，其实这些都是需要记住的，如果会推导的话，记都不用记。</p><p>继续第五个例子：</p><p><img src="https://pica.zhimg.com/v2-1528a66ec93e4cf838c2f952d426ca9c_r.jpg" alt=""></p><p>当然，我们可以将其推导到更高次项也是完全可以的，这里就不再继续书写了。相信看到这里的童鞋基本都可以看懂了。</p><p>下面回到我们的正题，使用<strong>大除法（<a href="https://zhida.zhihu.com/search?content_id=163316923&amp;content_type=Article&amp;match_order=1&amp;q=%E9%95%BF%E9%99%A4%E6%B3%95&amp;zhida_source=entity">长除法</a>）求解一元三次方程</strong>，当然更高次也是适用的。</p><p>还是那句话，<strong>百闻不如一见，看书不如看实验</strong>！</p><p><img src="https://pic3.zhimg.com/v2-215faf58ea064d3ac0aefb050dea49a2_r.jpg" alt=""></p><p>就以这四个式子为大家做个示范吧：</p><p>先看第一个式子：</p><p>按照今天提到的方法解：（直接假定我们知道解，然后去找关联，当然解一定是常数的因数里面的一个，包含 1 以及它本身）。</p><p>如果有去了解过我以前写的内容的话，应该都会发现，<strong>根一定都是常数项的因数中的一个。如一式子中的 1 的因数有（-1,1），正数负数范围内都考虑。</strong></p><p><img src="https://pica.zhimg.com/v2-55ec591be53374ed6c9f5e8b5eca6282_r.jpg" alt=""><img src="https://pic1.zhimg.com/v2-ece7c0e93ed525a6a14f227c5507b26a_r.jpg" alt=""></p><p>继续看第二个例子：</p><p><img src="https://pic1.zhimg.com/v2-51c567b0637dc8eaaa0fd0233fc9f44a_r.jpg" alt=""></p><p>继续看第三个例子：</p><p><img src="https://picx.zhimg.com/v2-c30984a4b7bbfb6e0c6efd0c34af4d5d_r.jpg" alt=""><img src="https://picx.zhimg.com/v2-f910407ca72ba6f81f5f8ab0c9132ba3_r.jpg" alt=""></p><p>最后看第四个例子：</p><p><img src="https://pic3.zhimg.com/v2-ff6c7514abfae9d4b2345f4b00d8a7d6_r.jpg" alt=""></p><p>看，是不是也非常的简单，当然如果你能直接看出来一个解的话，那就直接非常简单了。</p><p><strong>最后再说明一点，这个使用条件也是不能去求解分式根，因为分解难度大，所以是分式根的话，推荐使用双十字法进行求解</strong>。</p><p>文章如下：</p><p><a href="http://mp.weixin.qq.com/s?__biz=MzU3MzY5MzU1NQ==&amp;mid=2247484641&amp;idx=2&amp;sn=3be7789639a3a00d64bb09173cee4738&amp;chksm=fd3c8ffdca4b06eb2e60ca635ad7ea8adfe479a1e9c5027139d05dbc32792295ec4a10983f6a&amp;scene=21#wechat_redirect">数学技巧 || 双十字法巧解一元三次方程</a></p><p>最后，我们把它推到高次项，也给大家<strong>举个栗子。</strong></p><p>**如果大家对大除法用的比较熟的话，其实进行<a href="https://zhida.zhihu.com/search?content_id=163316923&amp;content_type=Article&amp;match_order=1&amp;q=%E9%99%8D%E5%B9%82%E6%8E%92%E5%88%97&amp;zhida_source=entity">降幂排列</a>属于多余的，**进行降幂的目的主要是防止运算遗漏导致出错而已。</p><p><img src="https://pic4.zhimg.com/v2-71c1535413f0f4f8e78c1e7cf56439c5_r.jpg" alt=""><img src="https://pic4.zhimg.com/v2-6107a6ec5e073d06c075170537b019d1_r.jpg" alt=""></p><p>好了，以上就是本次的分享了！希望大家用得熟练~~</p><p>大致就写这么多了，由于号主也是在工作中只能闲下来的时候才会写一下，所以做工就会相当的粗糙，这篇文章或者这个技巧我个人希望的是能让需要的人看到，让更多的人知道还有这个方法，希望能看到这篇文章或者学到这个技巧的人能够走的更远，号主就只能走到这了，也希望对这个有研究的可以继续研究下去，让跟多的人学到，更多的人看到~~~</p><p>本文章选自知乎专栏《<strong>数学技巧||一元三次方程求解，大除法解一元三次方程！</strong>》<a href="https://zhuanlan.zhihu.com/p/338340227">(查看原文)</a>，若侵犯版权，请联系站长删除。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+          <category> 高中数学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>工艺流程题丨高中化学</title>
       <link href="/posts/20241223.html"/>
       <url>/posts/20241223.html</url>
@@ -63,33 +90,6 @@
       <url>/posts/20241124.html</url>
       
         <content type="html"><![CDATA[<h1><strong>引入</strong></h1><p>首先，让我们回忆一下解不等式的方法.在初中时我们便已经学到我们可以把不等式当作方程来解，同时注意不等号的方向.</p><p>这样的方法对于一次不等式确实是最简单也是最有效的方法了.但是，当我们遇到二次不等式，那又是怎么解决的呢？</p><p>对于一元二次不等式，高中课本上采用了 ‘数形结合’ 的方法，即：将不等式各项都移到一边，并将得到的多项式看作一个函数并在平面直角坐标系中画出函数图像，再根据函数图像写出解集.</p><p>这便启发了我们：我们可以通过画函数图像的方法来解不等式.</p><h1><strong>“穿针引线”的内容</strong></h1><p>那么运用数形结合的思想，我们便能通过以下方法解决更高次的不等式：</p><ol><li><p><strong>分解</strong> :将不等式所有项移动到一边并进行因式分解.</p></li><li><p><strong>标根</strong> :在x轴上标出函数图像与x轴的交点.</p></li><li><p><strong>穿线</strong> :逢点必穿，奇穿偶不穿.</p></li><li><p><strong>解集</strong> :根据函数图像写出解集.</p></li></ol><p>下面让我们来试一试：</p><hr><p><strong>例1.</strong> 解不等式 $ (x-1)(x-2)(x-3)&gt;0 .$</p><p>首先我们发现该不等式已经帮我们因式分解了，接着便是解出它的零点.</p><p>使用瞪眼法，我们可以得到函数 $ f(x)=(x-1)(x-2)(x-3) $ 的3个零点分别为 $1$,$2$,$3$，那么我们便在x轴上将这三个点用实心点标注.</p><p>然后，让我们开始“穿线”.从哪里开始“穿”呢？其实我们可以简单试一下当x=4时它会是什么样子:</p><p>$f(4) = 3\times 2\times 1 = 6&gt;0 $</p><p>那么，这便说明我们应该从右上角开始“穿”.“穿”完后，我们便可以得到一个大致的函数图像，然后用它写出原不等式的解集.</p><img src="/assets/posts/eg1.png" alt="eg1" style="zoom:50%" /><hr><p>多项式不等式一般可以使用这个方法.不过，分式方程是怎么解决的呢？让我们回想一下：在高中时，我们会将分式的分子与分母相乘变为多项式来解.</p><hr><p><strong>例2.</strong> 解不等式 $ \dfrac{(x-1)(x+2)}{(x-3)(x-2)} &gt;0 .$</p><p>首先将原不等式转化，将分子与分母相乘转化为多项式: $ (x-1)(x+2)(x-3)(x-2)&gt;0. $</p><p>然后便可以用穿针引线法来解决这个不等式了.</p><img src="/assets/posts/eg2.png" alt="eg2" style="zoom:50%" /><hr><p>不过，这里出现了一些不太一样的地方.当我们比较用穿针引线画出来的大致图像与原不等式左边的真实图像之间发生了不小的偏差:</p><img src="/assets/posts/gra2.png" alt="gra2" style="zoom:50%" /><p>那图像上的偏差是否会影响答案的正确性呢？“穿针引线法”难道出现问题了吗？</p><h1><strong>穿针引线法的溯源</strong></h1><p>首先我们要知道“穿针引线”是怎么来的.根据函数的单调性，例如 $ f(x)=x-1 $ 这个函数，我们可以得知它在 $ R $ 上单调递增.因此，在它的零点 $ x=1 $ 的左、右分别小于 $ 0 $ 、大于 $ 0 $ .</p><p>那么，当若干个多项式相乘，便仍然可以观察其单调性和零点，推断它大于 $ 0 $ 和小于 $ 0 $ 的区间.根据同号相乘得正，异号相乘得负，我们便能画出整个相乘式的大于 $ 0 $ 和小于 $ 0 $ 的区间.</p><p>所以，因为除或乘一个多项式对正负并没有影响，我们便能够把分式的不等式化为分子与分母相乘的多项式.唯一的区别就是，分式的分母不能为 $0$ ，所以分式的图像会出现渐近线，而相乘的形式却只是一个“取不到的零点”.</p><p>由此，我们便能将穿针引线法进行推广.</p><h1><strong>穿针引线法的推广</strong></h1><p><strong>例3.</strong> 解不等式 $ (x-4)(e^x-1)&gt;0. $</p><p>我们使用瞪眼法，得出两个零点 $ x=0 , x=4 $.因为函数 $ y=(x-4) $ 和 $ y=e^x-1 $ 均在 $R$ 内单调递增，所以我们便可以画出这样的图像来求解了.</p><img src="/assets/posts/eg3.png" alt="eg3" style="zoom:50%" /><p>这与它的函数原图像颇为相似：</p><img src="/assets/posts/gra3.png" alt="gra3" style="zoom:50%" /><h1><strong>课后练习</strong></h1><p><strong>解下列不等式:</strong></p><p>$(1) (x-4)log(3,x)&lt;0 ; $</p><p>$(2) \dfrac{(x-7)log(2,x)}{(e^x-3)x^2.}$</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 学习笔记 </category>
-          
-          <category> 高中数学 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 高中数学 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>圆锥曲线丨高中数学</title>
-      <link href="/posts/20241008.html"/>
-      <url>/posts/20241008.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
       
       <categories>
