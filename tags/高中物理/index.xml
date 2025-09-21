@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>高中物理 on 小老虎sの基地</title>
+        <link>https://xiaolaohus.github.io/tags/%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86/</link>
+        <description>Recent content in 高中物理 on 小老虎sの基地</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>小老虎s</copyright>
+        <lastBuildDate>Sun, 21 Sep 2025 23:51:39 +0800</lastBuildDate><atom:link href="https://xiaolaohus.github.io/tags/%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>选必三最后两章总结丨高中物理</title>
+        <link>https://xiaolaohus.github.io/p/%E9%80%89%E5%BF%85%E4%B8%89%E6%9C%80%E5%90%8E%E4%B8%A4%E7%AB%A0%E6%80%BB%E7%BB%93%E4%B8%A8%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86/</link>
+        <pubDate>Sat, 31 May 2025 18:00:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E9%80%89%E5%BF%85%E4%B8%89%E6%9C%80%E5%90%8E%E4%B8%A4%E7%AB%A0%E6%80%BB%E7%BB%93%E4%B8%A8%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86/</guid>
+        <description>&lt;h1 id=&#34;第四章-原子结构和波粒二象性&#34;&gt;第四章 原子结构和波粒二象性
+&lt;/h1&gt;&lt;h2 id=&#34;1普朗克黑体辐射理论&#34;&gt;1.普朗克黑体辐射理论
+&lt;/h2&gt;&lt;h3 id=&#34;黑体与黑体辐射&#34;&gt;黑体与黑体辐射
+&lt;/h3&gt;&lt;p&gt;热辐射：热能→电磁能&lt;/p&gt;
+&lt;p&gt;某种物体能够 完全吸收入射的各种波长的电磁波而不发生反射，这种物体就是绝对黑体，简称&lt;strong&gt;黑体&lt;/strong&gt;（绝对黑体是一种理想模型）&lt;/p&gt;
+&lt;p&gt;黑体虽然不反射电磁波，却可以向外辐射电磁波，这样的辐射叫作&lt;strong&gt;黑体辐射&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意：黑体不一定是黑色的（如太阳，白炽灯灯丝）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一般材料的物体辐射影响因素：&lt;strong&gt;温度，材料类型，表面状况&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;黑体辐射的实验规律&#34;&gt;黑体辐射的实验规律
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;随着温度的升高，一方面，各种波长的辐射强度都有增加，另一方面，辐射强度的极大值向波长较短的方向移动&lt;/strong&gt;，如下图&lt;/p&gt;
+&lt;img src=&#34;E:\MyBlog\hexo-theme-Fomalhaut-main\source\assets\posts\phy\1.png&#34; alt=&#34;1&#34; style=&#34;zoom: 50%;&#34; /&gt;
+&lt;h3 id=&#34;能量子&#34;&gt;能量子
+&lt;/h3&gt;&lt;p&gt;不可再分的最小能量值 ε 叫作&lt;strong&gt;能量子&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;表达式为 $ ε＝h\nu$&lt;/p&gt;
+&lt;p&gt;$\nu$是带电微粒的振动频率  h是普朗克常量， 其值为  &lt;/p&gt;
+$$h ＝ 6.626 070 15×10^{-34}  J·s$$&lt;p&gt;微观世界中的能量：不连续，量子化&lt;/p&gt;
+&lt;h2 id=&#34;2光电效应&#34;&gt;2.光电效应
+&lt;/h2&gt;&lt;p&gt;照射到金属表面的光，能使金属中的电子从表面逸出。 这个现象称为&lt;strong&gt;光电效应&lt;/strong&gt; ，这种电子常称为光电子&lt;/p&gt;
+&lt;h3 id=&#34;光电效应的实验规律&#34;&gt;光电效应的实验规律
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;E:\MyBlog\hexo-theme-Fomalhaut-main\source\assets\posts\phy\2.png&#34; style=&#34;zoom:50%;&#34; /&gt;&lt;img src=&#34;E:\MyBlog\hexo-theme-Fomalhaut-main\source\assets\posts\phy\3.png&#34; style=&#34;zoom:50%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;光电效应存在以下四条性质&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;①存在截止频率&lt;/strong&gt; 当入射光的频率减小到某一数值 $\nu_{c}$ 时， 光电流消失，这表明已经没有光电子了。&lt;/p&gt;
+$$ \nu_{c} $$&lt;p&gt; 称为&lt;strong&gt;截止频率&lt;/strong&gt;。当入射光的频 率低于截止频率时不发生光电效应&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;②存在饱和电流&lt;/strong&gt; 在光照条件不变的情况下，随着所加电压的增大，光电流趋于一个饱和值。（如图4.2-2）$I=\frac{ne}{t} ∝光强$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;③存在遏止电压&lt;/strong&gt; 如果施加反向电压，在光电管两极间形成使电子减速的电场，电流有可能为0。使光电流减小到0的反向电压$U_{c} $称为遏止电压。初速度的上限&lt;/p&gt;
+$$ v_{c} $$&lt;p&gt;​ 应该满足以下关系
+&lt;/p&gt;
+$$
+\frac{1}{2} m_{e} v_{c} ^{2} ＝eU_{c} \qquad  U_{c} =\frac{E_{k} }{e}
+$$&lt;p&gt;
+&lt;strong&gt;④光电效应具有瞬时性&lt;/strong&gt; 当频率超过截止频率&lt;/p&gt;
+$$ v_{c} $$&lt;p&gt;时，无论入射光怎样微弱，照到金属时会立即产生光电流。&lt;/p&gt;
+&lt;p&gt;存在截止频率，存在遏止电压，具有瞬时性与光强无关&lt;/p&gt;
+&lt;h3 id=&#34;光电效应经典解释中的疑难&#34;&gt;光电效应经典解释中的疑难
+&lt;/h3&gt;&lt;p&gt;要使电子脱离某种金属，需要外界对它做功，做功的最小值叫作这种金属的逸出功，用$W_{0} $表示。&lt;/p&gt;
+&lt;h3 id=&#34;爱因斯坦的光电效应理论&#34;&gt;爱因斯坦的光电效应理论
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;光子说&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;①假定电磁波本身的能量是不连续的，即认为光本身就是由一个个不可分割的能量子组成的&lt;/p&gt;
+&lt;p&gt;②金属中一个电子只能吸收一个光子，不计积累能量时间&lt;/p&gt;
+&lt;p&gt;③光电子有最大初动能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;爱因斯坦光电效应方程&lt;/strong&gt;   $E_{k}  ＝ hv－W_{0}   $&lt;/p&gt;
+&lt;p&gt;式中$E_{k}  $为光电子的最大初动能  $ E_{k} ＝ \frac{1}{2} m_{e} v_{c} ^{2} $&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;E:\MyBlog\hexo-theme-Fomalhaut-main\source\assets\posts\phy\4.png&#34; style=&#34;zoom:33%;&#34; /&gt;&lt;img src=&#34;E:\MyBlog\hexo-theme-Fomalhaut-main\source\assets\posts\phy\5.png&#34; style=&#34;zoom: 33%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这个方程表明，只有当$h\nu &amp;gt; W_{0}  $时，光电子才可以从金属中逸出，$\nu_{c} =\frac{W_{0} }{h} $就是光电效应的&lt;strong&gt;截止频率&lt;/strong&gt;（图4.2-4）&lt;/p&gt;
+&lt;p&gt;其中与$y$轴交点为$-W_{0}$&lt;/p&gt;
+&lt;p&gt;利用光电子的初动能 $E_{k} =eU_{c} $ 和爱因斯坦光电效应方程 $E_{k}  ＝ hv－W_{0}   $，  可以消去$E_{k}$，从而得到$U_{c}$与$v$、$W_{0}$关系，即
+&lt;/p&gt;
+$$
+U_{c} =\frac{h}{e} \nu-\frac{W0}{e}
+$$&lt;p&gt;
+对于确定的金属，其逸出功$W_{0}$是确定的，电子电荷$e $和普朗克常量$h$都是常量。上式中的遏止电压$U_{c}$与光的频率$v $是线性关系，$U_{c} -v$图像是一条斜率为$\frac{h}{e} $的直线&lt;/p&gt;
+&lt;p&gt;必备常量数值：$e=1.6\times 10^{-19}C $     $h=6.63\times 10^{-34}$    $c=3\times 10^{8}m/s$&lt;/p&gt;
+&lt;h3 id=&#34;康普顿效应&#34;&gt;康普顿效应
+&lt;/h3&gt;$$
+p=\frac{h}{\lambda }
+$$&lt;h3 id=&#34;光具有波粒二象性&#34;&gt;光具有波粒二象性
+&lt;/h3&gt;&lt;h2 id=&#34;3原子的核式结构模型&#34;&gt;3.原子的核式结构模型
+&lt;/h2&gt;&lt;p&gt;在研究稀薄气体放电时发现，当玻璃管内的气体足够稀薄时，阴极就发出一种射线。 它能使对着阴极的玻璃管壁发出荧光，这种射线称为&lt;strong&gt;阴极射线&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;电子的发现&#34;&gt;电子的发现
+&lt;/h3&gt;&lt;p&gt;J. J.汤姆孙发现组成阴极射线的粒子被称为&lt;strong&gt;电子&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;电子电荷的精确测定由密立根通过著名的“油滴实验”做出的。目前公认的电子电荷e的值为
+&lt;/p&gt;
+$$
+e ＝ 1.602 176 634 ×  10^{-19} C
+$$&lt;p&gt;
+密立根实验更重要的发现是：电荷是量子化的，即任何带电体的电荷只能是$ e$ 的整数倍。从实验测到的比荷及 $ e$ 的数值，可以确定电子的质量。现在人们普遍认为电子的质量为
+&lt;/p&gt;
+$$
+m_{e}  ＝ 9.109 383 56 × 10^{-31} kg
+$$&lt;p&gt;
+质子质量与电子质量的比值为
+&lt;/p&gt;
+$$
+\frac{m_{p} }{m_{e} } =1836
+$$&lt;p&gt;
+证明原子可以再分&lt;/p&gt;
+&lt;h3 id=&#34;原子的核式结构模型&#34;&gt;原子的核式结构模型
+&lt;/h3&gt;&lt;p&gt;J. J.汤姆孙→“西瓜模型”或“枣糕模型”&lt;/p&gt;
+&lt;p&gt;卢瑟福→核式结构模型&lt;/p&gt;
+&lt;p&gt;$\alpha $粒子散射实验（卢瑟福）&lt;/p&gt;
+&lt;p&gt;条件：在真空中&lt;/p&gt;
+&lt;p&gt;现象：&lt;/p&gt;
+&lt;p&gt;①绝大多数$\alpha $粒子运动方向基本不变&lt;/p&gt;
+&lt;p&gt;②少数$\alpha $粒子发生大角度偏转&lt;/p&gt;
+&lt;p&gt;③极少数$\alpha $粒子被反向弹回&lt;/p&gt;
+&lt;h3 id=&#34;原子核的电荷与尺度&#34;&gt;原子核的电荷与尺度
+&lt;/h3&gt;&lt;p&gt;对于一般的原子核，实验确定的核半径的数量级为$10^{-15} $m，而整个原子半径的数量级是$10^{-10} $m&lt;/p&gt;
+&lt;p&gt;质子+中子=核子=质量数&lt;/p&gt;
+&lt;p&gt;电荷数=质子数&lt;/p&gt;
+&lt;h2 id=&#34;4氢原子光谱和玻尔的原子模型&#34;&gt;4.氢原子光谱和玻尔的原子模型
+&lt;/h2&gt;&lt;h3 id=&#34;光谱&#34;&gt;光谱
+&lt;/h3&gt;&lt;p&gt;用棱镜或光栅可以把物质发出的光按波长（频率）展开，获得波长（频率）和强度分布的记录即&lt;strong&gt;光谱&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;有些光谱是一条条的亮线，叫作谱线，这样的光谱叫作&lt;strong&gt;线状谱&lt;/strong&gt;。有的光谱看起来不是一条条分立的谱线，而是连在一起的光带，叫作&lt;strong&gt;连续谱&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;在线状谱上的亮线，在吸收光谱上的暗线 都是&lt;strong&gt;特征谱线&lt;/strong&gt; 都可以进行&lt;strong&gt;光谱分析&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;连续谱：炽热的固体，液体，高压气体&lt;/p&gt;
+&lt;p&gt;线状谱：稀薄气体，金属蒸汽发光&lt;/p&gt;
+&lt;p&gt;吸收光谱：白光通过温度较低的气体后形成的&lt;/p&gt;
+&lt;p&gt;作用：①鉴别物质和确定物质的组成成分   ②发现新的元素&lt;/p&gt;
+&lt;h3 id=&#34;氢原子光谱的实验规律&#34;&gt;氢原子光谱的实验规律
+&lt;/h3&gt;&lt;p&gt;巴耳末公式
+&lt;/p&gt;
+$$
+\frac{1}{\lambda}=R_{\infty}\left(\frac{1}{2^{2}}-\frac{1}{n^{2}}\right) \quad n=3,4,5, \cdots
+$$&lt;p&gt;
+里德伯常量$R_{\infty } =1.10\times 10^{7} m^{-1} $&lt;/p&gt;
+&lt;p&gt;$n=3$时氢原子光谱的巴耳末系中波长最长的光波&lt;/p&gt;
+&lt;p&gt;通式
+&lt;/p&gt;
+$$
+\frac{1}{\lambda}=\frac{-E_{1} }{hc} \left(\frac{1}{m^{2}}-\frac{1}{n^{2}}\right) \quad n=3,4,5, \cdots
+$$&lt;h3 id=&#34;经典理论的困难&#34;&gt;经典理论的困难
+&lt;/h3&gt;&lt;p&gt;无法解释原子稳定性&lt;/p&gt;
+&lt;p&gt;无法解释原子光谱分立的特征&lt;/p&gt;
+&lt;h3 id=&#34;玻尔原子理论的基本假设&#34;&gt;玻尔原子理论的基本假设
+&lt;/h3&gt;&lt;p&gt;轨道量子化：$r_{n} =n^{2} r_{1} \quad n=1,2,3\cdots$&lt;/p&gt;
+&lt;p&gt;能级量子化：电子在这些轨道上绕核的运动是稳定的，不产生电磁辐射&lt;/p&gt;
+&lt;p&gt;这些量子化的能量值叫作&lt;strong&gt;能级&lt;/strong&gt;。原子中这些具有确定能量的稳定状态，称为&lt;strong&gt;定态&lt;/strong&gt;。能量最低的状态叫作&lt;strong&gt;基态&lt;/strong&gt;（离核最近的轨道状态），其他的状态叫作&lt;strong&gt;激发态&lt;/strong&gt;。$E_{n} =\frac{1}{n^{2}}  E_{1} \quad n=1,2,3\cdots$&lt;/p&gt;
+&lt;p&gt;玻尔假定：当电子从能量较高的定态轨道（其能量记为$E_{n} $）跃迁到能量较低的定态轨道（能量记为$E_{m} $） 光子的能量由前后两个能级的能量差决定，即$hv =E_{n} -E_{m} $&lt;/p&gt;
+&lt;p&gt;原子的能量$E_{n} =E_{k} +E_{p电} $&lt;/p&gt;
+&lt;p&gt;电子轨迹半径增大：&lt;/p&gt;
+&lt;p&gt;①电子动能$E_{k}$&lt;/p&gt;
+&lt;p&gt;②系统电势能$E_{p}$&lt;/p&gt;
+&lt;p&gt;③原子能量&lt;/p&gt;
+&lt;h3 id=&#34;玻尔理论对氢光谱的解释&#34;&gt;玻尔理论对氢光谱的解释
+&lt;/h3&gt;&lt;img src=&#34;E:\MyBlog\hexo-theme-Fomalhaut-main\source\assets\posts\phy\6.png&#34; style=&#34;zoom: 33%;&#34; /&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;横线&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;定态&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;左边数字&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;能级量子化&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;右边数字&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;能级对应能量&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;横线间距&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;能量差值&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;①自发跃迁 E高→放出光子→E低&lt;/p&gt;
+&lt;p&gt;一群氢原子处在量子数为$n$的激发态&lt;/p&gt;
+&lt;p&gt;跃迁光谱线条数：$N=\frac{n(n-1)}{2}\quad C_{n}^{2} $&lt;/p&gt;
+&lt;p&gt;一搁氢原子处在量子数为$n$的激发态&lt;/p&gt;
+&lt;p&gt;跃迁光谱线条数：$N&amp;rsquo;=n-1$&lt;/p&gt;
+&lt;p&gt;②受激跃迁 E低→吸收光子→E高&lt;/p&gt;
+&lt;p&gt;光照 $hv=E_{高} -E_{低} $&lt;/p&gt;
+&lt;p&gt;碰撞，加热 $E_{k} \ge E_{高} -E_{低} $&lt;/p&gt;
+&lt;p&gt;当电子轨道$r→\infty $，原子失去电子，称为电离&lt;/p&gt;
+&lt;p&gt;不同状态的氢原子电离能 $E=-E_{n} $&lt;/p&gt;
+&lt;p&gt;光照 $hv=-E_{n}$&lt;/p&gt;
+&lt;p&gt;碰撞，加热 $E_{k} \ge -E_{n}$&lt;/p&gt;
+&lt;h3 id=&#34;玻尔理论的局限性&#34;&gt;玻尔理论的局限性
+&lt;/h3&gt;&lt;p&gt;玻尔的原子理论第一次将量子观念引入原子领域，提出了定态和跃迁的概念。&lt;/p&gt;
+&lt;p&gt;玻尔理论的不足之处在于保留了经典粒子的观念，仍然把电子的运动看作经典力学描述下的轨道运动。&lt;/p&gt;
+&lt;h2 id=&#34;5粒子的波动性和量子力学的建立&#34;&gt;5.粒子的波动性和量子力学的建立
+&lt;/h2&gt;&lt;h3 id=&#34;粒子的波动性&#34;&gt;粒子的波动性
+&lt;/h3&gt;&lt;p&gt;电磁波：$\nu\cdot \lambda =c$&lt;/p&gt;
+&lt;p&gt;物质波：$\nu\cdot \lambda =\frac{c^{2} }{\lambda } $&lt;/p&gt;
+&lt;p&gt;实物粒子：&lt;/p&gt;
+&lt;p&gt;能量：$mc^{2} $&lt;/p&gt;
+&lt;p&gt;动量：$mv$&lt;/p&gt;
+&lt;p&gt;德布罗意波：&lt;/p&gt;
+&lt;p&gt;$\nu=\frac{ε}{h} \quad \lambda =\frac{h}{p} $&lt;/p&gt;
+&lt;p&gt;$\lambda$越高，$p$越低，波动性越强，粒子性越弱&lt;/p&gt;
+&lt;p&gt;$\lambda$越低，$p$越高，波动性越弱，粒子性越强&lt;/p&gt;
+&lt;h3 id=&#34;物质波的实验验证&#34;&gt;物质波的实验验证
+&lt;/h3&gt;&lt;p&gt;1927年戴维森和G. P. 汤姆孙分别用单晶和多晶晶体做了电子束衍射的实验，得到了衍射图样，从而证实了电子的波动性。&lt;/p&gt;
+&lt;p&gt;物质波波速&lt;/p&gt;
+&lt;p&gt;相速：相位传递速度$\nu v=c^{2} $&lt;/p&gt;
+&lt;p&gt;群速：能量，信息传递速度&lt;/p&gt;
+&lt;p&gt;德布罗意提出物质波的观念被实验证实，表明电子、 质子、原子等粒子不但具有粒子的性质，而且具有波动的 性质。换句话说，它们和光一样，也具有波粒二象性。&lt;/p&gt;
+&lt;p&gt;$\lambda $越小，分辨率越高&lt;/p&gt;
+&lt;p&gt;衍射发生条件$\lambda \ge d$&lt;/p&gt;
+&lt;p&gt;质子分辨率高&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote class=&#34;alert alert-note&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;（未完待续）&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id=&#34;第五章-原子核&#34;&gt;第五章 原子核
+&lt;/h1&gt;&lt;h2 id=&#34;1原子核的组成&#34;&gt;1.原子核的组成
+&lt;/h2&gt;&lt;h2 id=&#34;2放射性元素的衰变&#34;&gt;2.放射性元素的衰变
+&lt;/h2&gt;&lt;h2 id=&#34;3核力与结合能&#34;&gt;3.核力与结合能
+&lt;/h2&gt;&lt;h2 id=&#34;4核裂变与核聚变&#34;&gt;4.核裂变与核聚变
+&lt;/h2&gt;&lt;h2 id=&#34;5基本粒子&#34;&gt;5.“基本”粒子
+&lt;/h2&gt;</description>
+        </item>
+        <item>
+        <title>平抛运动实验丨高中物理</title>
+        <link>https://xiaolaohus.github.io/p/%E5%B9%B3%E6%8A%9B%E8%BF%90%E5%8A%A8%E5%AE%9E%E9%AA%8C%E4%B8%A8%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86/</link>
+        <pubDate>Sun, 17 Mar 2024 14:20:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E5%B9%B3%E6%8A%9B%E8%BF%90%E5%8A%A8%E5%AE%9E%E9%AA%8C%E4%B8%A8%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86/</guid>
+        <description>&lt;h1 id=&#34;1前言&#34;&gt;1.前言
+&lt;/h1&gt;&lt;p&gt;平抛运动实验，是单元必考的内容。&lt;/p&gt;
+&lt;p&gt;这部分主要有两个考点：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;①平抛运动实验的实验 “注意事项”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;②计算平抛运动的初速度&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;2平抛运动实验的基本内容&#34;&gt;2.平抛运动实验的基本内容
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-5d2132e7e0b59487f5d56be1a3bdc237_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;平抛运动实验，考试中考察最多的方案，就是用平抛竖落仪进行实验的过程，就是下面这货：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-dda5aca8c3c23a9bbdb4185b8091a700_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;实验的步骤你只需大概清楚就好。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实验的 “注意事项” 都必须记住！&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;3计算平抛运动初速度&#34;&gt;3.计算平抛运动初速度
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-e0dc611ef55a185f81501f5d6c7ef261_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;初速度的计算，有分为 “轨迹有抛出点” 与“轨迹无抛出点”两种情况：&lt;/p&gt;
+&lt;h2 id=&#34;31有抛出点&#34;&gt;&lt;strong&gt;3.1有抛出点&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;这个情况，题目中给了你一个小球从抛出点开始抛出的完整轨迹&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-2e5a948929dacdfc3b71aa0357dff293_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;先测量出某个点到抛出点的水平位移 X，竖直方向位移 y&lt;/p&gt;
+&lt;p&gt;解题过程（详细过程见思维导图）：&lt;/p&gt;
+&lt;p&gt;**计算时间：**根据自由落体竖直方向的位移公式，代入 y，求出 t。&lt;/p&gt;
+&lt;p&gt;**计算初速度：**根据 X=Vt，代入 X 与 t，求出 V。&lt;/p&gt;
+&lt;p&gt;就是这么简单。&lt;/p&gt;
+&lt;p&gt;所以，出题老师觉得多准备几个陷阱&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;我就知道出题老师不会这么安分&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-5f352efa7afd5492db44380ce5ab8452_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;32无抛出点&#34;&gt;&lt;strong&gt;3.2无抛出点&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;于是出题老师在轨迹中随便挖了一部分，搞出了个升级版。就如下面红色框框里面这货：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-adb4d61b93d8219a989ebc58ce54f125_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这下，计算时间的时候，你就不能够再用自由落体的位移公式了。&lt;/p&gt;
+&lt;p&gt;你得用到逐差公式：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-964c52487d69726ba59c86809b0e5b95_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;解题的过程就是（详细流程见思维导图）：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1、根据逐差公式计算出时间&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、根据 X=Vt 计算初速度。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-d39532c3e94f4ffea29ffae213183b72_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;如图为某小球做平抛运动时，用闪光照相的方法获得的相片的一部分, 图中背景方格的边长为 5cm，g=10m/s2，求&lt;/p&gt;
+&lt;p&gt;小球平抛的初速度 v。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1、画轨迹图：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-877692cbaa4a0a40019ff4e26b2f0851_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、判断时间间隔是否相等：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;根据两个水平方向上的位移相等，可以判断间隔时间相等（依据匀速直线运动判断）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、列式计算：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-a0e166bc8ff5bad04268ed094722747e_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;4参考&#34;&gt;4.参考
+&lt;/h1&gt;&lt;p&gt;1.本文章选自知乎专栏《小心！平抛运动实验的这些陷阱！丨高中物理》&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/34604560&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        (查看原文)
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+，若侵犯版权，请联系站长删除。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

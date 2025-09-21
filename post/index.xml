@@ -7,7 +7,1711 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>小老虎s</copyright>
-        <lastBuildDate>Sun, 21 Sep 2025 14:11:47 +0800</lastBuildDate><atom:link href="https://xiaolaohus.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 21 Sep 2025 23:51:39 +0800</lastBuildDate><atom:link href="https://xiaolaohus.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>选必三最后两章总结丨高中物理</title>
+        <link>https://xiaolaohus.github.io/p/%E9%80%89%E5%BF%85%E4%B8%89%E6%9C%80%E5%90%8E%E4%B8%A4%E7%AB%A0%E6%80%BB%E7%BB%93%E4%B8%A8%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86/</link>
+        <pubDate>Sat, 31 May 2025 18:00:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E9%80%89%E5%BF%85%E4%B8%89%E6%9C%80%E5%90%8E%E4%B8%A4%E7%AB%A0%E6%80%BB%E7%BB%93%E4%B8%A8%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86/</guid>
+        <description>&lt;h1 id=&#34;第四章-原子结构和波粒二象性&#34;&gt;第四章 原子结构和波粒二象性
+&lt;/h1&gt;&lt;h2 id=&#34;1普朗克黑体辐射理论&#34;&gt;1.普朗克黑体辐射理论
+&lt;/h2&gt;&lt;h3 id=&#34;黑体与黑体辐射&#34;&gt;黑体与黑体辐射
+&lt;/h3&gt;&lt;p&gt;热辐射：热能→电磁能&lt;/p&gt;
+&lt;p&gt;某种物体能够 完全吸收入射的各种波长的电磁波而不发生反射，这种物体就是绝对黑体，简称&lt;strong&gt;黑体&lt;/strong&gt;（绝对黑体是一种理想模型）&lt;/p&gt;
+&lt;p&gt;黑体虽然不反射电磁波，却可以向外辐射电磁波，这样的辐射叫作&lt;strong&gt;黑体辐射&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意：黑体不一定是黑色的（如太阳，白炽灯灯丝）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一般材料的物体辐射影响因素：&lt;strong&gt;温度，材料类型，表面状况&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;黑体辐射的实验规律&#34;&gt;黑体辐射的实验规律
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;随着温度的升高，一方面，各种波长的辐射强度都有增加，另一方面，辐射强度的极大值向波长较短的方向移动&lt;/strong&gt;，如下图&lt;/p&gt;
+&lt;img src=&#34;E:\MyBlog\hexo-theme-Fomalhaut-main\source\assets\posts\phy\1.png&#34; alt=&#34;1&#34; style=&#34;zoom: 50%;&#34; /&gt;
+&lt;h3 id=&#34;能量子&#34;&gt;能量子
+&lt;/h3&gt;&lt;p&gt;不可再分的最小能量值 ε 叫作&lt;strong&gt;能量子&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;表达式为 $ ε＝h\nu$&lt;/p&gt;
+&lt;p&gt;$\nu$是带电微粒的振动频率  h是普朗克常量， 其值为  &lt;/p&gt;
+$$h ＝ 6.626 070 15×10^{-34}  J·s$$&lt;p&gt;微观世界中的能量：不连续，量子化&lt;/p&gt;
+&lt;h2 id=&#34;2光电效应&#34;&gt;2.光电效应
+&lt;/h2&gt;&lt;p&gt;照射到金属表面的光，能使金属中的电子从表面逸出。 这个现象称为&lt;strong&gt;光电效应&lt;/strong&gt; ，这种电子常称为光电子&lt;/p&gt;
+&lt;h3 id=&#34;光电效应的实验规律&#34;&gt;光电效应的实验规律
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;E:\MyBlog\hexo-theme-Fomalhaut-main\source\assets\posts\phy\2.png&#34; style=&#34;zoom:50%;&#34; /&gt;&lt;img src=&#34;E:\MyBlog\hexo-theme-Fomalhaut-main\source\assets\posts\phy\3.png&#34; style=&#34;zoom:50%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;光电效应存在以下四条性质&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;①存在截止频率&lt;/strong&gt; 当入射光的频率减小到某一数值 $\nu_{c}$ 时， 光电流消失，这表明已经没有光电子了。&lt;/p&gt;
+$$ \nu_{c} $$&lt;p&gt; 称为&lt;strong&gt;截止频率&lt;/strong&gt;。当入射光的频 率低于截止频率时不发生光电效应&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;②存在饱和电流&lt;/strong&gt; 在光照条件不变的情况下，随着所加电压的增大，光电流趋于一个饱和值。（如图4.2-2）$I=\frac{ne}{t} ∝光强$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;③存在遏止电压&lt;/strong&gt; 如果施加反向电压，在光电管两极间形成使电子减速的电场，电流有可能为0。使光电流减小到0的反向电压$U_{c} $称为遏止电压。初速度的上限&lt;/p&gt;
+$$ v_{c} $$&lt;p&gt;​ 应该满足以下关系
+&lt;/p&gt;
+$$
+\frac{1}{2} m_{e} v_{c} ^{2} ＝eU_{c} \qquad  U_{c} =\frac{E_{k} }{e}
+$$&lt;p&gt;
+&lt;strong&gt;④光电效应具有瞬时性&lt;/strong&gt; 当频率超过截止频率&lt;/p&gt;
+$$ v_{c} $$&lt;p&gt;时，无论入射光怎样微弱，照到金属时会立即产生光电流。&lt;/p&gt;
+&lt;p&gt;存在截止频率，存在遏止电压，具有瞬时性与光强无关&lt;/p&gt;
+&lt;h3 id=&#34;光电效应经典解释中的疑难&#34;&gt;光电效应经典解释中的疑难
+&lt;/h3&gt;&lt;p&gt;要使电子脱离某种金属，需要外界对它做功，做功的最小值叫作这种金属的逸出功，用$W_{0} $表示。&lt;/p&gt;
+&lt;h3 id=&#34;爱因斯坦的光电效应理论&#34;&gt;爱因斯坦的光电效应理论
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;光子说&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;①假定电磁波本身的能量是不连续的，即认为光本身就是由一个个不可分割的能量子组成的&lt;/p&gt;
+&lt;p&gt;②金属中一个电子只能吸收一个光子，不计积累能量时间&lt;/p&gt;
+&lt;p&gt;③光电子有最大初动能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;爱因斯坦光电效应方程&lt;/strong&gt;   $E_{k}  ＝ hv－W_{0}   $&lt;/p&gt;
+&lt;p&gt;式中$E_{k}  $为光电子的最大初动能  $ E_{k} ＝ \frac{1}{2} m_{e} v_{c} ^{2} $&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;E:\MyBlog\hexo-theme-Fomalhaut-main\source\assets\posts\phy\4.png&#34; style=&#34;zoom:33%;&#34; /&gt;&lt;img src=&#34;E:\MyBlog\hexo-theme-Fomalhaut-main\source\assets\posts\phy\5.png&#34; style=&#34;zoom: 33%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这个方程表明，只有当$h\nu &amp;gt; W_{0}  $时，光电子才可以从金属中逸出，$\nu_{c} =\frac{W_{0} }{h} $就是光电效应的&lt;strong&gt;截止频率&lt;/strong&gt;（图4.2-4）&lt;/p&gt;
+&lt;p&gt;其中与$y$轴交点为$-W_{0}$&lt;/p&gt;
+&lt;p&gt;利用光电子的初动能 $E_{k} =eU_{c} $ 和爱因斯坦光电效应方程 $E_{k}  ＝ hv－W_{0}   $，  可以消去$E_{k}$，从而得到$U_{c}$与$v$、$W_{0}$关系，即
+&lt;/p&gt;
+$$
+U_{c} =\frac{h}{e} \nu-\frac{W0}{e}
+$$&lt;p&gt;
+对于确定的金属，其逸出功$W_{0}$是确定的，电子电荷$e $和普朗克常量$h$都是常量。上式中的遏止电压$U_{c}$与光的频率$v $是线性关系，$U_{c} -v$图像是一条斜率为$\frac{h}{e} $的直线&lt;/p&gt;
+&lt;p&gt;必备常量数值：$e=1.6\times 10^{-19}C $     $h=6.63\times 10^{-34}$    $c=3\times 10^{8}m/s$&lt;/p&gt;
+&lt;h3 id=&#34;康普顿效应&#34;&gt;康普顿效应
+&lt;/h3&gt;$$
+p=\frac{h}{\lambda }
+$$&lt;h3 id=&#34;光具有波粒二象性&#34;&gt;光具有波粒二象性
+&lt;/h3&gt;&lt;h2 id=&#34;3原子的核式结构模型&#34;&gt;3.原子的核式结构模型
+&lt;/h2&gt;&lt;p&gt;在研究稀薄气体放电时发现，当玻璃管内的气体足够稀薄时，阴极就发出一种射线。 它能使对着阴极的玻璃管壁发出荧光，这种射线称为&lt;strong&gt;阴极射线&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;电子的发现&#34;&gt;电子的发现
+&lt;/h3&gt;&lt;p&gt;J. J.汤姆孙发现组成阴极射线的粒子被称为&lt;strong&gt;电子&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;电子电荷的精确测定由密立根通过著名的“油滴实验”做出的。目前公认的电子电荷e的值为
+&lt;/p&gt;
+$$
+e ＝ 1.602 176 634 ×  10^{-19} C
+$$&lt;p&gt;
+密立根实验更重要的发现是：电荷是量子化的，即任何带电体的电荷只能是$ e$ 的整数倍。从实验测到的比荷及 $ e$ 的数值，可以确定电子的质量。现在人们普遍认为电子的质量为
+&lt;/p&gt;
+$$
+m_{e}  ＝ 9.109 383 56 × 10^{-31} kg
+$$&lt;p&gt;
+质子质量与电子质量的比值为
+&lt;/p&gt;
+$$
+\frac{m_{p} }{m_{e} } =1836
+$$&lt;p&gt;
+证明原子可以再分&lt;/p&gt;
+&lt;h3 id=&#34;原子的核式结构模型&#34;&gt;原子的核式结构模型
+&lt;/h3&gt;&lt;p&gt;J. J.汤姆孙→“西瓜模型”或“枣糕模型”&lt;/p&gt;
+&lt;p&gt;卢瑟福→核式结构模型&lt;/p&gt;
+&lt;p&gt;$\alpha $粒子散射实验（卢瑟福）&lt;/p&gt;
+&lt;p&gt;条件：在真空中&lt;/p&gt;
+&lt;p&gt;现象：&lt;/p&gt;
+&lt;p&gt;①绝大多数$\alpha $粒子运动方向基本不变&lt;/p&gt;
+&lt;p&gt;②少数$\alpha $粒子发生大角度偏转&lt;/p&gt;
+&lt;p&gt;③极少数$\alpha $粒子被反向弹回&lt;/p&gt;
+&lt;h3 id=&#34;原子核的电荷与尺度&#34;&gt;原子核的电荷与尺度
+&lt;/h3&gt;&lt;p&gt;对于一般的原子核，实验确定的核半径的数量级为$10^{-15} $m，而整个原子半径的数量级是$10^{-10} $m&lt;/p&gt;
+&lt;p&gt;质子+中子=核子=质量数&lt;/p&gt;
+&lt;p&gt;电荷数=质子数&lt;/p&gt;
+&lt;h2 id=&#34;4氢原子光谱和玻尔的原子模型&#34;&gt;4.氢原子光谱和玻尔的原子模型
+&lt;/h2&gt;&lt;h3 id=&#34;光谱&#34;&gt;光谱
+&lt;/h3&gt;&lt;p&gt;用棱镜或光栅可以把物质发出的光按波长（频率）展开，获得波长（频率）和强度分布的记录即&lt;strong&gt;光谱&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;有些光谱是一条条的亮线，叫作谱线，这样的光谱叫作&lt;strong&gt;线状谱&lt;/strong&gt;。有的光谱看起来不是一条条分立的谱线，而是连在一起的光带，叫作&lt;strong&gt;连续谱&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;在线状谱上的亮线，在吸收光谱上的暗线 都是&lt;strong&gt;特征谱线&lt;/strong&gt; 都可以进行&lt;strong&gt;光谱分析&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;连续谱：炽热的固体，液体，高压气体&lt;/p&gt;
+&lt;p&gt;线状谱：稀薄气体，金属蒸汽发光&lt;/p&gt;
+&lt;p&gt;吸收光谱：白光通过温度较低的气体后形成的&lt;/p&gt;
+&lt;p&gt;作用：①鉴别物质和确定物质的组成成分   ②发现新的元素&lt;/p&gt;
+&lt;h3 id=&#34;氢原子光谱的实验规律&#34;&gt;氢原子光谱的实验规律
+&lt;/h3&gt;&lt;p&gt;巴耳末公式
+&lt;/p&gt;
+$$
+\frac{1}{\lambda}=R_{\infty}\left(\frac{1}{2^{2}}-\frac{1}{n^{2}}\right) \quad n=3,4,5, \cdots
+$$&lt;p&gt;
+里德伯常量$R_{\infty } =1.10\times 10^{7} m^{-1} $&lt;/p&gt;
+&lt;p&gt;$n=3$时氢原子光谱的巴耳末系中波长最长的光波&lt;/p&gt;
+&lt;p&gt;通式
+&lt;/p&gt;
+$$
+\frac{1}{\lambda}=\frac{-E_{1} }{hc} \left(\frac{1}{m^{2}}-\frac{1}{n^{2}}\right) \quad n=3,4,5, \cdots
+$$&lt;h3 id=&#34;经典理论的困难&#34;&gt;经典理论的困难
+&lt;/h3&gt;&lt;p&gt;无法解释原子稳定性&lt;/p&gt;
+&lt;p&gt;无法解释原子光谱分立的特征&lt;/p&gt;
+&lt;h3 id=&#34;玻尔原子理论的基本假设&#34;&gt;玻尔原子理论的基本假设
+&lt;/h3&gt;&lt;p&gt;轨道量子化：$r_{n} =n^{2} r_{1} \quad n=1,2,3\cdots$&lt;/p&gt;
+&lt;p&gt;能级量子化：电子在这些轨道上绕核的运动是稳定的，不产生电磁辐射&lt;/p&gt;
+&lt;p&gt;这些量子化的能量值叫作&lt;strong&gt;能级&lt;/strong&gt;。原子中这些具有确定能量的稳定状态，称为&lt;strong&gt;定态&lt;/strong&gt;。能量最低的状态叫作&lt;strong&gt;基态&lt;/strong&gt;（离核最近的轨道状态），其他的状态叫作&lt;strong&gt;激发态&lt;/strong&gt;。$E_{n} =\frac{1}{n^{2}}  E_{1} \quad n=1,2,3\cdots$&lt;/p&gt;
+&lt;p&gt;玻尔假定：当电子从能量较高的定态轨道（其能量记为$E_{n} $）跃迁到能量较低的定态轨道（能量记为$E_{m} $） 光子的能量由前后两个能级的能量差决定，即$hv =E_{n} -E_{m} $&lt;/p&gt;
+&lt;p&gt;原子的能量$E_{n} =E_{k} +E_{p电} $&lt;/p&gt;
+&lt;p&gt;电子轨迹半径增大：&lt;/p&gt;
+&lt;p&gt;①电子动能$E_{k}$&lt;/p&gt;
+&lt;p&gt;②系统电势能$E_{p}$&lt;/p&gt;
+&lt;p&gt;③原子能量&lt;/p&gt;
+&lt;h3 id=&#34;玻尔理论对氢光谱的解释&#34;&gt;玻尔理论对氢光谱的解释
+&lt;/h3&gt;&lt;img src=&#34;E:\MyBlog\hexo-theme-Fomalhaut-main\source\assets\posts\phy\6.png&#34; style=&#34;zoom: 33%;&#34; /&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;横线&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;定态&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;左边数字&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;能级量子化&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;右边数字&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;能级对应能量&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;横线间距&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;能量差值&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;①自发跃迁 E高→放出光子→E低&lt;/p&gt;
+&lt;p&gt;一群氢原子处在量子数为$n$的激发态&lt;/p&gt;
+&lt;p&gt;跃迁光谱线条数：$N=\frac{n(n-1)}{2}\quad C_{n}^{2} $&lt;/p&gt;
+&lt;p&gt;一搁氢原子处在量子数为$n$的激发态&lt;/p&gt;
+&lt;p&gt;跃迁光谱线条数：$N&amp;rsquo;=n-1$&lt;/p&gt;
+&lt;p&gt;②受激跃迁 E低→吸收光子→E高&lt;/p&gt;
+&lt;p&gt;光照 $hv=E_{高} -E_{低} $&lt;/p&gt;
+&lt;p&gt;碰撞，加热 $E_{k} \ge E_{高} -E_{低} $&lt;/p&gt;
+&lt;p&gt;当电子轨道$r→\infty $，原子失去电子，称为电离&lt;/p&gt;
+&lt;p&gt;不同状态的氢原子电离能 $E=-E_{n} $&lt;/p&gt;
+&lt;p&gt;光照 $hv=-E_{n}$&lt;/p&gt;
+&lt;p&gt;碰撞，加热 $E_{k} \ge -E_{n}$&lt;/p&gt;
+&lt;h3 id=&#34;玻尔理论的局限性&#34;&gt;玻尔理论的局限性
+&lt;/h3&gt;&lt;p&gt;玻尔的原子理论第一次将量子观念引入原子领域，提出了定态和跃迁的概念。&lt;/p&gt;
+&lt;p&gt;玻尔理论的不足之处在于保留了经典粒子的观念，仍然把电子的运动看作经典力学描述下的轨道运动。&lt;/p&gt;
+&lt;h2 id=&#34;5粒子的波动性和量子力学的建立&#34;&gt;5.粒子的波动性和量子力学的建立
+&lt;/h2&gt;&lt;h3 id=&#34;粒子的波动性&#34;&gt;粒子的波动性
+&lt;/h3&gt;&lt;p&gt;电磁波：$\nu\cdot \lambda =c$&lt;/p&gt;
+&lt;p&gt;物质波：$\nu\cdot \lambda =\frac{c^{2} }{\lambda } $&lt;/p&gt;
+&lt;p&gt;实物粒子：&lt;/p&gt;
+&lt;p&gt;能量：$mc^{2} $&lt;/p&gt;
+&lt;p&gt;动量：$mv$&lt;/p&gt;
+&lt;p&gt;德布罗意波：&lt;/p&gt;
+&lt;p&gt;$\nu=\frac{ε}{h} \quad \lambda =\frac{h}{p} $&lt;/p&gt;
+&lt;p&gt;$\lambda$越高，$p$越低，波动性越强，粒子性越弱&lt;/p&gt;
+&lt;p&gt;$\lambda$越低，$p$越高，波动性越弱，粒子性越强&lt;/p&gt;
+&lt;h3 id=&#34;物质波的实验验证&#34;&gt;物质波的实验验证
+&lt;/h3&gt;&lt;p&gt;1927年戴维森和G. P. 汤姆孙分别用单晶和多晶晶体做了电子束衍射的实验，得到了衍射图样，从而证实了电子的波动性。&lt;/p&gt;
+&lt;p&gt;物质波波速&lt;/p&gt;
+&lt;p&gt;相速：相位传递速度$\nu v=c^{2} $&lt;/p&gt;
+&lt;p&gt;群速：能量，信息传递速度&lt;/p&gt;
+&lt;p&gt;德布罗意提出物质波的观念被实验证实，表明电子、 质子、原子等粒子不但具有粒子的性质，而且具有波动的 性质。换句话说，它们和光一样，也具有波粒二象性。&lt;/p&gt;
+&lt;p&gt;$\lambda $越小，分辨率越高&lt;/p&gt;
+&lt;p&gt;衍射发生条件$\lambda \ge d$&lt;/p&gt;
+&lt;p&gt;质子分辨率高&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote class=&#34;alert alert-note&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;（未完待续）&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id=&#34;第五章-原子核&#34;&gt;第五章 原子核
+&lt;/h1&gt;&lt;h2 id=&#34;1原子核的组成&#34;&gt;1.原子核的组成
+&lt;/h2&gt;&lt;h2 id=&#34;2放射性元素的衰变&#34;&gt;2.放射性元素的衰变
+&lt;/h2&gt;&lt;h2 id=&#34;3核力与结合能&#34;&gt;3.核力与结合能
+&lt;/h2&gt;&lt;h2 id=&#34;4核裂变与核聚变&#34;&gt;4.核裂变与核聚变
+&lt;/h2&gt;&lt;h2 id=&#34;5基本粒子&#34;&gt;5.“基本”粒子
+&lt;/h2&gt;</description>
+        </item>
+        <item>
+        <title>羟基爽文接力（第二届）</title>
+        <link>https://xiaolaohus.github.io/p/%E7%BE%9F%E5%9F%BA%E7%88%BD%E6%96%87%E6%8E%A5%E5%8A%9B%E7%AC%AC%E4%BA%8C%E5%B1%8A/</link>
+        <pubDate>Tue, 28 Jan 2025 18:00:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E7%BE%9F%E5%9F%BA%E7%88%BD%E6%96%87%E6%8E%A5%E5%8A%9B%E7%AC%AC%E4%BA%8C%E5%B1%8A/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://xiaolaohus.s3.bitiful.net/zhenwen.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;前言&#34;&gt;前言
+&lt;/h1&gt;&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/phy/1.jpg&#34; alt=&#34;示例图像&#34; style=&#34;zoom:100%&#34; /&gt;
+&lt;p&gt;秉承着集思广益，让大家能够在高压的生活中找到快乐的源泉的思想，我们延续了上一届的爽文接力赛，并吸取了其中的教训，开办了第二届爽文接力赛，收集各地的优秀作品。&lt;/p&gt;
+&lt;p&gt;本次活动的主办方为大不列颠尼亚·东升，悬赏金额与上一届相同，仍是0.5$，为的是让大家更加拥有创作的动力，并且嘉奖优秀的创作者。通过本次活动，我们还会努力发掘并培养新星作家，提升大家的创作能力。&lt;/p&gt;
+&lt;p&gt;本届故事的开头相当于是第一届的故事的外传，以柯基坠机成为科基为开头，讲述了柯基在穿越世界的故事。&lt;/p&gt;
+&lt;p&gt;最后，希望大家能够在此次大赛中大放异彩！&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;&lt;strong&gt;第二届爽文接力赛创办委员会&lt;/strong&gt;&lt;/p&gt;
+___
+&lt;h1 id=&#34;正文&#34;&gt;正文
+&lt;/h1&gt;&lt;h2 id=&#34;引子catxr鷄国金丝侯&#34;&gt;引子（CatXR&amp;amp;鷄国金丝侯）
+&lt;/h2&gt;&lt;p&gt;​		话说这狗头大将军科基败走，所乘之云也未能将他托起，使他于3米高空落下。然而，似是上天眷顾，科基没有就此饮恨西北，却逢机遇，来到了一个新的世界。&lt;/p&gt;
+&lt;p&gt;​		科基睁开双眼，映入眼帘的不是坠机时的高楼大厦，而是一望无际的原野。&lt;/p&gt;
+&lt;p&gt;​		“我滴个亲娘嘞，这给俺干哪儿来了？”&lt;/p&gt;
+&lt;p&gt;​		科基艰难地想要站起身，但是脚上传来剧烈的疼痛。正当他不知所措时，路上走来一汉子。那汉子上身穿着半边衣服露出胳臂健硕的muscle；肩上挑着扁担，筐中满是雪白的鹅毛。汉子看到瘫坐在地的科基，问道：“How are you?”&lt;/p&gt;
+&lt;p&gt;​		科基差点反射性地回答“I’m fine,thank you”,他觉得奇怪，于是一言不发。那汉子也觉得奇怪，又说：“恁咋了？”&lt;/p&gt;
+&lt;p&gt;​		这下听懂了！科基忙说：“我的脚伤了走不了路了。”那汉子似是松了一口气，回道：“我来助你！”&lt;/p&gt;
+&lt;p&gt;​		那汉子将科基搀扶起来，问科基从哪里来，要到哪里去。科基不熟悉这里的环境只得先问：“这里是哪里？现在是什么时代？”&lt;/p&gt;
+&lt;p&gt;​		汉子听到这话，吃了一惊：“恁这不是伤了脚，怕是坏了脑！这里是楠国南郡，现在是神武十五年啊！”&lt;/p&gt;
+&lt;h2 id=&#34;第一章-壮汉子败走华容道-狗将军初试云雨情大不列颠尼亚东升&#34;&gt;第一章 壮汉子败走华容道 狗将军初试云雨情（大不列颠尼亚·东升）
+&lt;/h2&gt;&lt;p&gt;​		“异世界穿越？”柯基倒吸一口热气，窃喜，想：“这好事也轮到我头上了。”拍拍那汉子的肩，抓了搓鹅毛，问“带我去冒险者协会吧！”&lt;/p&gt;
+&lt;p&gt;​		那汉子一愣，倒吸一口凉气，“你说的是修仙大道观吧，那边的华容道正举行天下第一武道会。”&lt;/p&gt;
+&lt;p&gt;​		说时迟那时快，汉子已把狗将军带进道观中华容道。擂台上，一个2.5米高的大公鸡屹立不倒，与人争斗。“浑红的鸡冠又肥又大，这是最强鸡灵根的表现。”那汉子一边吃雪日鹅毛一边解说，“这是最强修仙者云雨情。”&lt;/p&gt;
+&lt;p&gt;​		擂台前，正是楠国国王楠王七世，正进行观赏比赛并进行选拔人才重要仪式。“看见楠王不知道舔楠王的脚，不知道楠国的礼仪吗？”那大鸡冠望向那边汉子，叫过来教训他，叫至擂台。&lt;/p&gt;
+&lt;p&gt;​		只看那汉子三分谄媚二分从容不迫五分想舔玉足。说时迟那时快，那汉子刚因为舔玉足违反了法律，被退败。&lt;/p&gt;
+&lt;p&gt;​		“下一个就是你。”云雨情指向狗将军。谁知柯基刚露出玉足，云雨情便按捺不住了。说时迟那时快，狗将军直接斩下自己的双脚丢向楠王，云雨情直接飞扑向那双脚。&lt;/p&gt;
+&lt;h2 id=&#34;第二章-道观乍现万毒体-毒计乍现楠王心鷄国大将军&#34;&gt;第二章 道观乍现万毒体 毒计乍现楠王心（鷄国大将军）
+&lt;/h2&gt;&lt;p&gt;​		楠王七世身为一国之主，自然有修为傍身，随手拍飞那双飞来的脚。云雨情突然看见楠王七世那看变态的表情也意识到自己奇怪的XP被发现了，为了不显尴尬，他决心……不顾颜面地向玉足飞去。谁知刚刚碰到那双脚，流出的血液中的新冠、非典、流感、艾滋一众病毒蜂拥而上，霎时间，云雨情瘫倒在地，不省人事。&lt;/p&gt;
+&lt;p&gt;​		“***&lt;em&gt;，你&lt;/em&gt; *是万毒圣体！？”身边的大汉急忙退了一步，庆幸着刚才搀扶科基时没有肢体接触。&lt;/p&gt;
+&lt;p&gt;​		“我不到啊……”科基也疑惑地抓抓头，虽然自己有艾滋伴身，但也不至于这么夸张吧？于是在众目睽睽之下，他看了看云雨情的症状：发烧烧死的，还热乎呢。这才明白，合着那万毒圣体就是他那一身的抗原啊！还以为修仙能治艾滋呢！&lt;/p&gt;
+&lt;p&gt;​		楠王七世十分清楚万毒圣体的天赋，直接高喊：“来人啊，给这位小兄弟把脚接上！”其身后一位老道戴上手套，将科基的双脚接了回去。&lt;/p&gt;
+&lt;p&gt;​		期间，楠王一直给科基画着大饼，金钱、地位、豪宅、美人，鹅，美人先不算，毕竟也没人受得住万毒圣体，除非科基是个秒男！&lt;/p&gt;
+&lt;p&gt;​		然后呢，在心中，楠王盘算着：只要我给科基做个变性手术，再打扮好看点儿给狄国的翟王送去，这狄国不就完了吗？&lt;/p&gt;
+&lt;h2 id=&#34;第三章-千古江山单负美人泪-万里宏图一展雄主心王太师&#34;&gt;第三章 千古江山单负美人泪 万里宏图一展雄主心（王太师）
+&lt;/h2&gt;&lt;p&gt;​		话说这柯基也是被楠王的话语劝得神魂颠倒莫名其妙地就被推进了手术室。等柯基出来发现自己永远失去了自己的好兄弟后失声痛哭，躲在角落里暗自神伤了许久。突然，他想起了楠王的大饼承诺。于是他停止play with himself，飞身下床奔向楠国皇宫。&lt;/p&gt;
+&lt;p&gt;​		看着面前这个哭得梨花带雨的“美人”楠王疑惑了一阵：自己后宫明明没有此号人呀？当然，这并不阻碍他接受面前女人的投怀送抱。&lt;/p&gt;
+&lt;p&gt;​		他揉了揉怀中美人的脸，问道：“受什么委屈啦？”&lt;/p&gt;
+&lt;p&gt;​		只见她抬起了一张熟悉的脸：“南极霸，你说好的财富、地位和美人呢？”&lt;/p&gt;
+&lt;p&gt;​		楠王沉默了一会。突然，一道极为磅礴的真气从楠王身上溢出，将柯基姬推开十米有余。紧接着，楠王动用了自己所能掌握的全部国运扫荡自己身体的每一个角落。待确认自己寿元只减少了十年后劫后余生的楠王以最快的速度将柯基发配到狄国国都去享受狄国皇宫之地、贵妃之位与国库之财。&lt;/p&gt;
+&lt;p&gt;​		当然，还有翟王这位美男子。&lt;/p&gt;
+&lt;p&gt;​		当晚，楠王走入楠国太庙，向六位先皇一拜，道：“翟王将崩。待狄国动乱，朕御驾出征，必将狄国一举拿下！还请各位老祖放心。到时，我必能成为第二个楠中宗。等三天后我毒发身亡，就让下任楠王给我加个楠中二宗吧！”&lt;/p&gt;
+&lt;p&gt;​		皇陵中，一只枯骨般的手从楠王六世的坟中伸出，比了个中指，又缩了回去。&lt;/p&gt;
+&lt;h2 id=&#34;第四章-阿干巧施掉包计-翟王无奈迎新妃鷄王詹纽斯&#34;&gt;第四章 阿干巧施掉包计 翟王无奈迎新妃（鷄王&amp;amp;詹纽斯）
+&lt;/h2&gt;&lt;p&gt;​		故事的主角又回到柯基，话说柯基被楠王发派到狄国国都，适逢翟王选妃，此次选妃主持者乃管国公。他巡视一圈，不过些庸俗货色。突然一个背影吸引了他的注意，那人一回眸，管长一整个亚麻呆住了。在抢救了1h后管国公从急救室醒来，着急忙慌的把两位候选人带进了宫中。一个是柯基，另一个就是狄国第一美人儿——阿干。&lt;/p&gt;
+&lt;p&gt;​		“嘿嘿，嘿嘿！”翟王看着两位娇滴滴的美人站在他面前，身份地位也顾不得了，直接使用法术将二人摄进了寝宫。“哈哈，让哥哥看看你们活好不好！”翟王边说边脱去所有人的衣服。3min后狄克顶着一张毫无血色的脸大口喘息着。“Shit！已经60次了！这两货怎么还一脸意犹未尽啊！看来只能用那招了！飞天大焯！！！”片刻后，柯基与阿干倒在狄克身边浑身颤抖。阿干爬到狄克身边紧紧抱住心想这么优秀的男人，我一定要得到！&lt;/p&gt;
+&lt;p&gt;​		初次品鉴之后，狄克万毒之体更进一步。“怎么回事，难道是她？”色眯眯的想了半个时辰后翟王一挥手。“来人呐！给我传下去，本王要纳柯基为妃！”&lt;/p&gt;
+&lt;p&gt;​		知道这个消息后，阿干独自一人跑到了深秘的皇宫的角落里，哭的那叫一个梨花带雨，望着那幽幽不盈之间，她兀自叹道：“我这一生蝇营狗苟，如履薄冰，却落得了如此下场……苍天呐，这是为何啊！玩弄得奴家好生悲凄呀！”晚风拂过阿干的面膀，呗起了她那被泪水打湿的云鬓，染上了几缕寒霜。忽的，她又转念一想：若许，此生，只有他才是值得托付的人吧……&lt;/p&gt;
+&lt;p&gt;​		好巧不巧，这一幕，恰恰被潜伏在狄国皇宫的王牢师给看到了，他看着柔弱可怜的阿干，不禁吟道；“……扁羽若惊鸿，婉若游龙……哈哈，不错，以后这诗就叫《洛神赋》吧！哈哈哈……”王牢师得意地笑了起来，因为对自己的诗作很满意，他笑的很大声。结果吵醒了熟睡中的狄皇，叫人把这刁民给抓了起来。&lt;/p&gt;
+&lt;h2 id=&#34;第五章-战辣椒双少联手-克冻糕谭金收徒恺毓大帝&#34;&gt;第五章 战辣椒双少联手 克冻糕谭金收徒（恺毓大帝）
+&lt;/h2&gt;&lt;p&gt;​		自楠王送狄王祸水之后，狄国日益衰败，朝政混乱，民不聊生。幸得前代狄神宗留下文武双臂：文臂谭金，武臂四少，镇守内外，力争不失其鹿。&lt;/p&gt;
+&lt;p&gt;​		话说那谭金，身高八尺，面如冠玉，雄资英发，羽扇纶巾，兼上知天文，下知地理，实乃天下第一文人。他见皇帝昏庸，自知虽然年仅五十，但鞠躬尽瘁，已时日无多，便决心灭了这楠朝，以稳固局势，延一时国祚。亲率二万重甲，一万轻骑并五万精卒，外称二十万，与铜锌少,龟头少一齐发兵楠朝。&lt;/p&gt;
+&lt;p&gt;​		且说大军直补冻糕郡，那冻糕太守，乃楠朝第一大俊才，唤作辣椒。他听闻谭金亲率大军，冷笑道：“我道是谁，原只是行将就木的枯槁老儿，这次定叫他有来无回。”便叫手下坚壁清野，自己亲率五千锐卒驻扎于冻糕城外致远山上。&lt;/p&gt;
+&lt;p&gt;​		狄军抵至冻糕城下，谭金见那山林偶有阵鸟飞出，情知已有埋伏，却装作不知，仍命铜锌少攻城，却嘱附他：“只得假意攻城，声势浩大，却不许你发力。”铜锌少允诺。又唤来龟头少，密密吩咐了一番。&lt;/p&gt;
+&lt;p&gt;​		铜锌少假意攻城三天，声势虽大却并无多少伤亡。第三天傍晚，正鸣金收关，却听一声炮响，一支步兵从山上杀下，杀声震天。铜锌早有准备，率须亲兵上前并怒吼：“退半步者斩。”手刃三五人后，士卒无奈，死命向前。&lt;/p&gt;
+&lt;p&gt;​		原本空无一人的营房，却多出许多伏兵；龟头少亲率大军，从背后掩杀过来，辣椒又虽勇猛，无奈两边夹击，军队大溃。只得在亲卫土豆，地蛋的护卫下，杀出重围，欲渡连云港向楠国去。&lt;/p&gt;
+&lt;p&gt;​		行至河畔，未见有船，却听一声呐喊。谭金坐在轮椅上，手扇羽扇，恬似神仙：“辣椒,你可愿障。”又补充道：“你的老母我已接来，勿用挂念。”辣椒无奈，倒头便拜，降服当场。&lt;/p&gt;
+&lt;p&gt;​		谭金大喜，见此人神丰骨茂，气血凝实，知他是奇才，便起了爱才之心，问道：“你可愿拜我为师。”辣椒又一惊，本欲拒绝，但一想此人有经天纬地之能，只得答应下来。&lt;/p&gt;
+&lt;p&gt;​		辣椒降服后，骗开冻糕城，大军入驻。休整一日，当晚，辣椒私来见谭金：“师傅，我有一妙计。”“速速说来。”“当今圣上无道，您不扶大胜之威，兼文首威名，挥师回狄，杀狗皇帝，立新圣临天。”&lt;/p&gt;
+&lt;p&gt;​		谭金一听，虽有意动，但他又是一等一的忠臣，却是沉吟起来。&lt;/p&gt;
+&lt;p&gt;​		谭金是答应还是没答应，欲知后事如何，且听下回分解。&lt;/p&gt;
+&lt;h2 id=&#34;第六章-出奇策铜锌破阵-献阴计逊德谋逆辣椒&#34;&gt;第六章 出奇策铜锌破阵 献阴计逊德谋逆（辣椒）
+&lt;/h2&gt;&lt;p&gt;​		书接上回，那谭金思索半晌，猛得抬头，拔剑出鞘，指向秋国：“好！且看老夫取狄国君首，称霸四海！”遂令手下铜锌少率一万精锐进攻狄国重镇——英雨城。自己则召集人马，稍后便行。&lt;/p&gt;
+&lt;p&gt;​		英雨城闻之大乱。守城长官粥文姬亦是无策，却听得手下一人出列，称有妙计。文姬大喜，定睛一看，是九品小官理建。理建摘下官帽，露出头顶，道：“吾首无发久矣，今已光滑至极，虽三体人水滴莫能比。待敌军之至，吾用头反射，借太阳光破敌。”众人闻之大喜，自以为忘枕无忧。&lt;/p&gt;
+&lt;p&gt;​		几日后，铜锌少率大军至英雨城下。却见城下只一人，周围有几面大镜。铜锌一看，竟是自己前日恩师理建。理建早瞧之，大笑不止：“铜锌小儿，拿命来！”帽子一摘，天地无光，借镜面、理建头顶反射，直入军士眼中，阵脚大乱。铜锌不慌不忙，拿出特制眼镜，镜片由七色光片组成，前有一三棱镜，使理建之法无功。袭至理建前，连喊数声“我要看电影！”听得那理建恍惚，神经错乱，大叫一声“渣子！”，裂胆而亡。文姬闻之，亦心寒，并不敢出战。铜锌亦不急，静待大军到来。&lt;/p&gt;
+&lt;p&gt;​		且说回狄国内。狄王自擒得王牢师后，有所起疑，使筑黄金台，掷千金以求天下名士。一日，太子雄二纳得一贤，姓逊名德，字猪仁。狄王闻之，拜为丞相。未及数日，逊德已发觉文武百官，不过鼠辈；太子雄二，练得&amp;quot;熊不等&amp;quot;一招，自以为天下无双；狄王沉溺柯基美人乡，难有作为，便欲自立为君。&lt;/p&gt;
+&lt;p&gt;​		一日，狄王召逊德询问国策。逊德言：“臣思索数日，终得一计，可保国家无事，人民安宁。”问是何计，逊德答道：“削减假期，美其名曰：扣假。在工作效率不变的情况下，延长工作时间，可使工作总量增多。如此，人民可练得减少睡眠时间，必使咖啡产量、消费量增多，可以促进消费，同时，人们若困，必打哈欠，呼出大量CO2，经空气流通，可使楠国空气恶化，我们不战而胜。”&lt;/p&gt;
+&lt;p&gt;​		狄王、雄二闻之大喜，如计施行。不出几日，国内不安，人民欲反。逊德见时机已至，欲进宫行刺狄王，纳柯基为妇。可这计策早已被柯基识破，他于前一日密诏一人入内，令其如此如此。&lt;/p&gt;
+&lt;p&gt;​		待到大年三十，逊德仍不放假。国民大怒，组成起义军，以萧海为首，起兵反抗。逊德一面派手下大将寇圆汤、逊蚊正镇压起义，一面与陈菌入宫，欲刺狄王。可则刚进入宫中，望得一人，便傻了眼。&lt;/p&gt;
+&lt;p&gt;​		欲知此人是谁，后事如何，且听下回分解。&lt;/p&gt;
+&lt;h2 id=&#34;第七章-反谭金太子投敌-斩逊德新王理政谭哥&#34;&gt;第七章 反谭金太子投敌 斩逊德新王理政（谭哥）
+&lt;/h2&gt;&lt;h2 id=&#34;第八章-灭狄国谭金显神威-斩谋臣铜锌展玄机狄国cuzn少&#34;&gt;第八章 灭狄国谭金显神威 斩谋臣铜锌展玄机（狄国CuZn少）
+&lt;/h2&gt;&lt;h2 id=&#34;第九章-皇陵外狄高复活-滑雪谷cuzn自爆&#34;&gt;第九章 皇陵外狄高复活 滑雪谷CuZn自爆
+&lt;/h2&gt;&lt;h2 id=&#34;第十章-辣椒连军破大敌-凯玉借气复师尊&#34;&gt;第十章 辣椒连军破大敌 凯玉借气复师尊
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;（未完待续）&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;尾声&#34;&gt;尾声
+&lt;/h1&gt;&lt;p&gt;本小说由羟基班诸位高手集思广益，巧引天下之事合作写成，如有雷同，名称类似，纯属巧合，纯属巧合，纯属巧合，切勿对号入座！&lt;/p&gt;
+&lt;p&gt;羟基班不承担由本小说引起的任何损失！&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;特此鸣谢：&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;羟基班参与写作人员&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;小老虎sの博客（提供刊登网站）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CatXR（提供纸质版转电子版）&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;欢迎在下方评论，如有想参与编写工作的，羟基班内人员请找群主，羟基班外人员请加QQ：3342229215，若能增添妙笔，将获得随机小礼品/稿费等&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;感谢观看！&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>大除法因式分解丨高中数学</title>
+        <link>https://xiaolaohus.github.io/p/%E5%A4%A7%E9%99%A4%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E5%A4%A7%E9%99%A4%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
+        <description>&lt;p&gt;首先，我们先介绍一下什么是&lt;strong&gt;大除法&lt;/strong&gt;，怎么用，怎么去理解？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;什么是大除法？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://baike.baidu.com/item/%E5%A4%9A%E9%A1%B9%E5%BC%8F%E9%99%A4%E6%B3%95/2703247&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        大除法 - 百度百科
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;可能大家看得有点懵，给大家举个栗子，大家就明白了。&lt;/p&gt;
+&lt;p&gt;比如我们正常的一个除数除以被除数：&lt;strong&gt;比如 100 除以 4,9 除以 2 等。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们知道 100÷4=25，写过程为：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-1cf5dcdbbb35b163e0831a68e1bfcd34_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;余数为零，说明这个数能被另一个数整除，也就是 4 可以被 100 整除，那么就有：&lt;/p&gt;
+&lt;p&gt;100=4×25&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-05b75397afdffae706a2b68ede74f16d_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;余数不为零，说明这个数不能被另一个数整除，也就是 2 不可以被 9 整除，那么就有：&lt;/p&gt;
+&lt;p&gt;9=2×4+1&lt;/p&gt;
+&lt;p&gt;那么，推广到多项式呢？&lt;/p&gt;
+&lt;p&gt;所以就有了今天的内容：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pica.zhimg.com/v2-997c9954d2cdd026da013a470cec4b82_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;如果常数 C 等于 0，那么 &lt;strong&gt;这个多项式能被另一个多项式整除。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;先来举一两个简单的例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://picx.zhimg.com/v2-3057f98ee4e47675676cca9e9f93fdf7_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;先看第一个例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-b632c15d8aaf3146af49345b8deb3df8_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;再看第二个式子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-60c1e1468c9209b994262c3c049dce2b_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;继续第三个式子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-17a74dfa067d4770d45b9210e4fab5c0_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;继续第四个例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-93aab7bf1cbad554b76008a8c1c278ae_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;**&lt;a class=&#34;link&#34; href=&#34;https://zhida.zhihu.com/search?content_id=163316923&amp;amp;content_type=Article&amp;amp;match_order=1&amp;amp;q=%e7%ab%8b%e6%96%b9%e5%92%8c%e5%85%ac%e5%bc%8f&amp;amp;zhida_source=entity&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        立方和公式
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+**大家可以自行按此推导，其实这些都是需要记住的，如果会推导的话，记都不用记。&lt;/p&gt;
+&lt;p&gt;继续第五个例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pica.zhimg.com/v2-1528a66ec93e4cf838c2f952d426ca9c_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;当然，我们可以将其推导到更高次项也是完全可以的，这里就不再继续书写了。相信看到这里的童鞋基本都可以看懂了。&lt;/p&gt;
+&lt;p&gt;下面回到我们的正题，使用&lt;strong&gt;大除法（&lt;a class=&#34;link&#34; href=&#34;https://zhida.zhihu.com/search?content_id=163316923&amp;amp;content_type=Article&amp;amp;match_order=1&amp;amp;q=%e9%95%bf%e9%99%a4%e6%b3%95&amp;amp;zhida_source=entity&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        长除法
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+）求解一元三次方程&lt;/strong&gt;，当然更高次也是适用的。&lt;/p&gt;
+&lt;p&gt;还是那句话，&lt;strong&gt;百闻不如一见，看书不如看实验&lt;/strong&gt;！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-215faf58ea064d3ac0aefb050dea49a2_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;就以这四个式子为大家做个示范吧：&lt;/p&gt;
+&lt;p&gt;先看第一个式子：&lt;/p&gt;
+&lt;p&gt;按照今天提到的方法解：（直接假定我们知道解，然后去找关联，当然解一定是常数的因数里面的一个，包含 1 以及它本身）。&lt;/p&gt;
+&lt;p&gt;如果有去了解过我以前写的内容的话，应该都会发现，&lt;strong&gt;根一定都是常数项的因数中的一个。如一式子中的 1 的因数有（-1,1），正数负数范围内都考虑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pica.zhimg.com/v2-55ec591be53374ed6c9f5e8b5eca6282_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-ece7c0e93ed525a6a14f227c5507b26a_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;继续看第二个例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-51c567b0637dc8eaaa0fd0233fc9f44a_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;继续看第三个例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://picx.zhimg.com/v2-c30984a4b7bbfb6e0c6efd0c34af4d5d_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://picx.zhimg.com/v2-f910407ca72ba6f81f5f8ab0c9132ba3_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;最后看第四个例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-ff6c7514abfae9d4b2345f4b00d8a7d6_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;看，是不是也非常的简单，当然如果你能直接看出来一个解的话，那就直接非常简单了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后再说明一点，这个使用条件也是不能去求解分式根，因为分解难度大，所以是分式根的话，推荐使用双十字法进行求解&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;文章如下：&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://mp.weixin.qq.com/s?__biz=MzU3MzY5MzU1NQ==&amp;amp;mid=2247484641&amp;amp;idx=2&amp;amp;sn=3be7789639a3a00d64bb09173cee4738&amp;amp;chksm=fd3c8ffdca4b06eb2e60ca635ad7ea8adfe479a1e9c5027139d05dbc32792295ec4a10983f6a&amp;amp;scene=21#wechat_redirect&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        数学技巧 || 双十字法巧解一元三次方程
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;最后，我们把它推到高次项，也给大家&lt;strong&gt;举个栗子。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;**如果大家对大除法用的比较熟的话，其实进行&lt;a class=&#34;link&#34; href=&#34;https://zhida.zhihu.com/search?content_id=163316923&amp;amp;content_type=Article&amp;amp;match_order=1&amp;amp;q=%e9%99%8d%e5%b9%82%e6%8e%92%e5%88%97&amp;amp;zhida_source=entity&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        降幂排列
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+属于多余的，**进行降幂的目的主要是防止运算遗漏导致出错而已。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-71c1535413f0f4f8e78c1e7cf56439c5_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-6107a6ec5e073d06c075170537b019d1_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;好了，以上就是本次的分享了！希望大家用得熟练~~&lt;/p&gt;
+&lt;p&gt;大致就写这么多了，由于号主也是在工作中只能闲下来的时候才会写一下，所以做工就会相当的粗糙，这篇文章或者这个技巧我个人希望的是能让需要的人看到，让更多的人知道还有这个方法，希望能看到这篇文章或者学到这个技巧的人能够走的更远，号主就只能走到这了，也希望对这个有研究的可以继续研究下去，让跟多的人学到，更多的人看到~~~&lt;/p&gt;
+&lt;p&gt;本文章选自知乎专栏《&lt;strong&gt;数学技巧||一元三次方程求解，大除法解一元三次方程！&lt;/strong&gt;》&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/338340227&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        (查看原文)
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+，若侵犯版权，请联系站长删除。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>工艺流程题丨高中化学</title>
+        <link>https://xiaolaohus.github.io/p/%E5%B7%A5%E8%89%BA%E6%B5%81%E7%A8%8B%E9%A2%98%E4%B8%A8%E9%AB%98%E4%B8%AD%E5%8C%96%E5%AD%A6/</link>
+        <pubDate>Mon, 23 Dec 2024 23:00:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E5%B7%A5%E8%89%BA%E6%B5%81%E7%A8%8B%E9%A2%98%E4%B8%A8%E9%AB%98%E4%B8%AD%E5%8C%96%E5%AD%A6/</guid>
+        <description>&lt;h1 id=&#34;一工艺流程题的答题策略&#34;&gt;&lt;strong&gt;一、工艺流程题的答题策略&lt;/strong&gt;
+&lt;/h1&gt;&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/gongyi1.jpg&#34; alt=&#34;gongyi1&#34; style=&#34;zoom:100%&#34; /&gt;
+&lt;h1 id=&#34;二化工流程题的结构特点及知识清单&#34;&gt;&lt;strong&gt;二、化工流程题的结构特点及知识清单&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;原料浸取出元素——条件控制去杂质——分离提纯得产物&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;归纳原料预处理&#34;&gt;&lt;strong&gt;【归纳】原料预处理：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;①酸浸：&lt;/strong&gt; 溶解、去氧化膜等，使得可溶性的离子进入溶液中，不容物过滤去除。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;②碱浸：&lt;/strong&gt; 去油污（酯）、溶解铝、二氧化硅、氧化铝等，使得可溶性的离子进入溶液中，不容物过滤去除。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;③水浸：&lt;/strong&gt; 与水反应或溶解，使原料变成离子进入溶液中。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;④研磨（雾化、粉碎）：&lt;/strong&gt; 增大反应接触面积，以加快化学反应速率或使反应更充分。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⑤灼烧（焙烧、煅烧）：&lt;/strong&gt; 使物质高温分解或者氧化去除杂质、改变物质结构，使物质能溶解。如从海带中提取碘时的灼烧就是为了除去可燃性杂质。煅烧高岭土。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⑥加入其他物质：&lt;/strong&gt; 如有机物醇、四氯化碳、无机盐等&amp;mdash;-反应、溶解。&lt;/p&gt;
+&lt;h3 id=&#34;归纳控制反应条件&#34;&gt;&lt;strong&gt;【归纳】控制反应条件：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;①  溶液的PH：&lt;/strong&gt; 提供酸碱性环境反应、抑制或促进离子水解等产生沉淀便于分离等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;调节PH的方法：调节pH所需的物质一般应满足两点：一是能与H＋反应，使溶液pH增大；二是不引入新杂质。（一般酸、碱、氧化物、水解的盐等）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如：要除去Cu2＋中混有的Fe3＋，可加入CuO、Cu(OH)2、Cu2(OH)2CO3等物质来调节溶液的pH，不可加入NaOH溶液、氨水等。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;②温度：&lt;/strong&gt; 升温&amp;mdash;-加快反应（溶解）速率；促进平衡向吸热方向移动；去除热稳定性差的物质或易升华的物质。&lt;/p&gt;
+&lt;p&gt;降温&amp;mdash;-防止物质分解，挥发；使平衡向放热方向移动；使高沸点的物质液化，使其与其他物质分离；降低溶解度，减少损失。&lt;/p&gt;
+&lt;p&gt;控温&amp;mdash;&amp;ndash;水浴、沙浴、油浴&amp;mdash;&amp;ndash;受热均匀，便于控制温度。温度太高&amp;mdash;速率太快；物质可能分解、挥发、水解；催化剂可能中毒；发生副反应等。温度太低&amp;mdash;-速率可能太慢;催化剂活性不高;物质转化率、产率不高等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;③氧化剂（还原剂）（电化学）：&lt;/strong&gt; 生产目标（过程）产物或去除某些离子。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;④其他条件：&lt;/strong&gt; 浓度、压强、催化剂、隔绝空气等。&lt;/p&gt;
+&lt;h3 id=&#34;归纳分离提纯的方法&#34;&gt;&lt;strong&gt;【归纳】分离提纯的方法：&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;①过滤：&lt;/strong&gt; 一贴二低三靠四洗；四洗&amp;ndash;为什么要洗&amp;ndash;用什么洗&amp;mdash;-怎么洗涤&amp;mdash;-洗干净没？&lt;/p&gt;
+&lt;p&gt;为什么洗：去除晶体表面的杂质；把目标产物尽可能洗出来，提升产率；&lt;/p&gt;
+&lt;p&gt;用什么洗：蒸馏水、冷水、有机溶剂（醇、酮、醚）等；如酒精洗硫酸亚铁铵晶体可降低晶体因溶解造成损失，可以出去表面的水，酒精易挥发，易干燥。&lt;/p&gt;
+&lt;p&gt;怎么洗涤：沿着玻璃棒向过滤器中加入蒸馏水（其他溶剂）至浸没沉淀，待其自然流下后，重复2~3次。&lt;/p&gt;
+&lt;p&gt;洗干净没：（离子检验）取最后一次洗涤液少许于试管中，滴加某某试剂（其他操作），产生什么现象？则是否洗干净。&lt;/p&gt;
+&lt;p&gt;减压过滤（吸滤、抽滤）：&lt;em&gt;减压过滤装&lt;/em&gt;置由真空泵、布氏漏斗、吸滤瓶组成。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;②结晶（重结晶）：&lt;/strong&gt; 溶液单一溶质时，所得晶体不带结晶水，如氯化钠溶液结晶过程为&amp;mdash;-蒸发结晶；所得晶体带有结晶水，如硫酸铜溶液得到CuSO4∙5H2O晶体过程为：蒸发浓缩，冷却结晶，过滤。&lt;/p&gt;
+&lt;p&gt;溶液为两种以上溶质时，要得到溶解度受温度影响小得溶质&amp;mdash;-蒸发结晶，趁热过滤，如除去NaCl中少量的KCl；要得到溶解度受温度影响大得溶质&amp;mdash;-蒸发浓缩，冷却结晶，过滤, 如除KCl去中少量的NaCl。&lt;/p&gt;
+&lt;p&gt;晶体干燥：自然晾干、滤纸吸干、在干燥器中干燥、烘干（热稳定性较好）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;③萃取（分液）：&lt;/strong&gt; 当向混合物加入有机试剂（苯、四氯化碳等）后分离的，且题目信息有涉及溶解度不同时考虑萃取。常见液—液萃取（如用苯或CCl4萃取水中的溴），固&amp;ndash;液萃取（如用酒精浸取黄豆中的豆油以提高油产量）。一般萃取分液后的混合溶液采取蒸馏的方式分离。海带中提取碘（灼烧&amp;mdash;溶解&amp;mdash;过滤—氧化&amp;mdash;萃取—蒸馏）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;④蒸馏（分馏）：&lt;/strong&gt; 题目信息有涉及沸点不同时，考虑蒸馏，常见混合液体或液-固体系&lt;/p&gt;
+&lt;h1 id=&#34;三化工流程题的答题策略&#34;&gt;&lt;strong&gt;三、化工流程题的答题策略&lt;/strong&gt;
+&lt;/h1&gt;&lt;h2 id=&#34;1粗读题得目的标记有用信息先问题后框图&#34;&gt;&lt;strong&gt;1、粗读题、得目的、标记有用信息、先问题后框图。&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;首先将题目从头到尾初读一遍，初步了解原料、目的和提供一些课本上没有但题目中必须要用到的新信息。阅读时随手标记目的及相关信息。先看问题，再看框图。&lt;/p&gt;
+&lt;h2 id=&#34;2看箭头析过程&#34;&gt;&lt;strong&gt;2、看箭头，析过程&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;箭头打进的方向是反应物，打出的是生成物，有进又有出的是可循环利用的而物质。&lt;/p&gt;
+&lt;h2 id=&#34;3细分析看措施推用意理关系&#34;&gt;&lt;strong&gt;3、细分析，看措施，推用意、理关系&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;①原料和产品:&lt;/strong&gt; 从某种原料出发，要得到最终产品，必须除去什么元素、引进什么元素？关注杂质离子的去向及产品的生成，有时需要逆向推倒。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;②步骤与目的：&lt;/strong&gt; 加入某种试剂（什么反应），进行相应操作，其目的是什么？结合后面步骤进行思考。特别关注化合价变化和溶液酸碱性（两大主旋律）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;③信息和迁移：&lt;/strong&gt; 新信息一般是重要的暗示和突破口，所给的信息一定有用，但需要提炼、重组、分解和迁移，结合设问分析、判断正确做答。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;④感觉和结果：&lt;/strong&gt; 对于比较陌生的流程时，不必纠结于某步骤不能看懂，要从宏观上把握整个流程，抓大放小，关注步骤的结果，跟着感觉走。&lt;/p&gt;
+&lt;h2 id=&#34;4精准和规范填写答案时要运用正确规范的化学用语清晰严密地组织精准表述答案按照题目要求写出答案&#34;&gt;&lt;strong&gt;4、精准和规范：填写答案时要运用正确规范的化学用语，清晰、严密地组织、精准表述答案，按照题目要求写出答案。&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;①增大原料浸出率的措施：&lt;/strong&gt; 搅拌、升高温度、延长浸出时间、增大气体的流速（浓度、压强），增大气液或固液接触面积。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;②加热的目的：&lt;/strong&gt; 加快反应速率或促进平衡向某个方向移动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;③温度不高于××℃ 的原因：&lt;/strong&gt; 适当加快反应速率, 但温度过高会造成（如浓硝酸）挥发//（如H2O2、NH4HCO3）分解//(如Na2SO3)氧化或促进（如AlCl3）水解等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;④从滤液中提取一般晶体（溶解度随温度升高而增大的晶体）的方法&lt;/strong&gt; 【蒸发浓缩&amp;lt;至有晶膜出现&amp;gt;、冷却结晶、过滤、洗涤（冰水洗、热水洗、乙醇洗）、干燥】&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⑤从滤液中提取溶解度受温度影响较小或随温度升高而减小的晶体的方法&lt;/strong&gt; （蒸发浓缩、趁热过滤 &amp;lt;如果温度下降，杂质也会以晶体的形式析出来&amp;gt;、洗涤、干燥）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⑥溶液配制、灼烧、蒸发、过滤用到的仪器&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⑦控制某反应的pH值使某些金属离子以氢氧化物的形式沉淀&lt;/strong&gt; （调节pH所用试剂为主要元素对应的氧化物、碳酸盐、碱，以避免引入新的杂质；pH分离时的范围确定、范围过小的后果&amp;lt;导致某离子沉淀不完全&amp;gt;或过大的后果&amp;lt;导致主要离子开始沉淀&amp;gt;）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⑧减压蒸馏（减压蒸发）的原因：&lt;/strong&gt; 减小压强，使液体沸点降低，防止（如H2O2、浓硝酸、NH4HCO3）受热分解\挥发。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⑨检验溶液中离子是否沉淀完全的方法：&lt;/strong&gt; 将溶液静置一段时间后，向上层清夜中滴入沉淀剂，若无沉淀生成，则离子沉淀完全。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⑩洗涤沉淀：&lt;/strong&gt; 沿玻璃棒往过滤器中加蒸馏水至浸没沉淀，待水自然流下，重复操作2-3次。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⑪检验沉淀是否洗涤干净的方法：&lt;/strong&gt; 取少量最后一次的洗涤液于试管中，向其中滴入某试剂，若&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;（现象），则沉淀洗涤干净。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⑬冰水洗涤的目的：&lt;/strong&gt; 洗去晶体表面的杂质离子并降低被洗涤物质的溶解度，减少其在洗涤过程中的溶解损耗。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⑭乙醇洗涤的目的：&lt;/strong&gt; 降低被洗涤物质的溶解度，减少其在洗涤过程中的溶解损耗，得到较干燥的产物。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⑮蒸发、反应时的气体氛围：&lt;/strong&gt; 抑制某离子的水解，如加热蒸发AlCl3溶液时为获得AlCl3需在HCl气流中进行。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>等电子体丨高中化学</title>
+        <link>https://xiaolaohus.github.io/p/%E7%AD%89%E7%94%B5%E5%AD%90%E4%BD%93%E4%B8%A8%E9%AB%98%E4%B8%AD%E5%8C%96%E5%AD%A6/</link>
+        <pubDate>Sat, 21 Dec 2024 23:00:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E7%AD%89%E7%94%B5%E5%AD%90%E4%BD%93%E4%B8%A8%E9%AB%98%E4%B8%AD%E5%8C%96%E5%AD%A6/</guid>
+        <description>&lt;h1 id=&#34;等电子体的概念&#34;&gt;等电子体的概念
+&lt;/h1&gt;&lt;p&gt;具有相同的通式———— AX &lt;sub&gt;m&lt;/sub&gt;  ，而且价电子总数相等的分子或离子为等电子体.等电子体具有相同的结构特征，这个原理称为 {% p blue,等电子体原理 %}{% referto &amp;lsquo;[1]&amp;rsquo;,&amp;rsquo;&amp;rsquo; %}.&lt;/p&gt;
+&lt;h1 id=&#34;找等电子体的方法--referto-2-&#34;&gt;找等电子体的方法 {% referto &amp;lsquo;[2]&amp;rsquo;,&amp;rsquo;&amp;rsquo; %}
+&lt;/h1&gt;&lt;h2 id=&#34;同族元素互换法&#34;&gt;同族元素互换法
+&lt;/h2&gt;&lt;p&gt;即将既定粒子中的某元素换成它的同族元素.如：&lt;/p&gt;
+&lt;p&gt;（1）CCl4的等电子体确定：换IVA族元素有SiCl&lt;sub&gt;4&lt;/sub&gt; 、GeCl&lt;sub&gt;4&lt;/sub&gt;等；换VIIA族元素有CF&lt;sub&gt;4&lt;/sub&gt; 、CBr&lt;sub&gt;4&lt;/sub&gt; 、CCl&lt;sub&gt;4&lt;/sub&gt;、CFCl&lt;sub&gt;3&lt;/sub&gt;……；同时换可有SiF&lt;sub&gt;4&lt;/sub&gt;、SiFCl&lt;sub&gt;3&lt;/sub&gt;…….&lt;/p&gt;
+&lt;p&gt;（2）CO&lt;sub&gt;2&lt;/sub&gt;的等电子体确定：
+可将O原子换为S原子得COS、CS&lt;sub&gt;2&lt;/sub&gt;，&lt;/p&gt;
+&lt;p&gt;注意：不能将C原子换为Si原子，因为CO&lt;sub&gt;2&lt;/sub&gt;和SiO&lt;sub&gt;2&lt;/sub&gt;的结构不同（前者为分子晶体，后者为原子晶体）.同理，不能将BeCl&lt;sub&gt;2&lt;/sub&gt;的等电子体确定为MgCl&lt;sub&gt;2&lt;/sub&gt;或BeF&lt;sub&gt;2&lt;/sub&gt;（后两种分别为离子晶体和原子晶体）.&lt;/p&gt;
+&lt;p&gt;（3）SO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;2-&lt;/sup&gt;的等电子体确定：将一个O原子换为S原子得S&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;2-&lt;/sup&gt;；AsO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;3-&lt;/sup&gt;的等电子体可确定为PO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;3-&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;注意不能将NO&lt;sup&gt;3-&lt;/sup&gt;等电子体确定为PO&lt;sup&gt;3-&lt;/sup&gt;，因为后者是聚合物(PO&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;n&lt;/sub&gt;&lt;sup&gt;n-&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;（4）对于原子晶体类也可作类似推导：金刚石Cn与晶体硅Sin互为等电子体.&lt;/p&gt;
+&lt;h2 id=&#34;价电子迁移法&#34;&gt;价电子迁移法
+&lt;/h2&gt;&lt;p&gt;即将既定粒子中的某元素原子的价电子逐一转移给组成中的另一种元素的原子，相应原子的质子数也随之减少或增加，变换为具有相应质子数的元素.一般来说，讨论的元素为s区或p区元素，即主族元素居多，通常相关元素的族序数满足A+B=C+D（或A+B=2C）关系的，可考虑将A、B等个数换为C、D（或1A、1B换为2C）.&lt;/p&gt;
+&lt;p&gt;如：（1）CO&lt;sub&gt;2&lt;/sub&gt;的等电子体确定，除了上述结果以外，还可以采用价电子迁移法：C、O原子的价电子数分别为4、6，从周期表中的位置看，中间夹着N元素，N原子价电子数为5，一个O原子拿一个电子给C原子，在电性不变条件下质子数同时变为7（价电子同时变为5），则可换为两个N原子（由此也可以看出N&lt;sub&gt;2&lt;/sub&gt;与CO互为等电子体）得N&lt;sub&gt;2&lt;/sub&gt;O；如果将C原子的两个价电子转移给两个O原子，元素原子分别转换为1个Be、2个Cl，就可以得到CO&lt;sub&gt;2&lt;/sub&gt;的另一个等电子体BeCl&lt;sub&gt;2&lt;/sub&gt;.同样可以判断：金刚石C&lt;sub&gt;2n&lt;/sub&gt;与晶体硅Si&lt;sub&gt;2n&lt;/sub&gt;的等电子体还可以为金刚砂 (SiC)&lt;sub&gt;n&lt;/sub&gt;、GaAs、AlP、BeO等；石墨C&lt;sub&gt;2n&lt;/sub&gt;与白石墨(BN)&lt;sub&gt;n&lt;/sub&gt;互为等电子体；无机苯B&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;3&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;与苯C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;互为等电子体；二氟化铍BeF&lt;sub&gt;2&lt;/sub&gt;与二氧化硅SiO&lt;sub&gt;2&lt;/sub&gt;互为等电子体.&lt;/p&gt;
+&lt;p&gt;（2）离子之间的等电子体也可以推导：与N &lt;sup&gt;3-&lt;/sup&gt; 的等电子体查找方法，可将2个N原子换为1个C原子和一个O原子可得OCN&lt;sup&gt;-&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;电子-电荷互换法&#34;&gt;电子-电荷互换法
+&lt;/h2&gt;&lt;p&gt;即将既定粒子中的某元素原子的价电子转化为粒子所带的电荷.这种方法可实现分子与离子的互判.&lt;/p&gt;
+&lt;p&gt;如：CN&lt;sup&gt;-&lt;/sup&gt;的等电子体查找可用N原子1个电子换作1个负电荷，则N原子换为C原子，离子带2个负电荷，其等电子体即为C&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;2-&lt;/sup&gt;；反之，将CN&lt;sup&gt;-&lt;/sup&gt;的电荷转化为1个电子，该电子给C原子，即得N&lt;sub&gt;2&lt;/sub&gt;，若给N原子即得CO.同样可判断HNO&lt;sub&gt;3&lt;/sub&gt;的等电子体为HCO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;；IF&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;与XeF&lt;sub&gt;4&lt;/sub&gt;互为等电子体.&lt;/p&gt;
+&lt;h1 id=&#34;真题演练&#34;&gt;真题演练
+&lt;/h1&gt;&lt;p&gt;(2020·江苏卷T21.A.(3))与NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt;互为等电子体的一种分子为__________(填化学式).&lt;/p&gt;
+&lt;p&gt;答案: {% psw CH&lt;sub&gt;4&lt;/sub&gt; 或 SiH&lt;sub&gt;4&lt;/sub&gt; %} .&lt;/p&gt;
+&lt;h1 id=&#34;参考资料&#34;&gt;参考资料
+&lt;/h1&gt;&lt;p&gt;{% referfrom &amp;lsquo;[1]&amp;rsquo;,&amp;lsquo;摘自《无机化学》，第5版，高等教育出版社&amp;rsquo; %}&lt;/p&gt;
+&lt;p&gt;{% referfrom &amp;lsquo;[2]&amp;rsquo;,&amp;lsquo;摘自百度百科&amp;rsquo;,&amp;lsquo;&lt;a class=&#34;link&#34; href=&#34;https://baike.baidu.com/item/%E7%AD%89%E7%94%B5%E5%AD%90%E4%BD%93/8103685%27&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        https://baike.baidu.com/item/%E7%AD%89%E7%94%B5%E5%AD%90%E4%BD%93/8103685&#39;
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+ %}&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>“穿针引线”的使用丨高中数学</title>
+        <link>https://xiaolaohus.github.io/p/%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <pubDate>Sun, 24 Nov 2024 21:30:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
+        <description>&lt;h1 id=&#34;引入&#34;&gt;&lt;strong&gt;引入&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;首先，让我们回忆一下解不等式的方法.在初中时我们便已经学到我们可以把不等式当作方程来解，同时注意不等号的方向.&lt;/p&gt;
+&lt;p&gt;这样的方法对于一次不等式确实是最简单也是最有效的方法了.但是，当我们遇到二次不等式，那又是怎么解决的呢？&lt;/p&gt;
+&lt;p&gt;对于一元二次不等式，高中课本上采用了 &amp;lsquo;数形结合&amp;rsquo; 的方法，即：将不等式各项都移到一边，并将得到的多项式看作一个函数并在平面直角坐标系中画出函数图像，再根据函数图像写出解集.&lt;/p&gt;
+&lt;p&gt;这便启发了我们：我们可以通过画函数图像的方法来解不等式.&lt;/p&gt;
+&lt;h1 id=&#34;穿针引线的内容&#34;&gt;&lt;strong&gt;“穿针引线”的内容&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;那么运用数形结合的思想，我们便能通过以下方法解决更高次的不等式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;分解&lt;/strong&gt; :将不等式所有项移动到一边并进行因式分解.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;标根&lt;/strong&gt; :在x轴上标出函数图像与x轴的交点.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;穿线&lt;/strong&gt; :逢点必穿，奇穿偶不穿.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;解集&lt;/strong&gt; :根据函数图像写出解集.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;下面让我们来试一试：&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;例1.&lt;/strong&gt; 解不等式 $ (x-1)(x-2)(x-3)&amp;gt;0 .$&lt;/p&gt;
+&lt;p&gt;首先我们发现该不等式已经帮我们因式分解了，接着便是解出它的零点.&lt;/p&gt;
+&lt;p&gt;使用瞪眼法，我们可以得到函数 $ f(x)=(x-1)(x-2)(x-3) $ 的3个零点分别为 $1$,$2$,$3$，那么我们便在x轴上将这三个点用实心点标注.&lt;/p&gt;
+&lt;p&gt;然后，让我们开始“穿线”.从哪里开始“穿”呢？其实我们可以简单试一下当x=4时它会是什么样子:&lt;/p&gt;
+&lt;p&gt;$f(4) = 3\times 2\times 1 = 6&amp;gt;0 $&lt;/p&gt;
+&lt;p&gt;那么，这便说明我们应该从右上角开始“穿”.“穿”完后，我们便可以得到一个大致的函数图像，然后用它写出原不等式的解集.&lt;/p&gt;
+&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/eg1.png&#34; alt=&#34;eg1&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;hr&gt;
+&lt;p&gt;多项式不等式一般可以使用这个方法.不过，分式方程是怎么解决的呢？让我们回想一下：在高中时，我们会将分式的分子与分母相乘变为多项式来解.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;例2.&lt;/strong&gt; 解不等式 $ \dfrac{(x-1)(x+2)}{(x-3)(x-2)} &amp;gt;0 .$&lt;/p&gt;
+&lt;p&gt;首先将原不等式转化，将分子与分母相乘转化为多项式: $ (x-1)(x+2)(x-3)(x-2)&amp;gt;0. $&lt;/p&gt;
+&lt;p&gt;然后便可以用穿针引线法来解决这个不等式了.&lt;/p&gt;
+&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/eg2.png&#34; alt=&#34;eg2&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;hr&gt;
+&lt;p&gt;不过，这里出现了一些不太一样的地方.当我们比较用穿针引线画出来的大致图像与原不等式左边的真实图像之间发生了不小的偏差:&lt;/p&gt;
+&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/gra2.png&#34; alt=&#34;gra2&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;p&gt;那图像上的偏差是否会影响答案的正确性呢？“穿针引线法”难道出现问题了吗？&lt;/p&gt;
+&lt;h1 id=&#34;穿针引线法的溯源&#34;&gt;&lt;strong&gt;穿针引线法的溯源&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;首先我们要知道“穿针引线”是怎么来的.根据函数的单调性，例如 $ f(x)=x-1 $ 这个函数，我们可以得知它在 $ R $ 上单调递增.因此，在它的零点 $ x=1 $ 的左、右分别小于 $ 0 $ 、大于 $ 0 $ .&lt;/p&gt;
+&lt;p&gt;那么，当若干个多项式相乘，便仍然可以观察其单调性和零点，推断它大于 $ 0 $ 和小于 $ 0 $ 的区间.根据同号相乘得正，异号相乘得负，我们便能画出整个相乘式的大于 $ 0 $ 和小于 $ 0 $ 的区间.&lt;/p&gt;
+&lt;p&gt;所以，因为除或乘一个多项式对正负并没有影响，我们便能够把分式的不等式化为分子与分母相乘的多项式.唯一的区别就是，分式的分母不能为 $0$ ，所以分式的图像会出现渐近线，而相乘的形式却只是一个“取不到的零点”.&lt;/p&gt;
+&lt;p&gt;由此，我们便能将穿针引线法进行推广.&lt;/p&gt;
+&lt;h1 id=&#34;穿针引线法的推广&#34;&gt;&lt;strong&gt;穿针引线法的推广&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;例3.&lt;/strong&gt; 解不等式 $ (x-4)(e^x-1)&amp;gt;0. $&lt;/p&gt;
+&lt;p&gt;我们使用瞪眼法，得出两个零点 $ x=0 , x=4 $.因为函数 $ y=(x-4) $ 和 $ y=e^x-1 $ 均在 $R$ 内单调递增，所以我们便可以画出这样的图像来求解了.&lt;/p&gt;
+&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/eg3.png&#34; alt=&#34;eg3&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;p&gt;这与它的函数原图像颇为相似：&lt;/p&gt;
+&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/gra3.png&#34; alt=&#34;gra3&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;h1 id=&#34;课后练习&#34;&gt;&lt;strong&gt;课后练习&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;解下列不等式:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$(1) (x-4)log(3,x)&amp;lt;0 ; $&lt;/p&gt;
+&lt;p&gt;$(2) \dfrac{(x-7)log(2,x)}{(e^x-3)x^2.}$&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>随手小记</title>
+        <link>https://xiaolaohus.github.io/p/%E9%9A%8F%E6%89%8B%E5%B0%8F%E8%AE%B0/</link>
+        <pubDate>Fri, 26 Jul 2024 23:50:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E9%9A%8F%E6%89%8B%E5%B0%8F%E8%AE%B0/</guid>
+        <description>&lt;h1 id=&#34;本页面记载随笔&#34;&gt;&lt;em&gt;本页面记载随笔&lt;/em&gt;
+&lt;/h1&gt;&lt;h2 id=&#34;7月26日-星期五-六月廿一-大暑第四&#34;&gt;7月26日 星期五 六月廿一 大暑第四
+&lt;/h2&gt;&lt;p&gt;学校的生活终于迎来了短暂的结束，爽！！！&lt;/p&gt;
+&lt;p&gt;突然想起网页已经好久没更新了，索性上传一个水贴页，以后没事干就在这里吐槽了。&lt;/p&gt;
+&lt;p&gt;学校食堂自从被学校回收后，真的难吃了不少，听说一食堂吃拉肚了好几个，害怕。&lt;/p&gt;
+&lt;p&gt;每天都很热，新高一来的几天，如同蝗虫过境，饭都快抢不到手了。&lt;/p&gt;
+&lt;h2 id=&#34;7月27日-星期六-六月廿二-大暑第五&#34;&gt;7月27日 星期六 六月廿二 大暑第五
+&lt;/h2&gt;&lt;p&gt;今天和汤圆，赤恒，键盘虾去看了《你的名字》&lt;/p&gt;
+&lt;p&gt;久违的电影，即使看了十几遍了也还是没有在电影院看的痛快。&lt;/p&gt;
+&lt;p&gt;2016年-2024年，八年之约，男主的时间线里正好也距离陨石灾害有了八年，不得不说，新海诚真的细节狂魔。&lt;/p&gt;
+&lt;p&gt;希望天气之子也能尽快重映！&lt;/p&gt;
+&lt;p&gt;{% gallery %}
+&lt;img src=&#34;https://xiaolaohus.s3.bitiful.net/note/name1.JPG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://xiaolaohus.s3.bitiful.net/note/name2.JPG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+{% endgallery %}&lt;/p&gt;
+&lt;h2 id=&#34;10月8日-星期二-九月初六-寒露第一&#34;&gt;10月8日 星期二 九月初六 寒露第一
+&lt;/h2&gt;&lt;p&gt;不知不觉，也已有两月多没写随笔，高中生活果然是忙的嘞。&lt;/p&gt;
+&lt;p&gt;日子一天天过去了，天气也凉了起来，都说江苏没有春秋，只有冬夏，我想确是如此，一星期的时间，从二十多度到几度，其他地方恐是见不到。于四季之中，我最喜欢的是冬季，其次便是秋季，尽管万物开始枯黄，却也是硕果累累的日子，橘子、柿子、石榴，各种瓜果蔬菜数不胜数，于我这种吃货也是别有一番风味。&lt;/p&gt;
+&lt;p&gt;今天是寒露，距离月考还有不到一个星期，共勉吧。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>三角函数公式汇总 &#43; 记忆丨高中数学</title>
+        <link>https://xiaolaohus.github.io/p/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%AC%E5%BC%8F%E6%B1%87%E6%80%BB--%E8%AE%B0%E5%BF%86%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <pubDate>Tue, 14 May 2024 11:47:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%AC%E5%BC%8F%E6%B1%87%E6%80%BB--%E8%AE%B0%E5%BF%86%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-979de35605f87260cb76e0e541bfc6b4_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;温馨提示内容较长需耐心观看&#34;&gt;温馨提示：内容较长，需耐心观看
+&lt;/h2&gt;&lt;h2 id=&#34;三角函数公式包括和差角公式和差化积公式积化和差公式倍角公式诱导公式等&#34;&gt;三角函数公式包括和差角公式、和差化积公式、积化和差公式、倍角公式、诱导公式等。
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;本文重点：巧记和差化积、积化和差公式&lt;/strong&gt; &lt;strong&gt;（很多小伙伴记了就忘，忘了又记）&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;01-定义式&#34;&gt;&lt;strong&gt;01 定义式&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;三角函数公式是数学中属于初等函数中的超越函数的一类函数公式。它们的本质是任意角的集合与一个比值的集合的变量之间的映射，通常的三角函数是在平面直角坐标系中定义的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-99271430c4f8fdef0e17d914d1f2c152_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;02-函数公式&#34;&gt;02 函数公式
+&lt;/h2&gt;&lt;p&gt;倒数关系:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-458fac0a133237ae0b39909edb348340_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-81a7a8dc3f3f72f538ccc9ef08669a00_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-893984695884f9a39cab57b4dae05fa9_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;商数关系：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-451ca660727521cdedd64efbfa305896_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-75fb23b4e44e46f3346c52b203d073f2_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;平方关系：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-3598beb36be8b60b6676f242aafeee78_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-a20622454fb722cbc3504a1e5d79fef5_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-bf9aa675ca52fd78bf37eaade6342fa0_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;03-诱导公式&#34;&gt;&lt;strong&gt;03 诱导公式&lt;/strong&gt;
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;1. 公式 1：设α为任意角，终边相同的角的同一三角函数的值相等&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;$sin( 2kπ +α)=sinα(k∈Z)$&lt;/p&gt;
+&lt;p&gt;$cos(2kπ+α)=cosα(k∈Z)$&lt;/p&gt;
+&lt;p&gt;$tan(2kπ+α)=tanα(k∈Z)$&lt;/p&gt;
+&lt;p&gt;$cot(2kπ+α)=cotα(k∈Z)$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;2. 公式二：设α为任意角，π+α的三角函数值与α的三角函数值之间的关系&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;sin(π+α) ＝ －sinα&lt;/p&gt;
+&lt;p&gt;cos(π+α)＝－cosα&lt;/p&gt;
+&lt;p&gt;tan(π+α)＝ tanα&lt;/p&gt;
+&lt;p&gt;cot(π+α)＝cotα&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;3. 公式三：任意角α与 -α的三角函数值之间的关系&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;sin(－α)=－sinα&lt;/p&gt;
+&lt;p&gt;cos(－α)=cosα&lt;/p&gt;
+&lt;p&gt;tan(－α)=－tanα&lt;/p&gt;
+&lt;p&gt;cot(－α)=－cotα&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;4. 公式四：利用公式二和公式三可以得到π-α与α的三角函数值之间的关系&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;sin(π－α)=sinα&lt;/p&gt;
+&lt;p&gt;cos(π－α)=－cosα&lt;/p&gt;
+&lt;p&gt;tan(π－α)=－tanα&lt;/p&gt;
+&lt;p&gt;cot(π－α)=－cotα&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;5、公式五：利用公式一和公式三可以得到 2π-α与α的三角函数值之间的关系&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;sin(2π－α)=－sinα&lt;/p&gt;
+&lt;p&gt;cos(2π－α)=cosα&lt;/p&gt;
+&lt;p&gt;tan(2π－α)=－tanα&lt;/p&gt;
+&lt;p&gt;cot(2π－α)=－cotα&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;6、公式六：π/2±α与α的三角函数值之间的关系&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;sin(π/2+α)=cosα&lt;/p&gt;
+&lt;p&gt;sin(π/2－α)=cosα&lt;/p&gt;
+&lt;p&gt;cos(π/2+α)=－sinα&lt;/p&gt;
+&lt;p&gt;cos(π/2－α)=sinα&lt;/p&gt;
+&lt;p&gt;tan(π/2+α)=－cotα&lt;/p&gt;
+&lt;p&gt;tan(π/2－α)=cotα&lt;/p&gt;
+&lt;p&gt;cot(π/2+α)=－tanα&lt;/p&gt;
+&lt;p&gt;cot(π/2－α)=tanα&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;记背诀窍：奇变偶不变，符号看象限，即形如（2k+1）90°±α，则函数名称变为余名函 数，正弦变余弦，余弦变正弦，正切变余切，余切变正切。形如 2k×90°±α，则函数名称不变。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;04-基本公式&#34;&gt;&lt;strong&gt;04 基本公式：&lt;/strong&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;41-二角和差公式&#34;&gt;4.1. 二角和差公式
+&lt;/h3&gt;&lt;p&gt;口诀（正余弦两角和差公式）：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;赛壳壳赛符号同，壳壳赛赛符号异。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1）正弦和差前后同号，余弦和差前后异号&lt;/p&gt;
+&lt;p&gt;2）正弦和差公式始终是 sin 与 cos 相乘; 余弦和差公式始终是 cos 与 cos 相乘，sin 与 sin 相乘&lt;/p&gt;
+&lt;p&gt;cos(α+β)=cosα·cosβ-sinα·sinβ&lt;/p&gt;
+&lt;p&gt;cos(α-β)=cosα·cosβ+sinα·sinβ&lt;/p&gt;
+&lt;p&gt;sin(α±β)=sinα·cosβ±cosα·sinβ&lt;/p&gt;
+&lt;p&gt;再说一下 tan 和差公式的记忆。&lt;/p&gt;
+&lt;p&gt;由下图可以看到，tan 和差公式的右边分式，分子与分母符号是不同的，而左边与分子符号又是相同的。这样我们就能通过左边确定等式右边的符号。&lt;/p&gt;
+&lt;p&gt;再记住上加下乘，就能把 tan 的每一项记住了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-261f8952f07d09f01358934a42f1425d_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;42-三角和公式&#34;&gt;4.2 三角和公式
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-b43931780568f62d17328c868659813b_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意！注意！注意！&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;人间大炮一级准备&#34;&gt;人间大炮一级准备!!！
+&lt;/h2&gt;&lt;h2 id=&#34;43-积化和差公式&#34;&gt;4.3 积化和差公式：
+&lt;/h2&gt;$${\displaystyle \sin \alpha \cos \beta ={\sin(\alpha +\beta )+\sin(\alpha -\beta ) \over 2}} \\ {\displaystyle \cos \alpha \sin \beta ={\sin(\alpha +\beta )-\sin(\alpha -\beta ) \over 2}} \\ {\displaystyle \cos \alpha \cos \beta ={\cos(\alpha +\beta )+\cos(\alpha -\beta ) \over 2}} \\ {\displaystyle \sin \alpha \sin \beta =-{\cos(\alpha +\beta )-\cos(\alpha -\beta ) \over 2}} \\$$&lt;h2 id=&#34;431-口诀法&#34;&gt;4.3.1 口诀法：
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;正余余正，正加正减；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;余余正正，余加负余减。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;d. 和差化积公式：&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-1bf304d141781970fa5caf77eaa50ec0_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;正加正，正在前；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;正减正，余在前；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;余加余，余并肩；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;余减余，负正弦。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“两个口诀互逆，但推荐分别记忆，这样用起来会非常快！！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;敲黑板，下面重点。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;人间大炮二级准备!!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-462bbe899838110ccd8d055ba595a916_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-1bf304d141781970fa5caf77eaa50ec0_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;前后项数统一：&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;积是一项，化和差后要 $\div2$ ；&lt;/li&gt;
+&lt;li&gt;和差是两项，化积后要成 $\times 2$ 。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;内外项数统一：&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;括号内变量都是先 $\alpha + \beta$ ，再 $\alpha - \beta$ 。&lt;/li&gt;
+&lt;li&gt;化和差后是两项， $\alpha \pm \beta$ 两项不变；&lt;/li&gt;
+&lt;li&gt;化积后是一项， $\alpha \pm \beta$ 要 $\div2$ 变一项。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;432-帅哥记忆法&#34;&gt;&lt;strong&gt;4.3.2 帅哥记忆法：&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-cd0ee82d744fed82841bde87cae490ce_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;积化和差只需反过来说，即：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;帅哥 = 帅 + 帅&lt;/li&gt;
+&lt;li&gt;哥帅 = 帅 - 帅&lt;/li&gt;
+&lt;li&gt;哥哥 = 哥 + 哥&lt;/li&gt;
+&lt;li&gt;负嫂嫂 = 哥 - 哥&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-2389e1ee569be831ace9175822fb5f82_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;本人更喜欢第一种方法，直接记忆好记并且快。&lt;/p&gt;
+&lt;h2 id=&#34;44-倍角公式&#34;&gt;4.4. 倍角公式：
+&lt;/h2&gt;&lt;p&gt;◆ 二倍角公式&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-8a1331b48ccf99fd0e88713479fc6491_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;推论： 升幂缩角公式&lt;/p&gt;
+&lt;p&gt;降幂扩角公式&lt;/p&gt;
+&lt;p&gt;运用二倍角公式就是升幂，将公式 Cos2α变形后可得到降幂公式。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-9cea2b58864f5e500e58cfc2ed46d72e_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-三倍角公式&#34;&gt;◆ 三倍角公式
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-1784ff46862fc5dd36c805227a4d2c24_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-1dc8c03e68196e4132703d3e9742cb69_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-b6e834613deb50afea89075ae53a7513_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-0d5cbe1b0c4a7cc387208c88229ea8c2_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-8f999fe70f2ed6b3ce578f20bf3dfc6c_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-四倍角公式&#34;&gt;◆ 四倍角公式
+&lt;/h2&gt;&lt;p&gt;$sin4a=-4*[cosa&lt;em&gt;sina&lt;/em&gt;(2*sina^2-1)]$&lt;/p&gt;
+&lt;p&gt;$cos4a=1+(-8&lt;em&gt;cosa^2+8&lt;/em&gt;cosa^4)$&lt;/p&gt;
+&lt;p&gt;$tan4a=(4&lt;em&gt;tana-4&lt;/em&gt;tana^3)/(1-6*tana^2+tana^4)$&lt;/p&gt;
+&lt;h2 id=&#34;-五倍角公式&#34;&gt;◆ 五倍角公式
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-5672571ee923e023b22eedc023dfe5f8_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-9ca985a62868ee9f47c78f6a8bef45ff_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-16db714ac088ffd247fc16e8ee0ee0f0_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-半角公式&#34;&gt;◆ 半角公式
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-e439907c2e0279805eafcf932a08c0a9_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;（正负由 $\alpha/2$ 所在的象限决定）&lt;/p&gt;
+&lt;h2 id=&#34;45-万能公式&#34;&gt;4.5. 万能公式
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-e8fe7c5ccc6e5cbe747a0c06a30e9f66_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;46-辅助角公式&#34;&gt;4.6 辅助角公式
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-596d12e265227ec2867c52ff7c4d2128_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;47-余弦定理&#34;&gt;4.7. 余弦定理
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-8da88c69b201e3e66cc1a15a055720d1_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;48-三角函数公式算面积&#34;&gt;4.8. 三角函数公式算面积
+&lt;/h2&gt;&lt;p&gt;定理：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-b1c122ee74d7ea20d2fe5e5828c7b517_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;在△ABC 中，其面积就应该是底边对应的高的 1/2，不妨设 AD 边对应的高是 BC，那么△ABC 的面积就是 BC&lt;em&gt;AD&lt;/em&gt;1/2。而 AD 是垂直于 BC 的，这样△ADC 就是直角三角形了，由此可以得出， $AD=$ $ACsinC$，将这个式子带回三角形的计算公式中就可以得到：S△ABC= $1/2absinC=1/2bcsinA=1/2acsinB$&lt;/p&gt;
+&lt;p&gt;同理，即可得出三角形的面积等于两邻边及其夹角正弦值的乘积的一半。&lt;/p&gt;
+&lt;p&gt;◆ 公式：&lt;/p&gt;
+&lt;p&gt;若△ABC 中角 A，B，C 所对的三边是 a,b,c：&lt;/p&gt;
+&lt;p&gt;则 S△ABC= $1/2absinC=1/2bcsinA=1/2acsinB$&lt;/p&gt;
+&lt;h2 id=&#34;5结语如有发现错误敬请指摘可能是不小心打错的毕竟公式这么多我真会给我自己找台阶下&#34;&gt;5.结语：如有发现错误，敬请指摘！可能是不小心打错的，毕竟公式这么多（我真会给我自己找台阶下）
+&lt;/h2&gt;&lt;p&gt;感谢每一个认真阅读，并反馈所发现的错误的人，正是由于你们的存在，这篇文章才更完美。&lt;/p&gt;
+&lt;p&gt;也为文章中错误给读者带来的不便表示抱歉。&lt;/p&gt;
+&lt;p&gt;如果觉得本文对你有帮助，请点赞收藏，以便你能第一时间找到~~~&lt;/p&gt;
+&lt;p&gt;本文章选自知乎专栏《&lt;strong&gt;考生必记：三角函数公式汇总 + 记忆（没有比这更全）&lt;/strong&gt;》&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/390928056&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        (查看原文)
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+，若侵犯版权，请联系站长删除。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>平抛运动实验丨高中物理</title>
+        <link>https://xiaolaohus.github.io/p/%E5%B9%B3%E6%8A%9B%E8%BF%90%E5%8A%A8%E5%AE%9E%E9%AA%8C%E4%B8%A8%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86/</link>
+        <pubDate>Sun, 17 Mar 2024 14:20:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E5%B9%B3%E6%8A%9B%E8%BF%90%E5%8A%A8%E5%AE%9E%E9%AA%8C%E4%B8%A8%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86/</guid>
+        <description>&lt;h1 id=&#34;1前言&#34;&gt;1.前言
+&lt;/h1&gt;&lt;p&gt;平抛运动实验，是单元必考的内容。&lt;/p&gt;
+&lt;p&gt;这部分主要有两个考点：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;①平抛运动实验的实验 “注意事项”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;②计算平抛运动的初速度&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;2平抛运动实验的基本内容&#34;&gt;2.平抛运动实验的基本内容
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-5d2132e7e0b59487f5d56be1a3bdc237_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;平抛运动实验，考试中考察最多的方案，就是用平抛竖落仪进行实验的过程，就是下面这货：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-dda5aca8c3c23a9bbdb4185b8091a700_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;实验的步骤你只需大概清楚就好。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实验的 “注意事项” 都必须记住！&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;3计算平抛运动初速度&#34;&gt;3.计算平抛运动初速度
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-e0dc611ef55a185f81501f5d6c7ef261_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;初速度的计算，有分为 “轨迹有抛出点” 与“轨迹无抛出点”两种情况：&lt;/p&gt;
+&lt;h2 id=&#34;31有抛出点&#34;&gt;&lt;strong&gt;3.1有抛出点&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;这个情况，题目中给了你一个小球从抛出点开始抛出的完整轨迹&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-2e5a948929dacdfc3b71aa0357dff293_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;先测量出某个点到抛出点的水平位移 X，竖直方向位移 y&lt;/p&gt;
+&lt;p&gt;解题过程（详细过程见思维导图）：&lt;/p&gt;
+&lt;p&gt;**计算时间：**根据自由落体竖直方向的位移公式，代入 y，求出 t。&lt;/p&gt;
+&lt;p&gt;**计算初速度：**根据 X=Vt，代入 X 与 t，求出 V。&lt;/p&gt;
+&lt;p&gt;就是这么简单。&lt;/p&gt;
+&lt;p&gt;所以，出题老师觉得多准备几个陷阱&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;我就知道出题老师不会这么安分&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-5f352efa7afd5492db44380ce5ab8452_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;32无抛出点&#34;&gt;&lt;strong&gt;3.2无抛出点&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;于是出题老师在轨迹中随便挖了一部分，搞出了个升级版。就如下面红色框框里面这货：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-adb4d61b93d8219a989ebc58ce54f125_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这下，计算时间的时候，你就不能够再用自由落体的位移公式了。&lt;/p&gt;
+&lt;p&gt;你得用到逐差公式：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-964c52487d69726ba59c86809b0e5b95_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;解题的过程就是（详细流程见思维导图）：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1、根据逐差公式计算出时间&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、根据 X=Vt 计算初速度。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-d39532c3e94f4ffea29ffae213183b72_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;如图为某小球做平抛运动时，用闪光照相的方法获得的相片的一部分, 图中背景方格的边长为 5cm，g=10m/s2，求&lt;/p&gt;
+&lt;p&gt;小球平抛的初速度 v。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1、画轨迹图：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-877692cbaa4a0a40019ff4e26b2f0851_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、判断时间间隔是否相等：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;根据两个水平方向上的位移相等，可以判断间隔时间相等（依据匀速直线运动判断）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、列式计算：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-a0e166bc8ff5bad04268ed094722747e_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;4参考&#34;&gt;4.参考
+&lt;/h1&gt;&lt;p&gt;1.本文章选自知乎专栏《小心！平抛运动实验的这些陷阱！丨高中物理》&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/34604560&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        (查看原文)
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+，若侵犯版权，请联系站长删除。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>基本不等式丨高中数学</title>
+        <link>https://xiaolaohus.github.io/p/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <pubDate>Sat, 16 Mar 2024 21:30:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
+        <description>&lt;h1 id=&#34;1基本不等式&#34;&gt;1.&lt;strong&gt;基本不等式&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;这是我们一般说的基本不等式：对非负实数 $a,b$ ，有&lt;/p&gt;
+$$
+a+b \geq 2\sqrt{ab} \\
+$$&lt;p&gt;等号成立当且仅当 $a=b$.&lt;/p&gt;
+&lt;p&gt;事实上，这个不等式来自于&lt;/p&gt;
+$$
+(x-y)^2\geq0 \\
+$$&lt;p&gt;即&lt;/p&gt;
+$$
+x^2+y^2 \geq 2xy \\
+$$&lt;p&gt;再令&lt;/p&gt;
+$$
+\begin{align*} x^2=&amp;a\\\\ y^2=&amp;b \end{align*}
+$$&lt;p&gt;其中 $a,b$ 是非负实数.&lt;/p&gt;
+&lt;p&gt;等号成立条件也即 $x-y=0$，即 $a=b$.&lt;/p&gt;
+&lt;h1 id=&#34;2基本不等式链&#34;&gt;2.&lt;strong&gt;基本不等式链&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;从上面的不等式，我们可以得到其他的不等式，如：&lt;/p&gt;
+&lt;p&gt;对正实数 $a,b$ ，有&lt;/p&gt;
+$$
+\begin{align*} \dfrac{2}{\dfrac{1}{a}+\dfrac{1}{b}}\leq \sqrt{ab} \leq\dfrac{a+b}{2} \leq\sqrt{\dfrac{a^2+b^2}{2}} \end{align*} \\
+$$&lt;p&gt;其中，我们已经证明了 $\sqrt{ab} \leq\dfrac{a+b}{2}$ . 接下来完成剩下的证明：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;证明：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们先证明： $\dfrac{a+b}{2} \leq\sqrt{\dfrac{a^2+b^2}{2}}$ .&lt;/p&gt;
+&lt;p&gt;要证 $\dfrac{a+b}{2} \leq\sqrt{\dfrac{a^2+b^2}{2}}$&lt;/p&gt;
+&lt;p&gt;只需证 $\dfrac{(a+b)^2}{4}\leq \dfrac{a^2+b^2}{2}$&lt;/p&gt;
+&lt;p&gt;即证 $(a+b)^2\leq 2(a^2+b^2)$&lt;/p&gt;
+&lt;p&gt;即证 $a^2+2ab+b^2\leq 2a^2+2b^2$&lt;/p&gt;
+&lt;p&gt;即证 $2ab\leq a^2+b^2$&lt;/p&gt;
+&lt;p&gt;显然成立，且等号成立当且仅当 $a=b$.&lt;/p&gt;
+&lt;p&gt;再证明： $\dfrac{2}{\dfrac{1}{a}+\dfrac{1}{b}}\leq \sqrt{ab}$&lt;/p&gt;
+&lt;p&gt;要证 $\dfrac{2}{\dfrac{1}{a}+\dfrac{1}{b}}\leq \sqrt{ab}$&lt;/p&gt;
+&lt;p&gt;只需证 $\sqrt{\dfrac{1}{a}\cdot\dfrac{1}{b}}\leq \dfrac{\dfrac{1}{a}+\dfrac{1}{b}}{2}$&lt;/p&gt;
+&lt;p&gt;由 $\sqrt{ab}\leq\dfrac{a+b}{2}$ 知道 $\sqrt{\dfrac{1}{a}\cdot\dfrac{1}{b}}\leq \dfrac{\dfrac{1}{a}+\dfrac{1}{b}}{2}$ 成立&lt;/p&gt;
+&lt;p&gt;且 等号成立当且仅当 $\dfrac{1}{a}=\dfrac{1}{b}$，即 $a=b$ .&lt;/p&gt;
+&lt;p&gt;注：$\dfrac{2}{\dfrac{1}{a}+\dfrac{1}{b}}$ 称作 $a,b$ 的&lt;strong&gt;调和平均值&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$\sqrt{ab}$ 称作 $a,b$ 的&lt;strong&gt;几何平均值&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$\dfrac{a+b}{2}$ 称作 $a,b$ 的&lt;strong&gt;算术平均值&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$\sqrt{\dfrac{a^2+b^2}{2}}$ 称作 $a,b$ 的&lt;strong&gt;平方平均值&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上面的不等式链可简记为 “调几算方”.&lt;/p&gt;
+&lt;h1 id=&#34;3基本不等式的应用&#34;&gt;3.&lt;strong&gt;基本不等式的应用&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;一般地，基本不等式用于处理最值的求解及其相关的证明。这里我们按照所给条件的类型来讨论。&lt;/p&gt;
+&lt;h2 id=&#34;31和式条件&#34;&gt;&lt;strong&gt;3.1和式条件&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;这里指和为定值的条件，例如正实数 $x,y$ 满足 $x+y= 1$ 或 $\dfrac{1}{x}+\dfrac{1}{y}=1$ 或 $x+y=xy$ .&lt;/p&gt;
+&lt;p&gt;事实上，这三个条件可以说是完全一致，因为：&lt;/p&gt;
+&lt;p&gt;对 $\dfrac{1}{x}+\dfrac{1}{y}=1$ 做换元 $x=\dfrac{1}{a},y=\dfrac{1}{b}$&lt;/p&gt;
+&lt;p&gt;就得到 $a +b=1$.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 1.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $x+y= 1$ ，则 $\dfrac{1}{x}+\dfrac{1}{y}$ 的最小值为________.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;解析：&lt;/strong&gt; 方法一：由基本不等式链得&lt;/p&gt;
+$$
+\dfrac{2}{\dfrac{1}{x}+\dfrac{1}{y}}\leq \dfrac{x+y}{2} \\
+$$&lt;p&gt;故&lt;/p&gt;
+$$
+\dfrac{1}{x}+\dfrac{1}{y}\geq \dfrac{4}{x+y}=4 \\
+$$&lt;p&gt;等号成立当且仅当 $x=y=\dfrac{1}{2}$ .&lt;/p&gt;
+&lt;p&gt;故答案为 4.&lt;/p&gt;
+&lt;p&gt;方法二 (&lt;strong&gt;化齐次&lt;/strong&gt;)： 将 $\dfrac{1}{x}+\dfrac{1}{y}$ 乘以 $x+y$，&lt;/p&gt;
+&lt;p&gt;即&lt;/p&gt;
+$$
+\begin{align*} \dfrac{1}{x}+\dfrac{1}{y}&amp;=(x+y)(\dfrac{1}{x}+\dfrac{1}{y})\\\\ &amp;=2+\dfrac{y}{x}+\dfrac{x}{y}\\\\ &amp;\geq 2+2\sqrt{\dfrac{y}{x}\cdot\dfrac{x}{y}}\\\\ &amp;=4 \end{align*}
+$$&lt;p&gt;等号成立当且仅当 $\dfrac{y}{x}=\dfrac{x}{y}$ ，即 $x=y=\dfrac{1}{2}$ .&lt;/p&gt;
+&lt;p&gt;这时候其实有一些问题：如果不能直接用基本不等式链或者 $x+y=2\not=1$ 怎么办？&lt;/p&gt;
+&lt;p&gt;这个例题我们解决这两个问题：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 2.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $x+y= 2$ ，则 $\dfrac{4}{x}+\dfrac{9}{y}$ 的最小值为________.&lt;/p&gt;
+&lt;p&gt;解析：这里就不能直接用不等式链了，考虑化齐次，为此，将 $x+y= 2$ 右边改写为 $1$， 即 $\dfrac{1}{2}(x+y)=1$ 于是&lt;/p&gt;
+$$
+\begin{align*} \dfrac{4}{x}+\dfrac{9}{y}&amp;=\dfrac{1}{2}(x+y)(\dfrac{4}{x}+\dfrac{9}{y})\\\\ &amp;=\dfrac{1}{2}(13+\dfrac{4y}{x}+\dfrac{9x}{y})\\\\ &amp;\geq\dfrac{1}{2}(13+2\sqrt{\dfrac{4y}{x}\cdot\dfrac{9x}{y}})\\\\ &amp;=\dfrac{25}{2} \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当 $\dfrac{4y}{x}=\dfrac{9x}{y}$&lt;/p&gt;
+&lt;p&gt;即 $3x=2y=\dfrac{12}{5}$.&lt;/p&gt;
+&lt;p&gt;另外，化齐次不只可以通过乘法，还可以通过直接代换 $1$. 比如下面这个例子：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 3.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $x+y= 1$ ，则 $\dfrac{3}{x}+\dfrac{4+x}{y}$ 的最小值为________.&lt;/p&gt;
+&lt;p&gt;直接乘 $x+y$ 在这里不是很行了，因为&lt;/p&gt;
+$$
+\begin{align*} (x+y)(\dfrac{3}{x}+\dfrac{4+x}{y}) &amp;=3+\dfrac{x(4+x)}{y}+\dfrac{3y}{x}+4+x\\\\ &amp;=7+x\dfrac{x(4+x)}{y}+\dfrac{3y}{x} \end{align*} \\
+$$&lt;p&gt;这时候需要处理的是 $x\dfrac{x(4+x)}{y}+\dfrac{3y}{x}$ ，而这个式子不齐次，并不好直接处理. 那为什么会产生这个不齐次的部分？容易想到，是因为 $\dfrac{3}{x}+\dfrac{4+x}{y}$ 中的 $\dfrac{4+x}{y}$ 导致产生了一些问题，再准确点，就是 $\dfrac{x}{y}$ 导致的. &lt;strong&gt;因为&lt;/strong&gt; $\dfrac{x}{y}$ &lt;strong&gt;是齐次的，不需要再进行齐次化的处理&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;所以，我们这次避开这个部分，只对剩下的部分化齐次.&lt;/p&gt;
+$$
+\begin{align*} (\dfrac{3}{x}+\dfrac{4+x}{y}) &amp;=\dfrac{3}{x}+\dfrac{4}{y}+\dfrac{x}{y}\\\\ &amp;=(x+y)(\dfrac{3}{x}+\dfrac{4}{y})+\dfrac{x}{y}\\\\ &amp;=7+\dfrac{3y}{x}+\dfrac{4x}{y}+\dfrac{x}{y}\\\\ &amp;=7+\dfrac{3y}{x}+\dfrac{5x}{y}\\\\ &amp;\geq 7+2\sqrt{\dfrac{3y}{x}\cdot\dfrac{5x}{y}}\\\\ &amp;=7+2\sqrt{15} \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当 $\dfrac{3y}{x}=\dfrac{5x}{y}$，&lt;/p&gt;
+&lt;p&gt;即 $\sqrt{5}x=\sqrt{3}y =\dfrac{5\sqrt{3}-3\sqrt{5}}{2}$ .&lt;/p&gt;
+&lt;h2 id=&#34;32积式条件&#34;&gt;3.2&lt;strong&gt;积式条件&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;这里指积为定值的条件，例如正实数 $x,y$ 满足 $xy=1$ 或 $xy+px+qy=1$，其中 $p,q&amp;gt;0$.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 4.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $xy=4$ ，则 $x+ 2y$ 的最小值________.&lt;/p&gt;
+&lt;p&gt;解析：&lt;/p&gt;
+$$
+\begin{align*} x+2y \geq 2\sqrt{x\cdot 2y}=2\sqrt{8}=4\sqrt{2} \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当 $x=2y =2\sqrt{2}$.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 5.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $xy+2x+3y=4$ ，则 $x+ y$ 的最小值________.&lt;/p&gt;
+&lt;p&gt;解析：这个题目第一次见的话看起来会比较怪异，当然，我们可以把 $y$ 用 $x$ 表达，即&lt;/p&gt;
+$$
+\begin{align*} y(x+3)&amp;=4-2x\\\\ y&amp;=\dfrac{4-2x}{x+3}=\dfrac{10}{x+3}-2 \end{align*} \\
+$$&lt;p&gt;于是&lt;/p&gt;
+$$
+\begin{align*} x+y &amp;=x+\dfrac{10}{x+3}-2\\\\ &amp;=x+3+\dfrac{10}{x+3}-3-2\\\\ &amp;\geq 2\sqrt{(x+3)\cdot\dfrac{10}{x+3}}-5\\\\ &amp;=2\sqrt{10}-5 \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当 $x+3=\dfrac{10}{x+3}$ ，即 $x=\sqrt{10}-3,y=\sqrt{10}-2$&lt;/p&gt;
+&lt;p&gt;故答案为 $2\sqrt{10}-5$.&lt;/p&gt;
+&lt;p&gt;另解：实际上，求 $x+y$ 最小值，一般是 $xy$ 为定值的情况，但这里显然 $xy$ 不是定值， 其实这里是 $(x+3)(y+2)=10$ 为定值. 这时候就体现了熟悉因式分解的优势.&lt;/p&gt;
+&lt;p&gt;简单说一下这个因式分解：&lt;/p&gt;
+$$
+xy+px+qy=1 \iff xy+px+qy +pq =1+pq \iff (x+q)(y+p)=1+pq \\
+$$&lt;p&gt;&lt;strong&gt;例 6.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $xy+2x+3y=4$ ，则 $x+2y$ 的最小值________.&lt;/p&gt;
+&lt;p&gt;解析： $(x+3)(y+2)=10$&lt;/p&gt;
+&lt;p&gt;于是&lt;/p&gt;
+$$
+20=(x+3)(2y+4) \leq \dfrac{(x+3+2y+4)^2}{4} \\
+$$&lt;p&gt;故
+&lt;/p&gt;
+$$
+ x+2y+7\geq 4\sqrt{5}\\
+$$&lt;p&gt;即&lt;/p&gt;
+$$
+x+2y \geq 4\sqrt{5}-7\\
+$$&lt;p&gt;等号成立当且仅当 $x+3=2y+4=2\sqrt{5}$，&lt;/p&gt;
+&lt;p&gt;即 $x=2\sqrt{5}-3, y=\sqrt{5}-2$ .&lt;/p&gt;
+&lt;h2 id=&#34;33其他&#34;&gt;3.3&lt;strong&gt;其他&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;这里给出一些没有&lt;strong&gt;直接&lt;/strong&gt;给出定值条件的问题.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 7.&lt;/strong&gt; 已知 $x&amp;gt; \dfrac{1}{2}$ , 则 $x+ \dfrac{1}{2x-1}$ 的最小值为________.&lt;/p&gt;
+&lt;p&gt;解析：求最小值，考虑凑积定值：&lt;/p&gt;
+&lt;p&gt;注意到
+&lt;/p&gt;
+$$
+x=\dfrac{1}{2}(2x-1)+\dfrac{1}{2}\\
+$$&lt;p&gt;于是&lt;/p&gt;
+$$
+\begin{align*} x+\dfrac{1}{2x-1} &amp;=\dfrac{1}{2}(2x-1)+ \dfrac{1}{2x-1}+\dfrac{1}{2}\\\\ &amp;\geq 2\sqrt{\dfrac{1}{2}(2x-1)\cdot\dfrac{1}{2x-1}}+\dfrac{1}{2}\\\\ &amp;=\sqrt{2}+\dfrac{1}{2} \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当 $2x-1=\sqrt{2}$ 即 $x=\dfrac{1+\sqrt{2}}{2}$&lt;/p&gt;
+&lt;p&gt;当然，换元 $t=\dfrac{1}{2x-1}$ ，则 0&amp;quot;&amp;gt;$t&amp;gt;0$ ，&lt;/p&gt;
+&lt;p&gt;即求 $\dfrac{1}{2}t+\dfrac{1}{t}+\dfrac{1}{2}$ 的最小值.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 8.&lt;/strong&gt; 已知 0 &amp;ldquo;&amp;gt;$x&amp;gt; 0$ , 则 $x^2+ \dfrac{2}{x}$ 的最小值为________.&lt;/p&gt;
+&lt;p&gt;解析：求最小值，考虑凑积定值； 这里有一个二次一个负一次，为了凑定值，将一个负一次对半拆分成两个负一次，即&lt;/p&gt;
+$$
+\begin{align*} x^2+ \dfrac{2}{x}&amp;=x^2+\dfrac{1}{x}+\dfrac{1}{x}\\\\ &amp;\geq 3\sqrt{x^2\cdot\dfrac{1}{x}\cdot\dfrac{1}{x}}\\\\ &amp;=3 \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当&lt;/p&gt;
+$$
+x^2=\dfrac{1}{x}=\dfrac{1}{x} \\
+$$&lt;p&gt;即 $x=1$ .&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 9.&lt;/strong&gt; 已知 0 &amp;ldquo;&amp;gt; $x&amp;gt; 0$ , 则 $x(1-x^2)$ 的最大值为________.&lt;/p&gt;
+&lt;p&gt;解析：&lt;/p&gt;
+&lt;p&gt;考虑将 $x$ 化为 $x^2$ ：显然最大值在 $(0,1)$ 上， 于是&lt;/p&gt;
+$$
+x(1-x^2)=\sqrt{x^2(1-x^2)^2} \\
+$$&lt;p&gt;令 $t=x^2$ 则&lt;/p&gt;
+$$
+\begin{align*} x^2(1-x^2)^2 &amp;=t(1-t)^2\\\\ &amp;=\dfrac{1}{2}\cdot 2t(1-t)(1-t)\\\\ &amp;\leq \dfrac{1}{2} (\dfrac{2t+1-t+1-t}{3})^3\\\\ &amp;=\dfrac{4}{27} \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当 $2t=1-t=1-t$ ，即 $t=\dfrac{1}{3}$ 即 $x=\dfrac{\sqrt{3}}{3}$ ，故答案为 $\dfrac{2\sqrt{3}}{9}$ . $\square$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 10.&lt;/strong&gt; 设正实数 $x,y$ 满足 $x+y+\dfrac{1}{x}+\dfrac{4}{y}=10$ ， $x+y$ 的最小值为________.&lt;/p&gt;
+&lt;p&gt;解析：容易发现&lt;/p&gt;
+$$
+\begin{align*} (x+y)\left(\dfrac{1}{x}+\dfrac{4}{y}\right)&amp;=5+\dfrac{y}{x}+\dfrac{4x}{y}\\\\ &amp;\geq5+2\sqrt{\dfrac{y}{x}\cdot\dfrac{4x}{y}}\\\\ &amp;=9 \end{align*}\\
+$$&lt;p&gt;等号成立当且仅当 $2x=y=\cdots$&lt;/p&gt;
+&lt;p&gt;于是&lt;/p&gt;
+$$
+\color{green}{(x+y)}\left(10-\color{green}{(x+y)}\right)=(x+y)\left(\dfrac{1}{x}+\dfrac{4}{y}\right)\geq 9 \\
+$$&lt;p&gt;令 $t=x+y$ ，得 $t^2-10t+9\leq 0$ ，故 $1\leq t\leq 9$ .&lt;/p&gt;
+&lt;p&gt;故答案为 $1$ .&lt;/p&gt;
+&lt;p&gt;推广：设正实数 $x,y$ 满足&lt;/p&gt;
+$$
+x+y+\dfrac{p^2}{x}+\dfrac{q^2}{y}=r\ \left( r&gt;2\left(p+q\right) ,q&gt;0,q&gt;0\right)\\
+$$&lt;p&gt;则 $x+y$ 的最小值与最大值之和为________.&lt;/p&gt;
+&lt;p&gt;解析：同上，我们有&lt;/p&gt;
+$$
+\begin{align*} \color{green}{(x+y)}\left(r-\color{green}{(x+y)}\right)&amp;=(x+y)(\dfrac{p^2}{x}+\dfrac{q^2}{y})\\\\ &amp;=p^2+q^2+\dfrac{p^2y}{x}+\dfrac{q^2x}{y}\\\\ &amp;\geq p^2+q^2+2\sqrt{\dfrac{p^2y}{x}\cdot\dfrac{q^2x}{y}}\\\\ &amp;=(p+q)^2 \end{align*}\\
+$$&lt;p&gt;于是 $(x+y)^2-r(x+y)+(p+q)^2\leq 0$ ，得 $m_1\leq x+y\leq m_2$ ，&lt;/p&gt;
+&lt;p&gt;其中 $m_1,m_2$ 为方程 $m^2-rm+(p+q)^2=0$ 的两实根，根的存在性由 $\Delta=r^2-4(p+q)^2&amp;gt;0$ 保证. 由韦达定理得 $m_1,m_2$ 满足 $m_1+m_2=r$ .&lt;/p&gt;
+&lt;p&gt;故答案为 $r$ . $\square$&lt;/p&gt;
+&lt;h1 id=&#34;4补充&#34;&gt;4.补充
+&lt;/h1&gt;&lt;h3 id=&#34;41多元基本不等式&#34;&gt;&lt;strong&gt;4.1多元基本不等式&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;我们看一下一般的多元基本不等式&lt;/p&gt;
+$$
+\dfrac{n}{\sum\limits_{i=1}^{n}\dfrac{1}{a_i}} \leq \sqrt[n]{\prod\limits_{i=1}^{n}a_i } \leq\dfrac{\sum\limits_{i=1}^{n}a_i}{n}\leq \sqrt{\dfrac{\sum\limits_{i=1}^{n}a_i^2}{n}} \\
+$$&lt;p&gt;其中 $a_i(i=1,2,\cdots,n)$ 为正数.&lt;/p&gt;
+&lt;p&gt;等号成立当且仅当序列 ${a_n}$ 为常数列，即 $a_1=a_2=\cdots=a_n$.&lt;/p&gt;
+&lt;p&gt;常用的是三元的，即&lt;/p&gt;
+$$
+\dfrac{3}{\dfrac{1}{a}+\dfrac{1}{b}+\dfrac{1}{c}}\leq \sqrt[3]{abc}\leq \dfrac{a+b+c}{3}\leq \sqrt{\dfrac{a^2+b^2+c^2}{3}} \\
+$$&lt;p&gt;其中 $a,b,c$ 为正数.&lt;/p&gt;
+&lt;p&gt;等号成立当且仅当 $a=b=c$ .&lt;/p&gt;
+&lt;p&gt;证明在后面给出.&lt;/p&gt;
+&lt;h3 id=&#34;42待定系数法的应用&#34;&gt;&lt;strong&gt;4.2待定系数法的应用&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;例 11.&lt;/strong&gt; 已知正实数 $a,b,c$ ，则 $\dfrac{ab+4bc}{a^2+b^2+c^2}$ 的最大值为________.&lt;/p&gt;
+&lt;p&gt;解析：这个题目难的地方就是分子，如果是 $\dfrac{ab+bc+ca}{a^2+b^2+c^2}$，容易知道最大值就是 1， 因为我们有&lt;/p&gt;
+$$
+\begin{align*} a^2+b^2\geq&amp; 2ab\\\\ b^2+c^2\geq&amp; 2bc\\\\ c^2+a^2\geq&amp; 2ca \end{align*} \\
+$$&lt;p&gt;相加即得&lt;/p&gt;
+$$
+2(a^2+b^2+c^2)\geq 2(ab+bc+ca) \\
+$$&lt;p&gt;故$\dfrac{ab+bc+ca}{a^2+b^2+c^2}\leq 1$.&lt;/p&gt;
+&lt;p&gt;等号成立当且仅当 $a=b=c$ .&lt;/p&gt;
+&lt;p&gt;所以，我们采取类似的思路，仍然使用基本不等式，但考虑一个参数 $0&amp;lt;m&amp;lt;1$ ，注意到分子中有两项出现了 $b$ ，我们猜测这是两次基本不等式的结果，所以将 $b^2$ 划分为两份： $mb^2$ 和 $(1-m)b^2$.&lt;/p&gt;
+&lt;p&gt;于是&lt;/p&gt;
+$$
+\begin{align*} a^2+mb^2\geq&amp; 2\sqrt{m}ab\\\\ (1-m)b^2+c^2 \geq&amp; 2\sqrt{1-m}bc \end{align*} \\
+$$&lt;p&gt;相加得到&lt;/p&gt;
+$$
+a^2+b^2+c^2\geq 2(\sqrt{m} ab+\sqrt{1-m}bc) \\
+$$&lt;p&gt;即&lt;/p&gt;
+$$
+\dfrac{\sqrt{m} ab+\sqrt{1-m}bc}{a^2+b^2+c^2}\leq \dfrac{1}{2} \\
+$$&lt;p&gt;为得到 $\dfrac{ab+4bc}{a^2+b^2+c^2}$ ，令 $\dfrac{\sqrt{m}}{\sqrt{1-m}}=\dfrac{1}{4}$&lt;/p&gt;
+&lt;p&gt;解得 $m=\dfrac{1}{17}$&lt;/p&gt;
+&lt;p&gt;故&lt;/p&gt;
+$$
+\dfrac{\dfrac{1}{\sqrt{17}} ab+\dfrac{4}{\sqrt{17}}bc}{a^2+b^2+c^2}\leq \dfrac{1}{2} \\
+$$&lt;p&gt;即得&lt;/p&gt;
+$$
+\dfrac{ab+4bc}{a^2+b^2+c^2}\leq \dfrac{\sqrt{17}}{2} \\
+$$&lt;p&gt;等号成立当且仅当 $\sqrt{1-m}a=\sqrt{m(1-m)}b=\sqrt{m}c$ . $\square$&lt;/p&gt;
+&lt;p&gt;这便是待定系数法的基本应用，我们再来看下面这个例子：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 12.&lt;/strong&gt; $f(x)=\dfrac{8}{\sin x}+\dfrac{1}{\cos x} (0&amp;lt;x&amp;lt;\dfrac{\pi}{2})$ 的最小值为________.&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/352588326#ref_1&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        [1]
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;解析：考虑不等式：&lt;/p&gt;
+$$
+\dfrac{n}{\sum\limits_{i=1}^{n}\dfrac{1}{a_i}} \leq \sqrt{\dfrac{\sum\limits_{i=1}^{n}a_i^2}{n}} \\
+$$&lt;p&gt;其中 $a_1=\cos x,a_i=\lambda\sin x (i\geq 2,\lambda&amp;gt;0)$ ， $\lambda$ 为待定常数.&lt;/p&gt;
+&lt;p&gt;为在 $\sum\limits_{i=1}^{n}\dfrac{1}{a_i}=\dfrac{n-1}{\lambda \sin x}+\dfrac{1}{\cos x}$ 处得到 $\dfrac{8}{\sin x}+\dfrac{1}{\cos x}$&lt;/p&gt;
+&lt;p&gt;令 $\dfrac{n-1}{\lambda}=8$&lt;/p&gt;
+&lt;p&gt;且利用 $\cos^2x+\sin ^2 x=1$ ，使得 $\sum\limits_{i=1}^{n}a_i^2$ 为定值，&lt;/p&gt;
+&lt;p&gt;即 $\sum\limits_{i=1}^{n}a_i^2=\cos^2x+(n-1)\lambda^2\sin^2x =\cos^2x+\sin ^2 x =1$&lt;/p&gt;
+&lt;p&gt;故 $(n-1)\lambda^2=1$ ，&lt;/p&gt;
+&lt;p&gt;由 $\begin{align*} \begin{cases} \dfrac{n-1}{\lambda} &amp;amp;=8\ \ (n-1)\lambda^2 &amp;amp;=1 \end{cases} \end{align*}$&lt;/p&gt;
+&lt;p&gt;解得 $\lambda =\dfrac{1}{2},n=5$ .&lt;/p&gt;
+&lt;p&gt;代入&lt;/p&gt;
+$$
+\dfrac{n}{\sum\limits_{i=1}^{n}\dfrac{1}{a_i}} \leq \sqrt{\dfrac{\sum\limits_{i=1}^{n}a_i^2}{n}} \\
+$$&lt;p&gt;得&lt;/p&gt;
+$$
+\dfrac{5}{\dfrac{1}{\cos x}+\dfrac{2}{\sin x}+\dfrac{2}{\sin x}+\dfrac{2}{\sin x}+\dfrac{2}{\sin x}}\leq \sqrt{\dfrac{\cos^2x+\dfrac{1}{4}\sin^2 x+\dfrac{1}{4}\sin^2 x+\dfrac{1}{4}\sin^2 x+\dfrac{1}{4}\sin^2 x}{5}}\\
+$$&lt;p&gt;即&lt;/p&gt;
+$$
+\dfrac{8}{\sin x}+\dfrac{1}{\cos x}\geq5\sqrt{5}\\
+$$&lt;p&gt;等号成立当且仅当 $\cos x=\dfrac{1}{2}\sin x$，即 $\tan x=2\left(0&amp;lt;x&amp;lt;\dfrac{\pi}{2}\right)$ .&lt;/p&gt;
+&lt;p&gt;故答案为 $5\sqrt{5}$. $\square$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 13.&lt;/strong&gt; 设正实数 $x,y,z$ 满足 $xyz=1$ ，试证明： $x^2+y^2+z^2\geq x+y+z$ .&lt;/p&gt;
+&lt;p&gt;解析：我们很容易猜到取等条件为 $x=y=z=1$ ，&lt;/p&gt;
+&lt;p&gt;又恰好有 $x^2+1\geq 2x$ 也是以 $x=1$ 为取等条件，我们尝试用此进行证明：&lt;/p&gt;
+&lt;p&gt;$\begin{align*} x^2+y^2+z^2&amp;amp;=(x^2+1)+(y^2+1)+(z^2+1)-3\\ &amp;amp;\geq2x+2y+2z-3\\ &amp;amp;=2(x+y+z)-\color{blue}{3\sqrt[3]{xyz}}\\ &amp;amp;\geq2(x+y+z)-\color{blue}{(x+y+z)}\\ &amp;amp;=x+y+z \end{align*}$&lt;/p&gt;
+&lt;p&gt;$\square$&lt;/p&gt;
+&lt;p&gt;变式：设正实数 $x,y,z$ 满足 $xyz=1$ ，试证明： $x^{2021}+y^{2021}+z^{2021}\geq x^{2020}+y^{2020}+z^{2020}$ .&lt;/p&gt;
+&lt;p&gt;解析：考虑待定系数，设正整数 $p,q$ ，使成立不等式 $px^{2021}+\sum_{i=1}^{q}1 \geq (p+q)x^{\frac{2021p}{p+q}}$ ，&lt;/p&gt;
+&lt;p&gt;易知不等式在 $x=1$ 时等号成立，&lt;/p&gt;
+&lt;p&gt;为使得右边出现 $x^{2020}$ ，令 $\dfrac{2021p}{p+q}=2020$ ，&lt;/p&gt;
+&lt;p&gt;得 $p=2020q$ ，故可取 $q=1,p=2020$ .&lt;/p&gt;
+&lt;p&gt;于是，有 $2020x^{2021}+1\geq 2021 x^{2020}$ ，从而&lt;/p&gt;
+&lt;p&gt;$\begin{align*} (x^{2021}+2020)+(y^{2021}+2020)+(z^{2021}+2020) &amp;amp;\geq 2021(x^{2020}+y^{2020}+z^{2020}) \end{align*}$ ，&lt;/p&gt;
+&lt;p&gt;即 $x^{2021}+y^{2021}+z^{2021}\geq 2021(x^{2020}+y^{2020}+z^{2020} )-3\times2020$&lt;/p&gt;
+&lt;p&gt;又 $3\times 2020 =2020\times 3\sqrt[3]{x^{2020}y^{2020}z^{2020}}\leq2020(x^{2020}+y^{2020}+z^{2020})$ ，&lt;/p&gt;
+&lt;p&gt;所以&lt;/p&gt;
+&lt;p&gt;$\begin{align*} x^{2021}+y^{2021}+z^{2021} &amp;amp;\geq 2021(x^{2020}+y^{2020}+z^{2020} )-3\times2020\\ &amp;amp;\geq 2021(x^{2020}+y^{2020}+z^{2020} )-2020(x^{2020}+y^{2020}+z^{2020})\\ &amp;amp;=(x^{2020}+y^{2020}+z^{2020}) \end{align*}$&lt;/p&gt;
+&lt;p&gt;两个等号成立都是当且仅当 $x=y=z=1$ . $\square$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 14.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $\dfrac{1}{x+3y}+\dfrac{1}{2x+y}=1$ ，则 $x+y$ 的最小值是________.&lt;/p&gt;
+&lt;p&gt;解析：这里，为了尽可能简化条件，选择将 $\dfrac{1}{x+3y}+\dfrac{1}{2x+y}=1$ 左侧分母换元： $\begin{align} \begin{cases} m=x+3y \\ n=2x+y \end{cases} \end{align}$ ，将 $x,y$ 由 $m,n$ 表示： $\begin{align} \begin{cases} x=\dfrac{-m+3n}{5}\\ y=\dfrac{2m-n}{5} \end{cases} \end{align}$ ，&lt;/p&gt;
+&lt;p&gt;这里注意 0\iff \color{blue}{\dfrac{1}{2}&amp;lt;\dfrac{m}{n}&amp;lt;3}&amp;quot;&amp;gt;$x,y&amp;gt;0\iff \color{blue}{\dfrac{1}{2}&amp;lt;\dfrac{m}{n}&amp;lt;3}$ . 所求即 $x+y=\dfrac{-m+3n}{5}+\dfrac{2m-n}{5} =\dfrac{m+2 n}{5}$ 的最小值，这与我们的&lt;strong&gt;例 1&lt;/strong&gt; 没有本质的区别，过程如下：&lt;/p&gt;
+&lt;p&gt;$\begin{align}\dfrac{m+2n}{5}&amp;amp;=\left(\dfrac{m+2n}{5}\right)\left(\dfrac{1}{m}+\dfrac{1}{n}\right)\\ &amp;amp;=\dfrac{1}{5}\left(3+\dfrac{2n}{m}+\dfrac{m}{n}\right)\\ &amp;amp;\geq\dfrac{3+2\sqrt{2}}{5} \end{align}$&lt;/p&gt;
+&lt;p&gt;等号成立当且仅当 $\dfrac{2n}{m}=\dfrac{m}{n}$ ，也就是 $\color{blue}{\dfrac{m}{n}=\sqrt{2}}$ ，可以取得.&lt;/p&gt;
+&lt;p&gt;正文到这里结束.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;附录：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$n$ 元均值不等式证明：&lt;/p&gt;
+&lt;p&gt;我们证明对任意正整数 $n$ ，以及任意 0(i=1,2,\cdots,n)&amp;quot;&amp;gt;$a_i&amp;gt;0(i=1,2,\cdots,n)$ 成立不等式：&lt;br&gt;
+$\color{blue}{\sqrt[n]{a_1a_2\cdots a_n}\leq\dfrac{a_1+a_2+\cdots+a_n}{n}}$ .&lt;br&gt;
+$\rm{Proof:}$ (法一)&lt;br&gt;
+$\rm{Step} \ 1:$ 先进行特殊情况当 $a_1a_2\cdots a_n=1$ ，只需要证明 $a_1+a_2+\cdots +a_n\geq n$ . 我们用调整法进行证明.&lt;br&gt;
+$\rm{Case} \ 1:$ 若 $a_1=a_2=\cdots=a_n=1$ ，结论显然成立.&lt;br&gt;
+$\rm{Case} \ 2:$ 若 $a_j(\forall 1\leq j\leq n)$ 不全为 $1$ ，此时一定有 $\min{a_1,a_2,\cdots,a_n}&amp;lt;1$ (否则 $a_1a_2\cdots a_n\geq \left(\min{a_1,a_2,\cdots,a_n}\right)^n&amp;gt;1$ ，矛盾)，不妨设 $a_1=\min{a_1,a_2,\cdots,a_n}&amp;lt;1$ ，$\max{a_2,a_3,\cdots,a_n}&amp;gt;1$ (否则 $a_1a_2\cdots a_n&amp;lt;1$ ，矛盾). 于是可设 $a_2=\max{a_2,a_3,\cdots,a_n}&amp;gt;1$ .&lt;br&gt;
+令 $b_1=1,b_2=a_1a_2,b_k=a_k(\forall k\geq 3)$ ，此时 $b_1b_2\cdots b_n=a_1a_2\cdots a_n$ ，但是 $\begin{align} &amp;amp;(b_1+b_2+\cdots+b_n)-(a_1+a_2+\cdots+a_n)\\ =&amp;amp;b_1+b_2-a_1-a_2\\ =&amp;amp;1+a_1a_2-a_1-a_2\\ =&amp;amp;\left(1-a_1\right)\left(1-a_2\right)\\ &amp;lt;&amp;amp;0 \end{align}$&lt;br&gt;
+即 $b_1+b_2+\cdots+b_n&amp;lt;a_1+a_2+\cdots+a_n$ . 如此操作至多 $n-1$ 次， $n$ 个数将全变为 $1$ ，但每次变化后，这 $n$ 个数的和将一直减小，于是&lt;br&gt;
+$\begin{align} &amp;amp;a_1+a_2+\cdots+a_n\\ &amp;gt;&amp;amp;b_1+b_2+\cdots+b_n\\ &amp;gt;&amp;amp;\cdots+\cdots+\cdots+\cdots\\ &amp;gt;&amp;amp;1+1+\cdots+1\\ =&amp;amp;n . \end{align}$&lt;br&gt;
+$\rm{Step \ 2:}$ 记 ${\rm{A}}=\sqrt[n]{a_1a_2\cdots a_n}$ ，令{% raw%} $x_i=\dfrac{a_i}{{\rm{A}}}(i=1,2,\cdots,n)$ {% endraw %}，则 $x_1x_2\cdots x_n=1$ . 由 $\rm{Step \ 1}$ 知道 $x_1+x_2+\cdots+x_n\geq n$ ，即 $\color{\red}{\sqrt[n]{a_1a_2\cdots a_n}\leq\dfrac{a_1+a_2+\cdots+a_n}{n}}$ . $\square$&lt;/p&gt;
+&lt;p&gt;由 $\sqrt[n]{a_1a_2\cdots a_n}\leq\dfrac{a_1+a_2+\cdots+a_n}{n}$ ，令 $a_i=\dfrac{1}{y_i}$ ，得到 $\sqrt[n]{\dfrac{1}{y_1y_2\cdots y_n}}\leq\dfrac{\dfrac{1}{y_1}+\dfrac{1}{y_2}+\cdots+\dfrac{1}{y_n}}{n}$ ，也就是说 $\color{\red}{\color{\blue}{\dfrac{n}{\dfrac{1}{y_1}+\dfrac{1}{y_2}+\cdots+\dfrac{1}{y_n}}\leq\sqrt[n]{y_1y_2\cdots y_n}}}$ .&lt;/p&gt;
+&lt;p&gt;最后，我们证明 $\dfrac{x_1+x_2+\cdots+x_n}{n}\leq\sqrt{\dfrac{x_1^2+x_2^2+\cdots+x_n^2}{n}}$ ，即证明 $\left(\dfrac{x_1+x_2+\cdots+x_n}{n}\right)^2&amp;lt;\dfrac{x_1^2+x_2^2+\cdots+x_n^2}{n}$ ，也即证明 $\left({x_1+x_2+\cdots+x_n}\right)^2&amp;lt;n(x_1^2+x_2^2+\cdots+x_n^2)$ ，而 $\begin{align} &amp;amp;\left({x_1+x_2+\cdots+x_n}\right)^2-n(x_1^2+x_2^2+\cdots+x_n^2)\\ =&amp;amp;\sum_{i=1}^n\sum_{j=1}^{n}x_ix_j-n\sum_{i=1}^{n}x_i^2\\ \leq&amp;amp;\sum_{i=1}^{n}\sum_{j=1}^{n}\dfrac{x_i^2+x_j^2}{2}-n\sum_{i=1}^{n}x_i^2\\ =&amp;amp;0 \end{align}$&lt;br&gt;
+等号成立当且仅当 $x_i=x_j,\forall 1\leq i,j\leq n$ .&lt;br&gt;
+故 $\color{\red}{\dfrac{x_1+x_2+\cdots+x_n}{n}\leq\sqrt{\dfrac{x_1^2+x_2^2+\cdots+x_n^2}{n}}}$ . $\square$&lt;/p&gt;
+&lt;p&gt;(法二) 这里只证明 ${\sqrt[n]{a_1a_2\cdots a_n}\leq\dfrac{a_1+a_2+\cdots+a_n}{n}}$ .&lt;/p&gt;
+&lt;p&gt;容易证明不等式： $\mathrm{e}^{x}\geq \mathrm{e}x(\forall x\in\mathbb{R})$ ，等号成立当且仅当 $x=1$ .&lt;br&gt;
+记 $\exp (y)=\mathrm{e}^y$ ，考虑非负实数 $x_i(i=1,2,\cdots,n)$ ，&lt;br&gt;
+令 $x=\dfrac{x_i}{A_n}(i=1,2,\cdots,n)$ ，这里 $A_n=\dfrac{x_1+x_2+\cdots+x_n}{n}$ ，&lt;br&gt;
+则有 $\exp\left( \frac{x_i}{A_n}\right)\geq\mathrm{e}\dfrac{x_i}{A_n}$ ，&lt;br&gt;
+累乘得 $\exp\left(\frac{x_1+x_2+\cdots+x_n}{A_n} \right)\geq\mathrm{e}^{n}\dfrac{x_1x_2\cdots x_n}{A_n^n}$ ，&lt;/p&gt;
+&lt;p&gt;即 $A_n\geq\sqrt[n]{x_1x_2\cdots x_n}$ ，&lt;br&gt;
+也即 $\dfrac{\sum\limits_{i=1}^{n}x_i}{n}\geq \sqrt[n]{\prod_{i=1}^{n}x_i}$&lt;br&gt;
+当且仅当 $\dfrac{x_i}{A_n}=1(i=1,2,\cdots,n)$ 即 $x_1=x_2=\cdots=x_n$ 等号成立.&lt;/p&gt;
+&lt;p&gt;为&lt;strong&gt;例题 11、例题 12&lt;/strong&gt; 补充了两个习题：&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/353135338&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        例题 11、例题 12 补充
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;这里补充了一些&lt;strong&gt;更高层次&lt;/strong&gt;的习题，偏向&lt;strong&gt;竞赛基础&lt;/strong&gt;内容，有兴趣的可以点进去看看：&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/398776077&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        题解 1
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+ ，&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/399205057&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        题解 2
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+， &lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/399702027&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        题解 3
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+，&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/399774433&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        题解 4
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+ .&lt;/p&gt;
+&lt;p&gt;感谢阅读！&lt;/p&gt;
+&lt;h1 id=&#34;5参考&#34;&gt;5.参考
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/352588326#ref_1_0&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        ^
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+ 这个题目有其他解法，包括求导、Holder 不等式，这里不做展开。&lt;/li&gt;
+&lt;li&gt;本文章选自知乎专栏《从零开始的基本不等式及其应用大全——超详细梳理》&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/352588326&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        (查看原文)
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+，若侵犯版权，请联系站长删除。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;6后记&#34;&gt;6.后记
+&lt;/h1&gt;&lt;p&gt;这算是我网站的第一份像样的文章，谢谢各位的捧场，今后争取每周更新一篇此类文章，也欢迎大家在下方的评论区热烈讨论（评论区服务器在海外，可能加载比较缓慢，还请耐心等待！）&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网页上线</title>
+        <link>https://xiaolaohus.github.io/p/%E7%BD%91%E9%A1%B5%E4%B8%8A%E7%BA%BF/</link>
+        <pubDate>Sun, 03 Mar 2024 23:30:59 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E7%BD%91%E9%A1%B5%E4%B8%8A%E7%BA%BF/</guid>
+        <description>&lt;h1 id=&#34;公元2024年3月3日-我的网站终于又上线了&#34;&gt;公元2024年3月3日 我的网站终于又上线了
+&lt;/h1&gt;&lt;p&gt;五年时间，说长也长，说短也短，从2019-2024，经历了许多坎坷，多走了很多弯路，最终完成了这一开发基本完全的个人博客页面，&lt;del&gt;简直就是奇迹&lt;/del&gt;。&lt;/p&gt;
+&lt;p&gt;或许有很多人对我有着疑问：&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;&lt;strong&gt;“为什么你非要搞一个自己的网站呢？”&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;&lt;strong&gt;“你搞这个有什么意义吗？”&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;这些问题早在我初中时就已有好多人问过，&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我想，可能没有意义，仅仅是热爱罢了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我想，趁着年轻，趁着热情没有消散，折腾折腾，也是乐事。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我想，留下记录，如时间胶囊一般，再过十年，二十年，当我想起它来，我能一窥当时的我，如同照片一般，留下一份“切片”。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“因为山就在那儿。”      ——乔治·马洛里&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;其实很简单，搞这些东西能让我获得快乐，有时也可以让你们获得快乐，仅此而已。&lt;/p&gt;
+&lt;p&gt;今后我有什么心得，无论是学习，抑或是生活，硬件，软件，我都会发在这里。&lt;/p&gt;
+&lt;p&gt;理论而言，只要Vercel不跑路，这个网站将会一直存在，在互联网上留有一段足迹，不会像之前的三版网页一样动不动就倒闭。&lt;/p&gt;
+&lt;p&gt;最后，多多感谢能够支持我开发网站的各位，你们对我一直以来的鼓励便是我前进的动力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;愿这份友谊长存！&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://xiaolaohus.github.io/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>心得 on 小老虎sの基地</title>
+        <link>https://xiaolaohus.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+        <description>Recent content in 心得 on 小老虎sの基地</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>小老虎s</copyright>
+        <lastBuildDate>Sun, 21 Sep 2025 23:51:39 +0800</lastBuildDate><atom:link href="https://xiaolaohus.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>随手小记</title>
+        <link>https://xiaolaohus.github.io/p/%E9%9A%8F%E6%89%8B%E5%B0%8F%E8%AE%B0/</link>
+        <pubDate>Fri, 26 Jul 2024 23:50:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E9%9A%8F%E6%89%8B%E5%B0%8F%E8%AE%B0/</guid>
+        <description>&lt;h1 id=&#34;本页面记载随笔&#34;&gt;&lt;em&gt;本页面记载随笔&lt;/em&gt;
+&lt;/h1&gt;&lt;h2 id=&#34;7月26日-星期五-六月廿一-大暑第四&#34;&gt;7月26日 星期五 六月廿一 大暑第四
+&lt;/h2&gt;&lt;p&gt;学校的生活终于迎来了短暂的结束，爽！！！&lt;/p&gt;
+&lt;p&gt;突然想起网页已经好久没更新了，索性上传一个水贴页，以后没事干就在这里吐槽了。&lt;/p&gt;
+&lt;p&gt;学校食堂自从被学校回收后，真的难吃了不少，听说一食堂吃拉肚了好几个，害怕。&lt;/p&gt;
+&lt;p&gt;每天都很热，新高一来的几天，如同蝗虫过境，饭都快抢不到手了。&lt;/p&gt;
+&lt;h2 id=&#34;7月27日-星期六-六月廿二-大暑第五&#34;&gt;7月27日 星期六 六月廿二 大暑第五
+&lt;/h2&gt;&lt;p&gt;今天和汤圆，赤恒，键盘虾去看了《你的名字》&lt;/p&gt;
+&lt;p&gt;久违的电影，即使看了十几遍了也还是没有在电影院看的痛快。&lt;/p&gt;
+&lt;p&gt;2016年-2024年，八年之约，男主的时间线里正好也距离陨石灾害有了八年，不得不说，新海诚真的细节狂魔。&lt;/p&gt;
+&lt;p&gt;希望天气之子也能尽快重映！&lt;/p&gt;
+&lt;p&gt;{% gallery %}
+&lt;img src=&#34;https://xiaolaohus.s3.bitiful.net/note/name1.JPG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://xiaolaohus.s3.bitiful.net/note/name2.JPG&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+{% endgallery %}&lt;/p&gt;
+&lt;h2 id=&#34;10月8日-星期二-九月初六-寒露第一&#34;&gt;10月8日 星期二 九月初六 寒露第一
+&lt;/h2&gt;&lt;p&gt;不知不觉，也已有两月多没写随笔，高中生活果然是忙的嘞。&lt;/p&gt;
+&lt;p&gt;日子一天天过去了，天气也凉了起来，都说江苏没有春秋，只有冬夏，我想确是如此，一星期的时间，从二十多度到几度，其他地方恐是见不到。于四季之中，我最喜欢的是冬季，其次便是秋季，尽管万物开始枯黄，却也是硕果累累的日子，橘子、柿子、石榴，各种瓜果蔬菜数不胜数，于我这种吃货也是别有一番风味。&lt;/p&gt;
+&lt;p&gt;今天是寒露，距离月考还有不到一个星期，共勉吧。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网页上线</title>
+        <link>https://xiaolaohus.github.io/p/%E7%BD%91%E9%A1%B5%E4%B8%8A%E7%BA%BF/</link>
+        <pubDate>Sun, 03 Mar 2024 23:30:59 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E7%BD%91%E9%A1%B5%E4%B8%8A%E7%BA%BF/</guid>
+        <description>&lt;h1 id=&#34;公元2024年3月3日-我的网站终于又上线了&#34;&gt;公元2024年3月3日 我的网站终于又上线了
+&lt;/h1&gt;&lt;p&gt;五年时间，说长也长，说短也短，从2019-2024，经历了许多坎坷，多走了很多弯路，最终完成了这一开发基本完全的个人博客页面，&lt;del&gt;简直就是奇迹&lt;/del&gt;。&lt;/p&gt;
+&lt;p&gt;或许有很多人对我有着疑问：&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;&lt;strong&gt;“为什么你非要搞一个自己的网站呢？”&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=red&gt;&lt;strong&gt;“你搞这个有什么意义吗？”&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;这些问题早在我初中时就已有好多人问过，&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我想，可能没有意义，仅仅是热爱罢了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我想，趁着年轻，趁着热情没有消散，折腾折腾，也是乐事。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我想，留下记录，如时间胶囊一般，再过十年，二十年，当我想起它来，我能一窥当时的我，如同照片一般，留下一份“切片”。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“因为山就在那儿。”      ——乔治·马洛里&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;其实很简单，搞这些东西能让我获得快乐，有时也可以让你们获得快乐，仅此而已。&lt;/p&gt;
+&lt;p&gt;今后我有什么心得，无论是学习，抑或是生活，硬件，软件，我都会发在这里。&lt;/p&gt;
+&lt;p&gt;理论而言，只要Vercel不跑路，这个网站将会一直存在，在互联网上留有一段足迹，不会像之前的三版网页一样动不动就倒闭。&lt;/p&gt;
+&lt;p&gt;最后，多多感谢能够支持我开发网站的各位，你们对我一直以来的鼓励便是我前进的动力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;愿这份友谊长存！&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

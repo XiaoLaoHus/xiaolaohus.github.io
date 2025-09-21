@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>高中数学 on 小老虎sの基地</title>
+        <link>https://xiaolaohus.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <description>Recent content in 高中数学 on 小老虎sの基地</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>小老虎s</copyright>
+        <lastBuildDate>Sun, 21 Sep 2025 23:51:39 +0800</lastBuildDate><atom:link href="https://xiaolaohus.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>大除法因式分解丨高中数学</title>
+        <link>https://xiaolaohus.github.io/p/%E5%A4%A7%E9%99%A4%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E5%A4%A7%E9%99%A4%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
+        <description>&lt;p&gt;首先，我们先介绍一下什么是&lt;strong&gt;大除法&lt;/strong&gt;，怎么用，怎么去理解？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;什么是大除法？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://baike.baidu.com/item/%E5%A4%9A%E9%A1%B9%E5%BC%8F%E9%99%A4%E6%B3%95/2703247&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        大除法 - 百度百科
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;可能大家看得有点懵，给大家举个栗子，大家就明白了。&lt;/p&gt;
+&lt;p&gt;比如我们正常的一个除数除以被除数：&lt;strong&gt;比如 100 除以 4,9 除以 2 等。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们知道 100÷4=25，写过程为：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-1cf5dcdbbb35b163e0831a68e1bfcd34_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;余数为零，说明这个数能被另一个数整除，也就是 4 可以被 100 整除，那么就有：&lt;/p&gt;
+&lt;p&gt;100=4×25&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-05b75397afdffae706a2b68ede74f16d_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;余数不为零，说明这个数不能被另一个数整除，也就是 2 不可以被 9 整除，那么就有：&lt;/p&gt;
+&lt;p&gt;9=2×4+1&lt;/p&gt;
+&lt;p&gt;那么，推广到多项式呢？&lt;/p&gt;
+&lt;p&gt;所以就有了今天的内容：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pica.zhimg.com/v2-997c9954d2cdd026da013a470cec4b82_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;如果常数 C 等于 0，那么 &lt;strong&gt;这个多项式能被另一个多项式整除。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;先来举一两个简单的例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://picx.zhimg.com/v2-3057f98ee4e47675676cca9e9f93fdf7_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;先看第一个例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-b632c15d8aaf3146af49345b8deb3df8_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;再看第二个式子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-60c1e1468c9209b994262c3c049dce2b_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;继续第三个式子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-17a74dfa067d4770d45b9210e4fab5c0_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;继续第四个例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-93aab7bf1cbad554b76008a8c1c278ae_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;**&lt;a class=&#34;link&#34; href=&#34;https://zhida.zhihu.com/search?content_id=163316923&amp;amp;content_type=Article&amp;amp;match_order=1&amp;amp;q=%e7%ab%8b%e6%96%b9%e5%92%8c%e5%85%ac%e5%bc%8f&amp;amp;zhida_source=entity&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        立方和公式
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+**大家可以自行按此推导，其实这些都是需要记住的，如果会推导的话，记都不用记。&lt;/p&gt;
+&lt;p&gt;继续第五个例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pica.zhimg.com/v2-1528a66ec93e4cf838c2f952d426ca9c_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;当然，我们可以将其推导到更高次项也是完全可以的，这里就不再继续书写了。相信看到这里的童鞋基本都可以看懂了。&lt;/p&gt;
+&lt;p&gt;下面回到我们的正题，使用&lt;strong&gt;大除法（&lt;a class=&#34;link&#34; href=&#34;https://zhida.zhihu.com/search?content_id=163316923&amp;amp;content_type=Article&amp;amp;match_order=1&amp;amp;q=%e9%95%bf%e9%99%a4%e6%b3%95&amp;amp;zhida_source=entity&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        长除法
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+）求解一元三次方程&lt;/strong&gt;，当然更高次也是适用的。&lt;/p&gt;
+&lt;p&gt;还是那句话，&lt;strong&gt;百闻不如一见，看书不如看实验&lt;/strong&gt;！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-215faf58ea064d3ac0aefb050dea49a2_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;就以这四个式子为大家做个示范吧：&lt;/p&gt;
+&lt;p&gt;先看第一个式子：&lt;/p&gt;
+&lt;p&gt;按照今天提到的方法解：（直接假定我们知道解，然后去找关联，当然解一定是常数的因数里面的一个，包含 1 以及它本身）。&lt;/p&gt;
+&lt;p&gt;如果有去了解过我以前写的内容的话，应该都会发现，&lt;strong&gt;根一定都是常数项的因数中的一个。如一式子中的 1 的因数有（-1,1），正数负数范围内都考虑。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pica.zhimg.com/v2-55ec591be53374ed6c9f5e8b5eca6282_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-ece7c0e93ed525a6a14f227c5507b26a_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;继续看第二个例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-51c567b0637dc8eaaa0fd0233fc9f44a_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;继续看第三个例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://picx.zhimg.com/v2-c30984a4b7bbfb6e0c6efd0c34af4d5d_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://picx.zhimg.com/v2-f910407ca72ba6f81f5f8ab0c9132ba3_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;最后看第四个例子：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-ff6c7514abfae9d4b2345f4b00d8a7d6_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;看，是不是也非常的简单，当然如果你能直接看出来一个解的话，那就直接非常简单了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;最后再说明一点，这个使用条件也是不能去求解分式根，因为分解难度大，所以是分式根的话，推荐使用双十字法进行求解&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;文章如下：&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://mp.weixin.qq.com/s?__biz=MzU3MzY5MzU1NQ==&amp;amp;mid=2247484641&amp;amp;idx=2&amp;amp;sn=3be7789639a3a00d64bb09173cee4738&amp;amp;chksm=fd3c8ffdca4b06eb2e60ca635ad7ea8adfe479a1e9c5027139d05dbc32792295ec4a10983f6a&amp;amp;scene=21#wechat_redirect&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        数学技巧 || 双十字法巧解一元三次方程
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;最后，我们把它推到高次项，也给大家&lt;strong&gt;举个栗子。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;**如果大家对大除法用的比较熟的话，其实进行&lt;a class=&#34;link&#34; href=&#34;https://zhida.zhihu.com/search?content_id=163316923&amp;amp;content_type=Article&amp;amp;match_order=1&amp;amp;q=%e9%99%8d%e5%b9%82%e6%8e%92%e5%88%97&amp;amp;zhida_source=entity&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        降幂排列
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+属于多余的，**进行降幂的目的主要是防止运算遗漏导致出错而已。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-71c1535413f0f4f8e78c1e7cf56439c5_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-6107a6ec5e073d06c075170537b019d1_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;好了，以上就是本次的分享了！希望大家用得熟练~~&lt;/p&gt;
+&lt;p&gt;大致就写这么多了，由于号主也是在工作中只能闲下来的时候才会写一下，所以做工就会相当的粗糙，这篇文章或者这个技巧我个人希望的是能让需要的人看到，让更多的人知道还有这个方法，希望能看到这篇文章或者学到这个技巧的人能够走的更远，号主就只能走到这了，也希望对这个有研究的可以继续研究下去，让跟多的人学到，更多的人看到~~~&lt;/p&gt;
+&lt;p&gt;本文章选自知乎专栏《&lt;strong&gt;数学技巧||一元三次方程求解，大除法解一元三次方程！&lt;/strong&gt;》&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/338340227&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        (查看原文)
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+，若侵犯版权，请联系站长删除。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>“穿针引线”的使用丨高中数学</title>
+        <link>https://xiaolaohus.github.io/p/%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <pubDate>Sun, 24 Nov 2024 21:30:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
+        <description>&lt;h1 id=&#34;引入&#34;&gt;&lt;strong&gt;引入&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;首先，让我们回忆一下解不等式的方法.在初中时我们便已经学到我们可以把不等式当作方程来解，同时注意不等号的方向.&lt;/p&gt;
+&lt;p&gt;这样的方法对于一次不等式确实是最简单也是最有效的方法了.但是，当我们遇到二次不等式，那又是怎么解决的呢？&lt;/p&gt;
+&lt;p&gt;对于一元二次不等式，高中课本上采用了 &amp;lsquo;数形结合&amp;rsquo; 的方法，即：将不等式各项都移到一边，并将得到的多项式看作一个函数并在平面直角坐标系中画出函数图像，再根据函数图像写出解集.&lt;/p&gt;
+&lt;p&gt;这便启发了我们：我们可以通过画函数图像的方法来解不等式.&lt;/p&gt;
+&lt;h1 id=&#34;穿针引线的内容&#34;&gt;&lt;strong&gt;“穿针引线”的内容&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;那么运用数形结合的思想，我们便能通过以下方法解决更高次的不等式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;分解&lt;/strong&gt; :将不等式所有项移动到一边并进行因式分解.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;标根&lt;/strong&gt; :在x轴上标出函数图像与x轴的交点.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;穿线&lt;/strong&gt; :逢点必穿，奇穿偶不穿.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;解集&lt;/strong&gt; :根据函数图像写出解集.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;下面让我们来试一试：&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;例1.&lt;/strong&gt; 解不等式 $ (x-1)(x-2)(x-3)&amp;gt;0 .$&lt;/p&gt;
+&lt;p&gt;首先我们发现该不等式已经帮我们因式分解了，接着便是解出它的零点.&lt;/p&gt;
+&lt;p&gt;使用瞪眼法，我们可以得到函数 $ f(x)=(x-1)(x-2)(x-3) $ 的3个零点分别为 $1$,$2$,$3$，那么我们便在x轴上将这三个点用实心点标注.&lt;/p&gt;
+&lt;p&gt;然后，让我们开始“穿线”.从哪里开始“穿”呢？其实我们可以简单试一下当x=4时它会是什么样子:&lt;/p&gt;
+&lt;p&gt;$f(4) = 3\times 2\times 1 = 6&amp;gt;0 $&lt;/p&gt;
+&lt;p&gt;那么，这便说明我们应该从右上角开始“穿”.“穿”完后，我们便可以得到一个大致的函数图像，然后用它写出原不等式的解集.&lt;/p&gt;
+&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/eg1.png&#34; alt=&#34;eg1&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;hr&gt;
+&lt;p&gt;多项式不等式一般可以使用这个方法.不过，分式方程是怎么解决的呢？让我们回想一下：在高中时，我们会将分式的分子与分母相乘变为多项式来解.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;例2.&lt;/strong&gt; 解不等式 $ \dfrac{(x-1)(x+2)}{(x-3)(x-2)} &amp;gt;0 .$&lt;/p&gt;
+&lt;p&gt;首先将原不等式转化，将分子与分母相乘转化为多项式: $ (x-1)(x+2)(x-3)(x-2)&amp;gt;0. $&lt;/p&gt;
+&lt;p&gt;然后便可以用穿针引线法来解决这个不等式了.&lt;/p&gt;
+&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/eg2.png&#34; alt=&#34;eg2&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;hr&gt;
+&lt;p&gt;不过，这里出现了一些不太一样的地方.当我们比较用穿针引线画出来的大致图像与原不等式左边的真实图像之间发生了不小的偏差:&lt;/p&gt;
+&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/gra2.png&#34; alt=&#34;gra2&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;p&gt;那图像上的偏差是否会影响答案的正确性呢？“穿针引线法”难道出现问题了吗？&lt;/p&gt;
+&lt;h1 id=&#34;穿针引线法的溯源&#34;&gt;&lt;strong&gt;穿针引线法的溯源&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;首先我们要知道“穿针引线”是怎么来的.根据函数的单调性，例如 $ f(x)=x-1 $ 这个函数，我们可以得知它在 $ R $ 上单调递增.因此，在它的零点 $ x=1 $ 的左、右分别小于 $ 0 $ 、大于 $ 0 $ .&lt;/p&gt;
+&lt;p&gt;那么，当若干个多项式相乘，便仍然可以观察其单调性和零点，推断它大于 $ 0 $ 和小于 $ 0 $ 的区间.根据同号相乘得正，异号相乘得负，我们便能画出整个相乘式的大于 $ 0 $ 和小于 $ 0 $ 的区间.&lt;/p&gt;
+&lt;p&gt;所以，因为除或乘一个多项式对正负并没有影响，我们便能够把分式的不等式化为分子与分母相乘的多项式.唯一的区别就是，分式的分母不能为 $0$ ，所以分式的图像会出现渐近线，而相乘的形式却只是一个“取不到的零点”.&lt;/p&gt;
+&lt;p&gt;由此，我们便能将穿针引线法进行推广.&lt;/p&gt;
+&lt;h1 id=&#34;穿针引线法的推广&#34;&gt;&lt;strong&gt;穿针引线法的推广&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;例3.&lt;/strong&gt; 解不等式 $ (x-4)(e^x-1)&amp;gt;0. $&lt;/p&gt;
+&lt;p&gt;我们使用瞪眼法，得出两个零点 $ x=0 , x=4 $.因为函数 $ y=(x-4) $ 和 $ y=e^x-1 $ 均在 $R$ 内单调递增，所以我们便可以画出这样的图像来求解了.&lt;/p&gt;
+&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/eg3.png&#34; alt=&#34;eg3&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;p&gt;这与它的函数原图像颇为相似：&lt;/p&gt;
+&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/gra3.png&#34; alt=&#34;gra3&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;h1 id=&#34;课后练习&#34;&gt;&lt;strong&gt;课后练习&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;解下列不等式:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$(1) (x-4)log(3,x)&amp;lt;0 ; $&lt;/p&gt;
+&lt;p&gt;$(2) \dfrac{(x-7)log(2,x)}{(e^x-3)x^2.}$&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>三角函数公式汇总 &#43; 记忆丨高中数学</title>
+        <link>https://xiaolaohus.github.io/p/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%AC%E5%BC%8F%E6%B1%87%E6%80%BB--%E8%AE%B0%E5%BF%86%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <pubDate>Tue, 14 May 2024 11:47:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%AC%E5%BC%8F%E6%B1%87%E6%80%BB--%E8%AE%B0%E5%BF%86%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-979de35605f87260cb76e0e541bfc6b4_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;温馨提示内容较长需耐心观看&#34;&gt;温馨提示：内容较长，需耐心观看
+&lt;/h2&gt;&lt;h2 id=&#34;三角函数公式包括和差角公式和差化积公式积化和差公式倍角公式诱导公式等&#34;&gt;三角函数公式包括和差角公式、和差化积公式、积化和差公式、倍角公式、诱导公式等。
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;本文重点：巧记和差化积、积化和差公式&lt;/strong&gt; &lt;strong&gt;（很多小伙伴记了就忘，忘了又记）&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;01-定义式&#34;&gt;&lt;strong&gt;01 定义式&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;三角函数公式是数学中属于初等函数中的超越函数的一类函数公式。它们的本质是任意角的集合与一个比值的集合的变量之间的映射，通常的三角函数是在平面直角坐标系中定义的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-99271430c4f8fdef0e17d914d1f2c152_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;02-函数公式&#34;&gt;02 函数公式
+&lt;/h2&gt;&lt;p&gt;倒数关系:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-458fac0a133237ae0b39909edb348340_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-81a7a8dc3f3f72f538ccc9ef08669a00_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-893984695884f9a39cab57b4dae05fa9_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;商数关系：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-451ca660727521cdedd64efbfa305896_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-75fb23b4e44e46f3346c52b203d073f2_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;平方关系：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-3598beb36be8b60b6676f242aafeee78_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-a20622454fb722cbc3504a1e5d79fef5_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-bf9aa675ca52fd78bf37eaade6342fa0_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;03-诱导公式&#34;&gt;&lt;strong&gt;03 诱导公式&lt;/strong&gt;
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;1. 公式 1：设α为任意角，终边相同的角的同一三角函数的值相等&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;$sin( 2kπ +α)=sinα(k∈Z)$&lt;/p&gt;
+&lt;p&gt;$cos(2kπ+α)=cosα(k∈Z)$&lt;/p&gt;
+&lt;p&gt;$tan(2kπ+α)=tanα(k∈Z)$&lt;/p&gt;
+&lt;p&gt;$cot(2kπ+α)=cotα(k∈Z)$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;2. 公式二：设α为任意角，π+α的三角函数值与α的三角函数值之间的关系&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;sin(π+α) ＝ －sinα&lt;/p&gt;
+&lt;p&gt;cos(π+α)＝－cosα&lt;/p&gt;
+&lt;p&gt;tan(π+α)＝ tanα&lt;/p&gt;
+&lt;p&gt;cot(π+α)＝cotα&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;3. 公式三：任意角α与 -α的三角函数值之间的关系&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;sin(－α)=－sinα&lt;/p&gt;
+&lt;p&gt;cos(－α)=cosα&lt;/p&gt;
+&lt;p&gt;tan(－α)=－tanα&lt;/p&gt;
+&lt;p&gt;cot(－α)=－cotα&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;4. 公式四：利用公式二和公式三可以得到π-α与α的三角函数值之间的关系&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;sin(π－α)=sinα&lt;/p&gt;
+&lt;p&gt;cos(π－α)=－cosα&lt;/p&gt;
+&lt;p&gt;tan(π－α)=－tanα&lt;/p&gt;
+&lt;p&gt;cot(π－α)=－cotα&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;5、公式五：利用公式一和公式三可以得到 2π-α与α的三角函数值之间的关系&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;sin(2π－α)=－sinα&lt;/p&gt;
+&lt;p&gt;cos(2π－α)=cosα&lt;/p&gt;
+&lt;p&gt;tan(2π－α)=－tanα&lt;/p&gt;
+&lt;p&gt;cot(2π－α)=－cotα&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;6、公式六：π/2±α与α的三角函数值之间的关系&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;sin(π/2+α)=cosα&lt;/p&gt;
+&lt;p&gt;sin(π/2－α)=cosα&lt;/p&gt;
+&lt;p&gt;cos(π/2+α)=－sinα&lt;/p&gt;
+&lt;p&gt;cos(π/2－α)=sinα&lt;/p&gt;
+&lt;p&gt;tan(π/2+α)=－cotα&lt;/p&gt;
+&lt;p&gt;tan(π/2－α)=cotα&lt;/p&gt;
+&lt;p&gt;cot(π/2+α)=－tanα&lt;/p&gt;
+&lt;p&gt;cot(π/2－α)=tanα&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;记背诀窍：奇变偶不变，符号看象限，即形如（2k+1）90°±α，则函数名称变为余名函 数，正弦变余弦，余弦变正弦，正切变余切，余切变正切。形如 2k×90°±α，则函数名称不变。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;04-基本公式&#34;&gt;&lt;strong&gt;04 基本公式：&lt;/strong&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;41-二角和差公式&#34;&gt;4.1. 二角和差公式
+&lt;/h3&gt;&lt;p&gt;口诀（正余弦两角和差公式）：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;赛壳壳赛符号同，壳壳赛赛符号异。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1）正弦和差前后同号，余弦和差前后异号&lt;/p&gt;
+&lt;p&gt;2）正弦和差公式始终是 sin 与 cos 相乘; 余弦和差公式始终是 cos 与 cos 相乘，sin 与 sin 相乘&lt;/p&gt;
+&lt;p&gt;cos(α+β)=cosα·cosβ-sinα·sinβ&lt;/p&gt;
+&lt;p&gt;cos(α-β)=cosα·cosβ+sinα·sinβ&lt;/p&gt;
+&lt;p&gt;sin(α±β)=sinα·cosβ±cosα·sinβ&lt;/p&gt;
+&lt;p&gt;再说一下 tan 和差公式的记忆。&lt;/p&gt;
+&lt;p&gt;由下图可以看到，tan 和差公式的右边分式，分子与分母符号是不同的，而左边与分子符号又是相同的。这样我们就能通过左边确定等式右边的符号。&lt;/p&gt;
+&lt;p&gt;再记住上加下乘，就能把 tan 的每一项记住了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-261f8952f07d09f01358934a42f1425d_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;42-三角和公式&#34;&gt;4.2 三角和公式
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-b43931780568f62d17328c868659813b_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意！注意！注意！&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;人间大炮一级准备&#34;&gt;人间大炮一级准备!!！
+&lt;/h2&gt;&lt;h2 id=&#34;43-积化和差公式&#34;&gt;4.3 积化和差公式：
+&lt;/h2&gt;$${\displaystyle \sin \alpha \cos \beta ={\sin(\alpha +\beta )+\sin(\alpha -\beta ) \over 2}} \\ {\displaystyle \cos \alpha \sin \beta ={\sin(\alpha +\beta )-\sin(\alpha -\beta ) \over 2}} \\ {\displaystyle \cos \alpha \cos \beta ={\cos(\alpha +\beta )+\cos(\alpha -\beta ) \over 2}} \\ {\displaystyle \sin \alpha \sin \beta =-{\cos(\alpha +\beta )-\cos(\alpha -\beta ) \over 2}} \\$$&lt;h2 id=&#34;431-口诀法&#34;&gt;4.3.1 口诀法：
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;正余余正，正加正减；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;余余正正，余加负余减。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;d. 和差化积公式：&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-1bf304d141781970fa5caf77eaa50ec0_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;正加正，正在前；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;正减正，余在前；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;余加余，余并肩；&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;余减余，负正弦。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“两个口诀互逆，但推荐分别记忆，这样用起来会非常快！！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;敲黑板，下面重点。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;人间大炮二级准备!!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-462bbe899838110ccd8d055ba595a916_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-1bf304d141781970fa5caf77eaa50ec0_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;前后项数统一：&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;积是一项，化和差后要 $\div2$ ；&lt;/li&gt;
+&lt;li&gt;和差是两项，化积后要成 $\times 2$ 。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;内外项数统一：&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;括号内变量都是先 $\alpha + \beta$ ，再 $\alpha - \beta$ 。&lt;/li&gt;
+&lt;li&gt;化和差后是两项， $\alpha \pm \beta$ 两项不变；&lt;/li&gt;
+&lt;li&gt;化积后是一项， $\alpha \pm \beta$ 要 $\div2$ 变一项。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;432-帅哥记忆法&#34;&gt;&lt;strong&gt;4.3.2 帅哥记忆法：&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-cd0ee82d744fed82841bde87cae490ce_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;积化和差只需反过来说，即：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;帅哥 = 帅 + 帅&lt;/li&gt;
+&lt;li&gt;哥帅 = 帅 - 帅&lt;/li&gt;
+&lt;li&gt;哥哥 = 哥 + 哥&lt;/li&gt;
+&lt;li&gt;负嫂嫂 = 哥 - 哥&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-2389e1ee569be831ace9175822fb5f82_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;本人更喜欢第一种方法，直接记忆好记并且快。&lt;/p&gt;
+&lt;h2 id=&#34;44-倍角公式&#34;&gt;4.4. 倍角公式：
+&lt;/h2&gt;&lt;p&gt;◆ 二倍角公式&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-8a1331b48ccf99fd0e88713479fc6491_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;推论： 升幂缩角公式&lt;/p&gt;
+&lt;p&gt;降幂扩角公式&lt;/p&gt;
+&lt;p&gt;运用二倍角公式就是升幂，将公式 Cos2α变形后可得到降幂公式。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-9cea2b58864f5e500e58cfc2ed46d72e_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-三倍角公式&#34;&gt;◆ 三倍角公式
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-1784ff46862fc5dd36c805227a4d2c24_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-1dc8c03e68196e4132703d3e9742cb69_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-b6e834613deb50afea89075ae53a7513_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-0d5cbe1b0c4a7cc387208c88229ea8c2_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-8f999fe70f2ed6b3ce578f20bf3dfc6c_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-四倍角公式&#34;&gt;◆ 四倍角公式
+&lt;/h2&gt;&lt;p&gt;$sin4a=-4*[cosa&lt;em&gt;sina&lt;/em&gt;(2*sina^2-1)]$&lt;/p&gt;
+&lt;p&gt;$cos4a=1+(-8&lt;em&gt;cosa^2+8&lt;/em&gt;cosa^4)$&lt;/p&gt;
+&lt;p&gt;$tan4a=(4&lt;em&gt;tana-4&lt;/em&gt;tana^3)/(1-6*tana^2+tana^4)$&lt;/p&gt;
+&lt;h2 id=&#34;-五倍角公式&#34;&gt;◆ 五倍角公式
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-5672571ee923e023b22eedc023dfe5f8_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-9ca985a62868ee9f47c78f6a8bef45ff_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-16db714ac088ffd247fc16e8ee0ee0f0_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-半角公式&#34;&gt;◆ 半角公式
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-e439907c2e0279805eafcf932a08c0a9_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;（正负由 $\alpha/2$ 所在的象限决定）&lt;/p&gt;
+&lt;h2 id=&#34;45-万能公式&#34;&gt;4.5. 万能公式
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-e8fe7c5ccc6e5cbe747a0c06a30e9f66_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;46-辅助角公式&#34;&gt;4.6 辅助角公式
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-596d12e265227ec2867c52ff7c4d2128_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;47-余弦定理&#34;&gt;4.7. 余弦定理
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/v2-8da88c69b201e3e66cc1a15a055720d1_b.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;48-三角函数公式算面积&#34;&gt;4.8. 三角函数公式算面积
+&lt;/h2&gt;&lt;p&gt;定理：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic4.zhimg.com/v2-b1c122ee74d7ea20d2fe5e5828c7b517_r.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;在△ABC 中，其面积就应该是底边对应的高的 1/2，不妨设 AD 边对应的高是 BC，那么△ABC 的面积就是 BC&lt;em&gt;AD&lt;/em&gt;1/2。而 AD 是垂直于 BC 的，这样△ADC 就是直角三角形了，由此可以得出， $AD=$ $ACsinC$，将这个式子带回三角形的计算公式中就可以得到：S△ABC= $1/2absinC=1/2bcsinA=1/2acsinB$&lt;/p&gt;
+&lt;p&gt;同理，即可得出三角形的面积等于两邻边及其夹角正弦值的乘积的一半。&lt;/p&gt;
+&lt;p&gt;◆ 公式：&lt;/p&gt;
+&lt;p&gt;若△ABC 中角 A，B，C 所对的三边是 a,b,c：&lt;/p&gt;
+&lt;p&gt;则 S△ABC= $1/2absinC=1/2bcsinA=1/2acsinB$&lt;/p&gt;
+&lt;h2 id=&#34;5结语如有发现错误敬请指摘可能是不小心打错的毕竟公式这么多我真会给我自己找台阶下&#34;&gt;5.结语：如有发现错误，敬请指摘！可能是不小心打错的，毕竟公式这么多（我真会给我自己找台阶下）
+&lt;/h2&gt;&lt;p&gt;感谢每一个认真阅读，并反馈所发现的错误的人，正是由于你们的存在，这篇文章才更完美。&lt;/p&gt;
+&lt;p&gt;也为文章中错误给读者带来的不便表示抱歉。&lt;/p&gt;
+&lt;p&gt;如果觉得本文对你有帮助，请点赞收藏，以便你能第一时间找到~~~&lt;/p&gt;
+&lt;p&gt;本文章选自知乎专栏《&lt;strong&gt;考生必记：三角函数公式汇总 + 记忆（没有比这更全）&lt;/strong&gt;》&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/390928056&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        (查看原文)
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+，若侵犯版权，请联系站长删除。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>基本不等式丨高中数学</title>
+        <link>https://xiaolaohus.github.io/p/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <pubDate>Sat, 16 Mar 2024 21:30:00 +0000</pubDate>
+        
+        <guid>https://xiaolaohus.github.io/p/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
+        <description>&lt;h1 id=&#34;1基本不等式&#34;&gt;1.&lt;strong&gt;基本不等式&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;这是我们一般说的基本不等式：对非负实数 $a,b$ ，有&lt;/p&gt;
+$$
+a+b \geq 2\sqrt{ab} \\
+$$&lt;p&gt;等号成立当且仅当 $a=b$.&lt;/p&gt;
+&lt;p&gt;事实上，这个不等式来自于&lt;/p&gt;
+$$
+(x-y)^2\geq0 \\
+$$&lt;p&gt;即&lt;/p&gt;
+$$
+x^2+y^2 \geq 2xy \\
+$$&lt;p&gt;再令&lt;/p&gt;
+$$
+\begin{align*} x^2=&amp;a\\\\ y^2=&amp;b \end{align*}
+$$&lt;p&gt;其中 $a,b$ 是非负实数.&lt;/p&gt;
+&lt;p&gt;等号成立条件也即 $x-y=0$，即 $a=b$.&lt;/p&gt;
+&lt;h1 id=&#34;2基本不等式链&#34;&gt;2.&lt;strong&gt;基本不等式链&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;从上面的不等式，我们可以得到其他的不等式，如：&lt;/p&gt;
+&lt;p&gt;对正实数 $a,b$ ，有&lt;/p&gt;
+$$
+\begin{align*} \dfrac{2}{\dfrac{1}{a}+\dfrac{1}{b}}\leq \sqrt{ab} \leq\dfrac{a+b}{2} \leq\sqrt{\dfrac{a^2+b^2}{2}} \end{align*} \\
+$$&lt;p&gt;其中，我们已经证明了 $\sqrt{ab} \leq\dfrac{a+b}{2}$ . 接下来完成剩下的证明：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;证明：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们先证明： $\dfrac{a+b}{2} \leq\sqrt{\dfrac{a^2+b^2}{2}}$ .&lt;/p&gt;
+&lt;p&gt;要证 $\dfrac{a+b}{2} \leq\sqrt{\dfrac{a^2+b^2}{2}}$&lt;/p&gt;
+&lt;p&gt;只需证 $\dfrac{(a+b)^2}{4}\leq \dfrac{a^2+b^2}{2}$&lt;/p&gt;
+&lt;p&gt;即证 $(a+b)^2\leq 2(a^2+b^2)$&lt;/p&gt;
+&lt;p&gt;即证 $a^2+2ab+b^2\leq 2a^2+2b^2$&lt;/p&gt;
+&lt;p&gt;即证 $2ab\leq a^2+b^2$&lt;/p&gt;
+&lt;p&gt;显然成立，且等号成立当且仅当 $a=b$.&lt;/p&gt;
+&lt;p&gt;再证明： $\dfrac{2}{\dfrac{1}{a}+\dfrac{1}{b}}\leq \sqrt{ab}$&lt;/p&gt;
+&lt;p&gt;要证 $\dfrac{2}{\dfrac{1}{a}+\dfrac{1}{b}}\leq \sqrt{ab}$&lt;/p&gt;
+&lt;p&gt;只需证 $\sqrt{\dfrac{1}{a}\cdot\dfrac{1}{b}}\leq \dfrac{\dfrac{1}{a}+\dfrac{1}{b}}{2}$&lt;/p&gt;
+&lt;p&gt;由 $\sqrt{ab}\leq\dfrac{a+b}{2}$ 知道 $\sqrt{\dfrac{1}{a}\cdot\dfrac{1}{b}}\leq \dfrac{\dfrac{1}{a}+\dfrac{1}{b}}{2}$ 成立&lt;/p&gt;
+&lt;p&gt;且 等号成立当且仅当 $\dfrac{1}{a}=\dfrac{1}{b}$，即 $a=b$ .&lt;/p&gt;
+&lt;p&gt;注：$\dfrac{2}{\dfrac{1}{a}+\dfrac{1}{b}}$ 称作 $a,b$ 的&lt;strong&gt;调和平均值&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$\sqrt{ab}$ 称作 $a,b$ 的&lt;strong&gt;几何平均值&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$\dfrac{a+b}{2}$ 称作 $a,b$ 的&lt;strong&gt;算术平均值&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$\sqrt{\dfrac{a^2+b^2}{2}}$ 称作 $a,b$ 的&lt;strong&gt;平方平均值&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;上面的不等式链可简记为 “调几算方”.&lt;/p&gt;
+&lt;h1 id=&#34;3基本不等式的应用&#34;&gt;3.&lt;strong&gt;基本不等式的应用&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;一般地，基本不等式用于处理最值的求解及其相关的证明。这里我们按照所给条件的类型来讨论。&lt;/p&gt;
+&lt;h2 id=&#34;31和式条件&#34;&gt;&lt;strong&gt;3.1和式条件&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;这里指和为定值的条件，例如正实数 $x,y$ 满足 $x+y= 1$ 或 $\dfrac{1}{x}+\dfrac{1}{y}=1$ 或 $x+y=xy$ .&lt;/p&gt;
+&lt;p&gt;事实上，这三个条件可以说是完全一致，因为：&lt;/p&gt;
+&lt;p&gt;对 $\dfrac{1}{x}+\dfrac{1}{y}=1$ 做换元 $x=\dfrac{1}{a},y=\dfrac{1}{b}$&lt;/p&gt;
+&lt;p&gt;就得到 $a +b=1$.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 1.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $x+y= 1$ ，则 $\dfrac{1}{x}+\dfrac{1}{y}$ 的最小值为________.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;解析：&lt;/strong&gt; 方法一：由基本不等式链得&lt;/p&gt;
+$$
+\dfrac{2}{\dfrac{1}{x}+\dfrac{1}{y}}\leq \dfrac{x+y}{2} \\
+$$&lt;p&gt;故&lt;/p&gt;
+$$
+\dfrac{1}{x}+\dfrac{1}{y}\geq \dfrac{4}{x+y}=4 \\
+$$&lt;p&gt;等号成立当且仅当 $x=y=\dfrac{1}{2}$ .&lt;/p&gt;
+&lt;p&gt;故答案为 4.&lt;/p&gt;
+&lt;p&gt;方法二 (&lt;strong&gt;化齐次&lt;/strong&gt;)： 将 $\dfrac{1}{x}+\dfrac{1}{y}$ 乘以 $x+y$，&lt;/p&gt;
+&lt;p&gt;即&lt;/p&gt;
+$$
+\begin{align*} \dfrac{1}{x}+\dfrac{1}{y}&amp;=(x+y)(\dfrac{1}{x}+\dfrac{1}{y})\\\\ &amp;=2+\dfrac{y}{x}+\dfrac{x}{y}\\\\ &amp;\geq 2+2\sqrt{\dfrac{y}{x}\cdot\dfrac{x}{y}}\\\\ &amp;=4 \end{align*}
+$$&lt;p&gt;等号成立当且仅当 $\dfrac{y}{x}=\dfrac{x}{y}$ ，即 $x=y=\dfrac{1}{2}$ .&lt;/p&gt;
+&lt;p&gt;这时候其实有一些问题：如果不能直接用基本不等式链或者 $x+y=2\not=1$ 怎么办？&lt;/p&gt;
+&lt;p&gt;这个例题我们解决这两个问题：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 2.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $x+y= 2$ ，则 $\dfrac{4}{x}+\dfrac{9}{y}$ 的最小值为________.&lt;/p&gt;
+&lt;p&gt;解析：这里就不能直接用不等式链了，考虑化齐次，为此，将 $x+y= 2$ 右边改写为 $1$， 即 $\dfrac{1}{2}(x+y)=1$ 于是&lt;/p&gt;
+$$
+\begin{align*} \dfrac{4}{x}+\dfrac{9}{y}&amp;=\dfrac{1}{2}(x+y)(\dfrac{4}{x}+\dfrac{9}{y})\\\\ &amp;=\dfrac{1}{2}(13+\dfrac{4y}{x}+\dfrac{9x}{y})\\\\ &amp;\geq\dfrac{1}{2}(13+2\sqrt{\dfrac{4y}{x}\cdot\dfrac{9x}{y}})\\\\ &amp;=\dfrac{25}{2} \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当 $\dfrac{4y}{x}=\dfrac{9x}{y}$&lt;/p&gt;
+&lt;p&gt;即 $3x=2y=\dfrac{12}{5}$.&lt;/p&gt;
+&lt;p&gt;另外，化齐次不只可以通过乘法，还可以通过直接代换 $1$. 比如下面这个例子：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 3.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $x+y= 1$ ，则 $\dfrac{3}{x}+\dfrac{4+x}{y}$ 的最小值为________.&lt;/p&gt;
+&lt;p&gt;直接乘 $x+y$ 在这里不是很行了，因为&lt;/p&gt;
+$$
+\begin{align*} (x+y)(\dfrac{3}{x}+\dfrac{4+x}{y}) &amp;=3+\dfrac{x(4+x)}{y}+\dfrac{3y}{x}+4+x\\\\ &amp;=7+x\dfrac{x(4+x)}{y}+\dfrac{3y}{x} \end{align*} \\
+$$&lt;p&gt;这时候需要处理的是 $x\dfrac{x(4+x)}{y}+\dfrac{3y}{x}$ ，而这个式子不齐次，并不好直接处理. 那为什么会产生这个不齐次的部分？容易想到，是因为 $\dfrac{3}{x}+\dfrac{4+x}{y}$ 中的 $\dfrac{4+x}{y}$ 导致产生了一些问题，再准确点，就是 $\dfrac{x}{y}$ 导致的. &lt;strong&gt;因为&lt;/strong&gt; $\dfrac{x}{y}$ &lt;strong&gt;是齐次的，不需要再进行齐次化的处理&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;所以，我们这次避开这个部分，只对剩下的部分化齐次.&lt;/p&gt;
+$$
+\begin{align*} (\dfrac{3}{x}+\dfrac{4+x}{y}) &amp;=\dfrac{3}{x}+\dfrac{4}{y}+\dfrac{x}{y}\\\\ &amp;=(x+y)(\dfrac{3}{x}+\dfrac{4}{y})+\dfrac{x}{y}\\\\ &amp;=7+\dfrac{3y}{x}+\dfrac{4x}{y}+\dfrac{x}{y}\\\\ &amp;=7+\dfrac{3y}{x}+\dfrac{5x}{y}\\\\ &amp;\geq 7+2\sqrt{\dfrac{3y}{x}\cdot\dfrac{5x}{y}}\\\\ &amp;=7+2\sqrt{15} \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当 $\dfrac{3y}{x}=\dfrac{5x}{y}$，&lt;/p&gt;
+&lt;p&gt;即 $\sqrt{5}x=\sqrt{3}y =\dfrac{5\sqrt{3}-3\sqrt{5}}{2}$ .&lt;/p&gt;
+&lt;h2 id=&#34;32积式条件&#34;&gt;3.2&lt;strong&gt;积式条件&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;这里指积为定值的条件，例如正实数 $x,y$ 满足 $xy=1$ 或 $xy+px+qy=1$，其中 $p,q&amp;gt;0$.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 4.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $xy=4$ ，则 $x+ 2y$ 的最小值________.&lt;/p&gt;
+&lt;p&gt;解析：&lt;/p&gt;
+$$
+\begin{align*} x+2y \geq 2\sqrt{x\cdot 2y}=2\sqrt{8}=4\sqrt{2} \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当 $x=2y =2\sqrt{2}$.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 5.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $xy+2x+3y=4$ ，则 $x+ y$ 的最小值________.&lt;/p&gt;
+&lt;p&gt;解析：这个题目第一次见的话看起来会比较怪异，当然，我们可以把 $y$ 用 $x$ 表达，即&lt;/p&gt;
+$$
+\begin{align*} y(x+3)&amp;=4-2x\\\\ y&amp;=\dfrac{4-2x}{x+3}=\dfrac{10}{x+3}-2 \end{align*} \\
+$$&lt;p&gt;于是&lt;/p&gt;
+$$
+\begin{align*} x+y &amp;=x+\dfrac{10}{x+3}-2\\\\ &amp;=x+3+\dfrac{10}{x+3}-3-2\\\\ &amp;\geq 2\sqrt{(x+3)\cdot\dfrac{10}{x+3}}-5\\\\ &amp;=2\sqrt{10}-5 \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当 $x+3=\dfrac{10}{x+3}$ ，即 $x=\sqrt{10}-3,y=\sqrt{10}-2$&lt;/p&gt;
+&lt;p&gt;故答案为 $2\sqrt{10}-5$.&lt;/p&gt;
+&lt;p&gt;另解：实际上，求 $x+y$ 最小值，一般是 $xy$ 为定值的情况，但这里显然 $xy$ 不是定值， 其实这里是 $(x+3)(y+2)=10$ 为定值. 这时候就体现了熟悉因式分解的优势.&lt;/p&gt;
+&lt;p&gt;简单说一下这个因式分解：&lt;/p&gt;
+$$
+xy+px+qy=1 \iff xy+px+qy +pq =1+pq \iff (x+q)(y+p)=1+pq \\
+$$&lt;p&gt;&lt;strong&gt;例 6.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $xy+2x+3y=4$ ，则 $x+2y$ 的最小值________.&lt;/p&gt;
+&lt;p&gt;解析： $(x+3)(y+2)=10$&lt;/p&gt;
+&lt;p&gt;于是&lt;/p&gt;
+$$
+20=(x+3)(2y+4) \leq \dfrac{(x+3+2y+4)^2}{4} \\
+$$&lt;p&gt;故
+&lt;/p&gt;
+$$
+ x+2y+7\geq 4\sqrt{5}\\
+$$&lt;p&gt;即&lt;/p&gt;
+$$
+x+2y \geq 4\sqrt{5}-7\\
+$$&lt;p&gt;等号成立当且仅当 $x+3=2y+4=2\sqrt{5}$，&lt;/p&gt;
+&lt;p&gt;即 $x=2\sqrt{5}-3, y=\sqrt{5}-2$ .&lt;/p&gt;
+&lt;h2 id=&#34;33其他&#34;&gt;3.3&lt;strong&gt;其他&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;这里给出一些没有&lt;strong&gt;直接&lt;/strong&gt;给出定值条件的问题.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 7.&lt;/strong&gt; 已知 $x&amp;gt; \dfrac{1}{2}$ , 则 $x+ \dfrac{1}{2x-1}$ 的最小值为________.&lt;/p&gt;
+&lt;p&gt;解析：求最小值，考虑凑积定值：&lt;/p&gt;
+&lt;p&gt;注意到
+&lt;/p&gt;
+$$
+x=\dfrac{1}{2}(2x-1)+\dfrac{1}{2}\\
+$$&lt;p&gt;于是&lt;/p&gt;
+$$
+\begin{align*} x+\dfrac{1}{2x-1} &amp;=\dfrac{1}{2}(2x-1)+ \dfrac{1}{2x-1}+\dfrac{1}{2}\\\\ &amp;\geq 2\sqrt{\dfrac{1}{2}(2x-1)\cdot\dfrac{1}{2x-1}}+\dfrac{1}{2}\\\\ &amp;=\sqrt{2}+\dfrac{1}{2} \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当 $2x-1=\sqrt{2}$ 即 $x=\dfrac{1+\sqrt{2}}{2}$&lt;/p&gt;
+&lt;p&gt;当然，换元 $t=\dfrac{1}{2x-1}$ ，则 0&amp;quot;&amp;gt;$t&amp;gt;0$ ，&lt;/p&gt;
+&lt;p&gt;即求 $\dfrac{1}{2}t+\dfrac{1}{t}+\dfrac{1}{2}$ 的最小值.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 8.&lt;/strong&gt; 已知 0 &amp;ldquo;&amp;gt;$x&amp;gt; 0$ , 则 $x^2+ \dfrac{2}{x}$ 的最小值为________.&lt;/p&gt;
+&lt;p&gt;解析：求最小值，考虑凑积定值； 这里有一个二次一个负一次，为了凑定值，将一个负一次对半拆分成两个负一次，即&lt;/p&gt;
+$$
+\begin{align*} x^2+ \dfrac{2}{x}&amp;=x^2+\dfrac{1}{x}+\dfrac{1}{x}\\\\ &amp;\geq 3\sqrt{x^2\cdot\dfrac{1}{x}\cdot\dfrac{1}{x}}\\\\ &amp;=3 \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当&lt;/p&gt;
+$$
+x^2=\dfrac{1}{x}=\dfrac{1}{x} \\
+$$&lt;p&gt;即 $x=1$ .&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 9.&lt;/strong&gt; 已知 0 &amp;ldquo;&amp;gt; $x&amp;gt; 0$ , 则 $x(1-x^2)$ 的最大值为________.&lt;/p&gt;
+&lt;p&gt;解析：&lt;/p&gt;
+&lt;p&gt;考虑将 $x$ 化为 $x^2$ ：显然最大值在 $(0,1)$ 上， 于是&lt;/p&gt;
+$$
+x(1-x^2)=\sqrt{x^2(1-x^2)^2} \\
+$$&lt;p&gt;令 $t=x^2$ 则&lt;/p&gt;
+$$
+\begin{align*} x^2(1-x^2)^2 &amp;=t(1-t)^2\\\\ &amp;=\dfrac{1}{2}\cdot 2t(1-t)(1-t)\\\\ &amp;\leq \dfrac{1}{2} (\dfrac{2t+1-t+1-t}{3})^3\\\\ &amp;=\dfrac{4}{27} \end{align*} \\
+$$&lt;p&gt;等号成立当且仅当 $2t=1-t=1-t$ ，即 $t=\dfrac{1}{3}$ 即 $x=\dfrac{\sqrt{3}}{3}$ ，故答案为 $\dfrac{2\sqrt{3}}{9}$ . $\square$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 10.&lt;/strong&gt; 设正实数 $x,y$ 满足 $x+y+\dfrac{1}{x}+\dfrac{4}{y}=10$ ， $x+y$ 的最小值为________.&lt;/p&gt;
+&lt;p&gt;解析：容易发现&lt;/p&gt;
+$$
+\begin{align*} (x+y)\left(\dfrac{1}{x}+\dfrac{4}{y}\right)&amp;=5+\dfrac{y}{x}+\dfrac{4x}{y}\\\\ &amp;\geq5+2\sqrt{\dfrac{y}{x}\cdot\dfrac{4x}{y}}\\\\ &amp;=9 \end{align*}\\
+$$&lt;p&gt;等号成立当且仅当 $2x=y=\cdots$&lt;/p&gt;
+&lt;p&gt;于是&lt;/p&gt;
+$$
+\color{green}{(x+y)}\left(10-\color{green}{(x+y)}\right)=(x+y)\left(\dfrac{1}{x}+\dfrac{4}{y}\right)\geq 9 \\
+$$&lt;p&gt;令 $t=x+y$ ，得 $t^2-10t+9\leq 0$ ，故 $1\leq t\leq 9$ .&lt;/p&gt;
+&lt;p&gt;故答案为 $1$ .&lt;/p&gt;
+&lt;p&gt;推广：设正实数 $x,y$ 满足&lt;/p&gt;
+$$
+x+y+\dfrac{p^2}{x}+\dfrac{q^2}{y}=r\ \left( r&gt;2\left(p+q\right) ,q&gt;0,q&gt;0\right)\\
+$$&lt;p&gt;则 $x+y$ 的最小值与最大值之和为________.&lt;/p&gt;
+&lt;p&gt;解析：同上，我们有&lt;/p&gt;
+$$
+\begin{align*} \color{green}{(x+y)}\left(r-\color{green}{(x+y)}\right)&amp;=(x+y)(\dfrac{p^2}{x}+\dfrac{q^2}{y})\\\\ &amp;=p^2+q^2+\dfrac{p^2y}{x}+\dfrac{q^2x}{y}\\\\ &amp;\geq p^2+q^2+2\sqrt{\dfrac{p^2y}{x}\cdot\dfrac{q^2x}{y}}\\\\ &amp;=(p+q)^2 \end{align*}\\
+$$&lt;p&gt;于是 $(x+y)^2-r(x+y)+(p+q)^2\leq 0$ ，得 $m_1\leq x+y\leq m_2$ ，&lt;/p&gt;
+&lt;p&gt;其中 $m_1,m_2$ 为方程 $m^2-rm+(p+q)^2=0$ 的两实根，根的存在性由 $\Delta=r^2-4(p+q)^2&amp;gt;0$ 保证. 由韦达定理得 $m_1,m_2$ 满足 $m_1+m_2=r$ .&lt;/p&gt;
+&lt;p&gt;故答案为 $r$ . $\square$&lt;/p&gt;
+&lt;h1 id=&#34;4补充&#34;&gt;4.补充
+&lt;/h1&gt;&lt;h3 id=&#34;41多元基本不等式&#34;&gt;&lt;strong&gt;4.1多元基本不等式&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;我们看一下一般的多元基本不等式&lt;/p&gt;
+$$
+\dfrac{n}{\sum\limits_{i=1}^{n}\dfrac{1}{a_i}} \leq \sqrt[n]{\prod\limits_{i=1}^{n}a_i } \leq\dfrac{\sum\limits_{i=1}^{n}a_i}{n}\leq \sqrt{\dfrac{\sum\limits_{i=1}^{n}a_i^2}{n}} \\
+$$&lt;p&gt;其中 $a_i(i=1,2,\cdots,n)$ 为正数.&lt;/p&gt;
+&lt;p&gt;等号成立当且仅当序列 ${a_n}$ 为常数列，即 $a_1=a_2=\cdots=a_n$.&lt;/p&gt;
+&lt;p&gt;常用的是三元的，即&lt;/p&gt;
+$$
+\dfrac{3}{\dfrac{1}{a}+\dfrac{1}{b}+\dfrac{1}{c}}\leq \sqrt[3]{abc}\leq \dfrac{a+b+c}{3}\leq \sqrt{\dfrac{a^2+b^2+c^2}{3}} \\
+$$&lt;p&gt;其中 $a,b,c$ 为正数.&lt;/p&gt;
+&lt;p&gt;等号成立当且仅当 $a=b=c$ .&lt;/p&gt;
+&lt;p&gt;证明在后面给出.&lt;/p&gt;
+&lt;h3 id=&#34;42待定系数法的应用&#34;&gt;&lt;strong&gt;4.2待定系数法的应用&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;例 11.&lt;/strong&gt; 已知正实数 $a,b,c$ ，则 $\dfrac{ab+4bc}{a^2+b^2+c^2}$ 的最大值为________.&lt;/p&gt;
+&lt;p&gt;解析：这个题目难的地方就是分子，如果是 $\dfrac{ab+bc+ca}{a^2+b^2+c^2}$，容易知道最大值就是 1， 因为我们有&lt;/p&gt;
+$$
+\begin{align*} a^2+b^2\geq&amp; 2ab\\\\ b^2+c^2\geq&amp; 2bc\\\\ c^2+a^2\geq&amp; 2ca \end{align*} \\
+$$&lt;p&gt;相加即得&lt;/p&gt;
+$$
+2(a^2+b^2+c^2)\geq 2(ab+bc+ca) \\
+$$&lt;p&gt;故$\dfrac{ab+bc+ca}{a^2+b^2+c^2}\leq 1$.&lt;/p&gt;
+&lt;p&gt;等号成立当且仅当 $a=b=c$ .&lt;/p&gt;
+&lt;p&gt;所以，我们采取类似的思路，仍然使用基本不等式，但考虑一个参数 $0&amp;lt;m&amp;lt;1$ ，注意到分子中有两项出现了 $b$ ，我们猜测这是两次基本不等式的结果，所以将 $b^2$ 划分为两份： $mb^2$ 和 $(1-m)b^2$.&lt;/p&gt;
+&lt;p&gt;于是&lt;/p&gt;
+$$
+\begin{align*} a^2+mb^2\geq&amp; 2\sqrt{m}ab\\\\ (1-m)b^2+c^2 \geq&amp; 2\sqrt{1-m}bc \end{align*} \\
+$$&lt;p&gt;相加得到&lt;/p&gt;
+$$
+a^2+b^2+c^2\geq 2(\sqrt{m} ab+\sqrt{1-m}bc) \\
+$$&lt;p&gt;即&lt;/p&gt;
+$$
+\dfrac{\sqrt{m} ab+\sqrt{1-m}bc}{a^2+b^2+c^2}\leq \dfrac{1}{2} \\
+$$&lt;p&gt;为得到 $\dfrac{ab+4bc}{a^2+b^2+c^2}$ ，令 $\dfrac{\sqrt{m}}{\sqrt{1-m}}=\dfrac{1}{4}$&lt;/p&gt;
+&lt;p&gt;解得 $m=\dfrac{1}{17}$&lt;/p&gt;
+&lt;p&gt;故&lt;/p&gt;
+$$
+\dfrac{\dfrac{1}{\sqrt{17}} ab+\dfrac{4}{\sqrt{17}}bc}{a^2+b^2+c^2}\leq \dfrac{1}{2} \\
+$$&lt;p&gt;即得&lt;/p&gt;
+$$
+\dfrac{ab+4bc}{a^2+b^2+c^2}\leq \dfrac{\sqrt{17}}{2} \\
+$$&lt;p&gt;等号成立当且仅当 $\sqrt{1-m}a=\sqrt{m(1-m)}b=\sqrt{m}c$ . $\square$&lt;/p&gt;
+&lt;p&gt;这便是待定系数法的基本应用，我们再来看下面这个例子：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 12.&lt;/strong&gt; $f(x)=\dfrac{8}{\sin x}+\dfrac{1}{\cos x} (0&amp;lt;x&amp;lt;\dfrac{\pi}{2})$ 的最小值为________.&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/352588326#ref_1&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        [1]
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;解析：考虑不等式：&lt;/p&gt;
+$$
+\dfrac{n}{\sum\limits_{i=1}^{n}\dfrac{1}{a_i}} \leq \sqrt{\dfrac{\sum\limits_{i=1}^{n}a_i^2}{n}} \\
+$$&lt;p&gt;其中 $a_1=\cos x,a_i=\lambda\sin x (i\geq 2,\lambda&amp;gt;0)$ ， $\lambda$ 为待定常数.&lt;/p&gt;
+&lt;p&gt;为在 $\sum\limits_{i=1}^{n}\dfrac{1}{a_i}=\dfrac{n-1}{\lambda \sin x}+\dfrac{1}{\cos x}$ 处得到 $\dfrac{8}{\sin x}+\dfrac{1}{\cos x}$&lt;/p&gt;
+&lt;p&gt;令 $\dfrac{n-1}{\lambda}=8$&lt;/p&gt;
+&lt;p&gt;且利用 $\cos^2x+\sin ^2 x=1$ ，使得 $\sum\limits_{i=1}^{n}a_i^2$ 为定值，&lt;/p&gt;
+&lt;p&gt;即 $\sum\limits_{i=1}^{n}a_i^2=\cos^2x+(n-1)\lambda^2\sin^2x =\cos^2x+\sin ^2 x =1$&lt;/p&gt;
+&lt;p&gt;故 $(n-1)\lambda^2=1$ ，&lt;/p&gt;
+&lt;p&gt;由 $\begin{align*} \begin{cases} \dfrac{n-1}{\lambda} &amp;amp;=8\ \ (n-1)\lambda^2 &amp;amp;=1 \end{cases} \end{align*}$&lt;/p&gt;
+&lt;p&gt;解得 $\lambda =\dfrac{1}{2},n=5$ .&lt;/p&gt;
+&lt;p&gt;代入&lt;/p&gt;
+$$
+\dfrac{n}{\sum\limits_{i=1}^{n}\dfrac{1}{a_i}} \leq \sqrt{\dfrac{\sum\limits_{i=1}^{n}a_i^2}{n}} \\
+$$&lt;p&gt;得&lt;/p&gt;
+$$
+\dfrac{5}{\dfrac{1}{\cos x}+\dfrac{2}{\sin x}+\dfrac{2}{\sin x}+\dfrac{2}{\sin x}+\dfrac{2}{\sin x}}\leq \sqrt{\dfrac{\cos^2x+\dfrac{1}{4}\sin^2 x+\dfrac{1}{4}\sin^2 x+\dfrac{1}{4}\sin^2 x+\dfrac{1}{4}\sin^2 x}{5}}\\
+$$&lt;p&gt;即&lt;/p&gt;
+$$
+\dfrac{8}{\sin x}+\dfrac{1}{\cos x}\geq5\sqrt{5}\\
+$$&lt;p&gt;等号成立当且仅当 $\cos x=\dfrac{1}{2}\sin x$，即 $\tan x=2\left(0&amp;lt;x&amp;lt;\dfrac{\pi}{2}\right)$ .&lt;/p&gt;
+&lt;p&gt;故答案为 $5\sqrt{5}$. $\square$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 13.&lt;/strong&gt; 设正实数 $x,y,z$ 满足 $xyz=1$ ，试证明： $x^2+y^2+z^2\geq x+y+z$ .&lt;/p&gt;
+&lt;p&gt;解析：我们很容易猜到取等条件为 $x=y=z=1$ ，&lt;/p&gt;
+&lt;p&gt;又恰好有 $x^2+1\geq 2x$ 也是以 $x=1$ 为取等条件，我们尝试用此进行证明：&lt;/p&gt;
+&lt;p&gt;$\begin{align*} x^2+y^2+z^2&amp;amp;=(x^2+1)+(y^2+1)+(z^2+1)-3\\ &amp;amp;\geq2x+2y+2z-3\\ &amp;amp;=2(x+y+z)-\color{blue}{3\sqrt[3]{xyz}}\\ &amp;amp;\geq2(x+y+z)-\color{blue}{(x+y+z)}\\ &amp;amp;=x+y+z \end{align*}$&lt;/p&gt;
+&lt;p&gt;$\square$&lt;/p&gt;
+&lt;p&gt;变式：设正实数 $x,y,z$ 满足 $xyz=1$ ，试证明： $x^{2021}+y^{2021}+z^{2021}\geq x^{2020}+y^{2020}+z^{2020}$ .&lt;/p&gt;
+&lt;p&gt;解析：考虑待定系数，设正整数 $p,q$ ，使成立不等式 $px^{2021}+\sum_{i=1}^{q}1 \geq (p+q)x^{\frac{2021p}{p+q}}$ ，&lt;/p&gt;
+&lt;p&gt;易知不等式在 $x=1$ 时等号成立，&lt;/p&gt;
+&lt;p&gt;为使得右边出现 $x^{2020}$ ，令 $\dfrac{2021p}{p+q}=2020$ ，&lt;/p&gt;
+&lt;p&gt;得 $p=2020q$ ，故可取 $q=1,p=2020$ .&lt;/p&gt;
+&lt;p&gt;于是，有 $2020x^{2021}+1\geq 2021 x^{2020}$ ，从而&lt;/p&gt;
+&lt;p&gt;$\begin{align*} (x^{2021}+2020)+(y^{2021}+2020)+(z^{2021}+2020) &amp;amp;\geq 2021(x^{2020}+y^{2020}+z^{2020}) \end{align*}$ ，&lt;/p&gt;
+&lt;p&gt;即 $x^{2021}+y^{2021}+z^{2021}\geq 2021(x^{2020}+y^{2020}+z^{2020} )-3\times2020$&lt;/p&gt;
+&lt;p&gt;又 $3\times 2020 =2020\times 3\sqrt[3]{x^{2020}y^{2020}z^{2020}}\leq2020(x^{2020}+y^{2020}+z^{2020})$ ，&lt;/p&gt;
+&lt;p&gt;所以&lt;/p&gt;
+&lt;p&gt;$\begin{align*} x^{2021}+y^{2021}+z^{2021} &amp;amp;\geq 2021(x^{2020}+y^{2020}+z^{2020} )-3\times2020\\ &amp;amp;\geq 2021(x^{2020}+y^{2020}+z^{2020} )-2020(x^{2020}+y^{2020}+z^{2020})\\ &amp;amp;=(x^{2020}+y^{2020}+z^{2020}) \end{align*}$&lt;/p&gt;
+&lt;p&gt;两个等号成立都是当且仅当 $x=y=z=1$ . $\square$&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例 14.&lt;/strong&gt; 已知正实数 $x,y$ 满足 $\dfrac{1}{x+3y}+\dfrac{1}{2x+y}=1$ ，则 $x+y$ 的最小值是________.&lt;/p&gt;
+&lt;p&gt;解析：这里，为了尽可能简化条件，选择将 $\dfrac{1}{x+3y}+\dfrac{1}{2x+y}=1$ 左侧分母换元： $\begin{align} \begin{cases} m=x+3y \\ n=2x+y \end{cases} \end{align}$ ，将 $x,y$ 由 $m,n$ 表示： $\begin{align} \begin{cases} x=\dfrac{-m+3n}{5}\\ y=\dfrac{2m-n}{5} \end{cases} \end{align}$ ，&lt;/p&gt;
+&lt;p&gt;这里注意 0\iff \color{blue}{\dfrac{1}{2}&amp;lt;\dfrac{m}{n}&amp;lt;3}&amp;quot;&amp;gt;$x,y&amp;gt;0\iff \color{blue}{\dfrac{1}{2}&amp;lt;\dfrac{m}{n}&amp;lt;3}$ . 所求即 $x+y=\dfrac{-m+3n}{5}+\dfrac{2m-n}{5} =\dfrac{m+2 n}{5}$ 的最小值，这与我们的&lt;strong&gt;例 1&lt;/strong&gt; 没有本质的区别，过程如下：&lt;/p&gt;
+&lt;p&gt;$\begin{align}\dfrac{m+2n}{5}&amp;amp;=\left(\dfrac{m+2n}{5}\right)\left(\dfrac{1}{m}+\dfrac{1}{n}\right)\\ &amp;amp;=\dfrac{1}{5}\left(3+\dfrac{2n}{m}+\dfrac{m}{n}\right)\\ &amp;amp;\geq\dfrac{3+2\sqrt{2}}{5} \end{align}$&lt;/p&gt;
+&lt;p&gt;等号成立当且仅当 $\dfrac{2n}{m}=\dfrac{m}{n}$ ，也就是 $\color{blue}{\dfrac{m}{n}=\sqrt{2}}$ ，可以取得.&lt;/p&gt;
+&lt;p&gt;正文到这里结束.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;附录：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$n$ 元均值不等式证明：&lt;/p&gt;
+&lt;p&gt;我们证明对任意正整数 $n$ ，以及任意 0(i=1,2,\cdots,n)&amp;quot;&amp;gt;$a_i&amp;gt;0(i=1,2,\cdots,n)$ 成立不等式：&lt;br&gt;
+$\color{blue}{\sqrt[n]{a_1a_2\cdots a_n}\leq\dfrac{a_1+a_2+\cdots+a_n}{n}}$ .&lt;br&gt;
+$\rm{Proof:}$ (法一)&lt;br&gt;
+$\rm{Step} \ 1:$ 先进行特殊情况当 $a_1a_2\cdots a_n=1$ ，只需要证明 $a_1+a_2+\cdots +a_n\geq n$ . 我们用调整法进行证明.&lt;br&gt;
+$\rm{Case} \ 1:$ 若 $a_1=a_2=\cdots=a_n=1$ ，结论显然成立.&lt;br&gt;
+$\rm{Case} \ 2:$ 若 $a_j(\forall 1\leq j\leq n)$ 不全为 $1$ ，此时一定有 $\min{a_1,a_2,\cdots,a_n}&amp;lt;1$ (否则 $a_1a_2\cdots a_n\geq \left(\min{a_1,a_2,\cdots,a_n}\right)^n&amp;gt;1$ ，矛盾)，不妨设 $a_1=\min{a_1,a_2,\cdots,a_n}&amp;lt;1$ ，$\max{a_2,a_3,\cdots,a_n}&amp;gt;1$ (否则 $a_1a_2\cdots a_n&amp;lt;1$ ，矛盾). 于是可设 $a_2=\max{a_2,a_3,\cdots,a_n}&amp;gt;1$ .&lt;br&gt;
+令 $b_1=1,b_2=a_1a_2,b_k=a_k(\forall k\geq 3)$ ，此时 $b_1b_2\cdots b_n=a_1a_2\cdots a_n$ ，但是 $\begin{align} &amp;amp;(b_1+b_2+\cdots+b_n)-(a_1+a_2+\cdots+a_n)\\ =&amp;amp;b_1+b_2-a_1-a_2\\ =&amp;amp;1+a_1a_2-a_1-a_2\\ =&amp;amp;\left(1-a_1\right)\left(1-a_2\right)\\ &amp;lt;&amp;amp;0 \end{align}$&lt;br&gt;
+即 $b_1+b_2+\cdots+b_n&amp;lt;a_1+a_2+\cdots+a_n$ . 如此操作至多 $n-1$ 次， $n$ 个数将全变为 $1$ ，但每次变化后，这 $n$ 个数的和将一直减小，于是&lt;br&gt;
+$\begin{align} &amp;amp;a_1+a_2+\cdots+a_n\\ &amp;gt;&amp;amp;b_1+b_2+\cdots+b_n\\ &amp;gt;&amp;amp;\cdots+\cdots+\cdots+\cdots\\ &amp;gt;&amp;amp;1+1+\cdots+1\\ =&amp;amp;n . \end{align}$&lt;br&gt;
+$\rm{Step \ 2:}$ 记 ${\rm{A}}=\sqrt[n]{a_1a_2\cdots a_n}$ ，令{% raw%} $x_i=\dfrac{a_i}{{\rm{A}}}(i=1,2,\cdots,n)$ {% endraw %}，则 $x_1x_2\cdots x_n=1$ . 由 $\rm{Step \ 1}$ 知道 $x_1+x_2+\cdots+x_n\geq n$ ，即 $\color{\red}{\sqrt[n]{a_1a_2\cdots a_n}\leq\dfrac{a_1+a_2+\cdots+a_n}{n}}$ . $\square$&lt;/p&gt;
+&lt;p&gt;由 $\sqrt[n]{a_1a_2\cdots a_n}\leq\dfrac{a_1+a_2+\cdots+a_n}{n}$ ，令 $a_i=\dfrac{1}{y_i}$ ，得到 $\sqrt[n]{\dfrac{1}{y_1y_2\cdots y_n}}\leq\dfrac{\dfrac{1}{y_1}+\dfrac{1}{y_2}+\cdots+\dfrac{1}{y_n}}{n}$ ，也就是说 $\color{\red}{\color{\blue}{\dfrac{n}{\dfrac{1}{y_1}+\dfrac{1}{y_2}+\cdots+\dfrac{1}{y_n}}\leq\sqrt[n]{y_1y_2\cdots y_n}}}$ .&lt;/p&gt;
+&lt;p&gt;最后，我们证明 $\dfrac{x_1+x_2+\cdots+x_n}{n}\leq\sqrt{\dfrac{x_1^2+x_2^2+\cdots+x_n^2}{n}}$ ，即证明 $\left(\dfrac{x_1+x_2+\cdots+x_n}{n}\right)^2&amp;lt;\dfrac{x_1^2+x_2^2+\cdots+x_n^2}{n}$ ，也即证明 $\left({x_1+x_2+\cdots+x_n}\right)^2&amp;lt;n(x_1^2+x_2^2+\cdots+x_n^2)$ ，而 $\begin{align} &amp;amp;\left({x_1+x_2+\cdots+x_n}\right)^2-n(x_1^2+x_2^2+\cdots+x_n^2)\\ =&amp;amp;\sum_{i=1}^n\sum_{j=1}^{n}x_ix_j-n\sum_{i=1}^{n}x_i^2\\ \leq&amp;amp;\sum_{i=1}^{n}\sum_{j=1}^{n}\dfrac{x_i^2+x_j^2}{2}-n\sum_{i=1}^{n}x_i^2\\ =&amp;amp;0 \end{align}$&lt;br&gt;
+等号成立当且仅当 $x_i=x_j,\forall 1\leq i,j\leq n$ .&lt;br&gt;
+故 $\color{\red}{\dfrac{x_1+x_2+\cdots+x_n}{n}\leq\sqrt{\dfrac{x_1^2+x_2^2+\cdots+x_n^2}{n}}}$ . $\square$&lt;/p&gt;
+&lt;p&gt;(法二) 这里只证明 ${\sqrt[n]{a_1a_2\cdots a_n}\leq\dfrac{a_1+a_2+\cdots+a_n}{n}}$ .&lt;/p&gt;
+&lt;p&gt;容易证明不等式： $\mathrm{e}^{x}\geq \mathrm{e}x(\forall x\in\mathbb{R})$ ，等号成立当且仅当 $x=1$ .&lt;br&gt;
+记 $\exp (y)=\mathrm{e}^y$ ，考虑非负实数 $x_i(i=1,2,\cdots,n)$ ，&lt;br&gt;
+令 $x=\dfrac{x_i}{A_n}(i=1,2,\cdots,n)$ ，这里 $A_n=\dfrac{x_1+x_2+\cdots+x_n}{n}$ ，&lt;br&gt;
+则有 $\exp\left( \frac{x_i}{A_n}\right)\geq\mathrm{e}\dfrac{x_i}{A_n}$ ，&lt;br&gt;
+累乘得 $\exp\left(\frac{x_1+x_2+\cdots+x_n}{A_n} \right)\geq\mathrm{e}^{n}\dfrac{x_1x_2\cdots x_n}{A_n^n}$ ，&lt;/p&gt;
+&lt;p&gt;即 $A_n\geq\sqrt[n]{x_1x_2\cdots x_n}$ ，&lt;br&gt;
+也即 $\dfrac{\sum\limits_{i=1}^{n}x_i}{n}\geq \sqrt[n]{\prod_{i=1}^{n}x_i}$&lt;br&gt;
+当且仅当 $\dfrac{x_i}{A_n}=1(i=1,2,\cdots,n)$ 即 $x_1=x_2=\cdots=x_n$ 等号成立.&lt;/p&gt;
+&lt;p&gt;为&lt;strong&gt;例题 11、例题 12&lt;/strong&gt; 补充了两个习题：&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/353135338&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        例题 11、例题 12 补充
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;这里补充了一些&lt;strong&gt;更高层次&lt;/strong&gt;的习题，偏向&lt;strong&gt;竞赛基础&lt;/strong&gt;内容，有兴趣的可以点进去看看：&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/398776077&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        题解 1
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+ ，&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/399205057&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        题解 2
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+， &lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/399702027&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        题解 3
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+，&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/399774433&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        题解 4
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+ .&lt;/p&gt;
+&lt;p&gt;感谢阅读！&lt;/p&gt;
+&lt;h1 id=&#34;5参考&#34;&gt;5.参考
+&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/352588326#ref_1_0&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        ^
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+ 这个题目有其他解法，包括求导、Holder 不等式，这里不做展开。&lt;/li&gt;
+&lt;li&gt;本文章选自知乎专栏《从零开始的基本不等式及其应用大全——超详细梳理》&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/352588326&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        (查看原文)
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;
+，若侵犯版权，请联系站长删除。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;6后记&#34;&gt;6.后记
+&lt;/h1&gt;&lt;p&gt;这算是我网站的第一份像样的文章，谢谢各位的捧场，今后争取每周更新一篇此类文章，也欢迎大家在下方的评论区热烈讨论（评论区服务器在海外，可能加载比较缓慢，还请耐心等待！）&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

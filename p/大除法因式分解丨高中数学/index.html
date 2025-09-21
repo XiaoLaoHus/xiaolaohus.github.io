@@ -1,0 +1,1061 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="一元三次方程求解，大除法解一元三次方程！">
+<title>大除法因式分解丨高中数学</title>
+
+<link rel='canonical' href='https://xiaolaohus.github.io/p/%E5%A4%A7%E9%99%A4%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/'>
+
+<link rel="stylesheet" href="/scss/style.min.5ce1bae4deb325b97f64cbb8e36895d95bab1e8dbf27b2dde7caf09bdf2db623.css"><meta property='og:title' content="大除法因式分解丨高中数学">
+<meta property='og:description' content="一元三次方程求解，大除法解一元三次方程！">
+<meta property='og:url' content='https://xiaolaohus.github.io/p/%E5%A4%A7%E9%99%A4%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/'>
+<meta property='og:site_name' content='小老虎sの基地'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='高中数学' /><meta property='article:published_time' content='2024-12-28T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-09-21T23:51:39&#43;08:00'/>
+<meta name="twitter:title" content="大除法因式分解丨高中数学">
+<meta name="twitter:description" content="一元三次方程求解，大除法解一元三次方程！">
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu_79a86aa73d746bf0.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🍰</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">小老虎sの基地</a></h1>
+            <h2 class="site-description">请勿回望，请勿善忘</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://space.bilibili.com/22739119'
+                        target="_blank"
+                        title="Bilibili"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-bilibili"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a4 4 0 0 1 4 -4h10a4 4 0 0 1 4 4v6a4 4 0 0 1 -4 4h-10a4 4 0 0 1 -4 -4v-6z" /><path d="M8 3l2 3" /><path d="M16 3l-2 3" /><path d="M9 13v-2" /><path d="M15 11v2" /></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://github.com/XiaoLaoHus'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>归档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/liinks/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>友情链接</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" >
+                学习笔记
+            </a>
+        
+            <a href="/categories/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/" >
+                高中数学
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/%E5%A4%A7%E9%99%A4%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/">大除法因式分解丨高中数学</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            一元三次方程求解，大除法解一元三次方程！
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+	<div class="article-lastmod">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time>
+                    2025年9月21日 23:51
+                </time>
+            </div>
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024年12月28日</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    阅读时长: 3 分钟
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p>首先，我们先介绍一下什么是<strong>大除法</strong>，怎么用，怎么去理解？</p>
+<p><strong>什么是大除法？</strong></p>
+<p><a class="link" href="https://baike.baidu.com/item/%E5%A4%9A%E9%A1%B9%E5%BC%8F%E9%99%A4%E6%B3%95/2703247"   target="_blank" rel="noopener" >
+    <span style="display: inline-flex; align-items: center; gap: 0.5em;">
+        大除法 - 百度百科
+        
+            <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+                <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+                <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor" />
+            </svg>
+        
+    </span>
+</a>
+</p>
+<p>可能大家看得有点懵，给大家举个栗子，大家就明白了。</p>
+<p>比如我们正常的一个除数除以被除数：<strong>比如 100 除以 4,9 除以 2 等。</strong></p>
+<p>我们知道 100÷4=25，写过程为：</p>
+<p><img src="https://pic3.zhimg.com/v2-1cf5dcdbbb35b163e0831a68e1bfcd34_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>余数为零，说明这个数能被另一个数整除，也就是 4 可以被 100 整除，那么就有：</p>
+<p>100=4×25</p>
+<p><img src="https://pic4.zhimg.com/v2-05b75397afdffae706a2b68ede74f16d_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>余数不为零，说明这个数不能被另一个数整除，也就是 2 不可以被 9 整除，那么就有：</p>
+<p>9=2×4+1</p>
+<p>那么，推广到多项式呢？</p>
+<p>所以就有了今天的内容：</p>
+<p><img src="https://pica.zhimg.com/v2-997c9954d2cdd026da013a470cec4b82_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>如果常数 C 等于 0，那么 <strong>这个多项式能被另一个多项式整除。</strong></p>
+<p>先来举一两个简单的例子：</p>
+<p><img src="https://picx.zhimg.com/v2-3057f98ee4e47675676cca9e9f93fdf7_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>先看第一个例子：</p>
+<p><img src="https://pic3.zhimg.com/v2-b632c15d8aaf3146af49345b8deb3df8_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>再看第二个式子：</p>
+<p><img src="https://pic2.zhimg.com/v2-60c1e1468c9209b994262c3c049dce2b_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>继续第三个式子：</p>
+<p><img src="https://pic3.zhimg.com/v2-17a74dfa067d4770d45b9210e4fab5c0_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>继续第四个例子：</p>
+<p><img src="https://pic3.zhimg.com/v2-93aab7bf1cbad554b76008a8c1c278ae_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>**<a class="link" href="https://zhida.zhihu.com/search?content_id=163316923&amp;content_type=Article&amp;match_order=1&amp;q=%e7%ab%8b%e6%96%b9%e5%92%8c%e5%85%ac%e5%bc%8f&amp;zhida_source=entity"   target="_blank" rel="noopener" >
+    <span style="display: inline-flex; align-items: center; gap: 0.5em;">
+        立方和公式
+        
+            <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+                <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+                <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor" />
+            </svg>
+        
+    </span>
+</a>
+**大家可以自行按此推导，其实这些都是需要记住的，如果会推导的话，记都不用记。</p>
+<p>继续第五个例子：</p>
+<p><img src="https://pica.zhimg.com/v2-1528a66ec93e4cf838c2f952d426ca9c_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>当然，我们可以将其推导到更高次项也是完全可以的，这里就不再继续书写了。相信看到这里的童鞋基本都可以看懂了。</p>
+<p>下面回到我们的正题，使用<strong>大除法（<a class="link" href="https://zhida.zhihu.com/search?content_id=163316923&amp;content_type=Article&amp;match_order=1&amp;q=%e9%95%bf%e9%99%a4%e6%b3%95&amp;zhida_source=entity"   target="_blank" rel="noopener" >
+    <span style="display: inline-flex; align-items: center; gap: 0.5em;">
+        长除法
+        
+            <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+                <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+                <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor" />
+            </svg>
+        
+    </span>
+</a>
+）求解一元三次方程</strong>，当然更高次也是适用的。</p>
+<p>还是那句话，<strong>百闻不如一见，看书不如看实验</strong>！</p>
+<p><img src="https://pic3.zhimg.com/v2-215faf58ea064d3ac0aefb050dea49a2_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>就以这四个式子为大家做个示范吧：</p>
+<p>先看第一个式子：</p>
+<p>按照今天提到的方法解：（直接假定我们知道解，然后去找关联，当然解一定是常数的因数里面的一个，包含 1 以及它本身）。</p>
+<p>如果有去了解过我以前写的内容的话，应该都会发现，<strong>根一定都是常数项的因数中的一个。如一式子中的 1 的因数有（-1,1），正数负数范围内都考虑。</strong></p>
+<p><img src="https://pica.zhimg.com/v2-55ec591be53374ed6c9f5e8b5eca6282_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+><img src="https://pic1.zhimg.com/v2-ece7c0e93ed525a6a14f227c5507b26a_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>继续看第二个例子：</p>
+<p><img src="https://pic1.zhimg.com/v2-51c567b0637dc8eaaa0fd0233fc9f44a_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>继续看第三个例子：</p>
+<p><img src="https://picx.zhimg.com/v2-c30984a4b7bbfb6e0c6efd0c34af4d5d_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+><img src="https://picx.zhimg.com/v2-f910407ca72ba6f81f5f8ab0c9132ba3_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>最后看第四个例子：</p>
+<p><img src="https://pic3.zhimg.com/v2-ff6c7514abfae9d4b2345f4b00d8a7d6_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>看，是不是也非常的简单，当然如果你能直接看出来一个解的话，那就直接非常简单了。</p>
+<p><strong>最后再说明一点，这个使用条件也是不能去求解分式根，因为分解难度大，所以是分式根的话，推荐使用双十字法进行求解</strong>。</p>
+<p>文章如下：</p>
+<p><a class="link" href="http://mp.weixin.qq.com/s?__biz=MzU3MzY5MzU1NQ==&amp;mid=2247484641&amp;idx=2&amp;sn=3be7789639a3a00d64bb09173cee4738&amp;chksm=fd3c8ffdca4b06eb2e60ca635ad7ea8adfe479a1e9c5027139d05dbc32792295ec4a10983f6a&amp;scene=21#wechat_redirect"   target="_blank" rel="noopener" >
+    <span style="display: inline-flex; align-items: center; gap: 0.5em;">
+        数学技巧 || 双十字法巧解一元三次方程
+        
+            <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+                <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+                <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor" />
+            </svg>
+        
+    </span>
+</a>
+</p>
+<p>最后，我们把它推到高次项，也给大家<strong>举个栗子。</strong></p>
+<p>**如果大家对大除法用的比较熟的话，其实进行<a class="link" href="https://zhida.zhihu.com/search?content_id=163316923&amp;content_type=Article&amp;match_order=1&amp;q=%e9%99%8d%e5%b9%82%e6%8e%92%e5%88%97&amp;zhida_source=entity"   target="_blank" rel="noopener" >
+    <span style="display: inline-flex; align-items: center; gap: 0.5em;">
+        降幂排列
+        
+            <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+                <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+                <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor" />
+            </svg>
+        
+    </span>
+</a>
+属于多余的，**进行降幂的目的主要是防止运算遗漏导致出错而已。</p>
+<p><img src="https://pic4.zhimg.com/v2-71c1535413f0f4f8e78c1e7cf56439c5_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+><img src="https://pic4.zhimg.com/v2-6107a6ec5e073d06c075170537b019d1_r.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p>好了，以上就是本次的分享了！希望大家用得熟练~~</p>
+<p>大致就写这么多了，由于号主也是在工作中只能闲下来的时候才会写一下，所以做工就会相当的粗糙，这篇文章或者这个技巧我个人希望的是能让需要的人看到，让更多的人知道还有这个方法，希望能看到这篇文章或者学到这个技巧的人能够走的更远，号主就只能走到这了，也希望对这个有研究的可以继续研究下去，让跟多的人学到，更多的人看到~~~</p>
+<p>本文章选自知乎专栏《<strong>数学技巧||一元三次方程求解，大除法解一元三次方程！</strong>》<a class="link" href="https://zhuanlan.zhihu.com/p/338340227"   target="_blank" rel="noopener" >
+    <span style="display: inline-flex; align-items: center; gap: 0.5em;">
+        (查看原文)
+        
+            <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+                <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+                <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor" />
+            </svg>
+        
+    </span>
+</a>
+，若侵犯版权，请联系站长删除。</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/">高中数学</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>本文章遵循 CC BY-NC-SA 4.0 协议</span>
+    </section>
+    <section class="article-lastmod">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+        <span>
+            最后更新于 2025年9月21日 23:51
+        </span>
+    </section></footer>
+
+
+    
+        <link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css"integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI&#43;WdtXRGWt2kTvGFasHpSy3SV"crossorigin="anonymous"
+            ><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG&#43;vnGctmUb0ZY0l8"crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"integrity="sha384-&#43;VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4&#43;/RRE05"crossorigin="anonymous"
+                defer
+                >
+            </script><script>
+    window.addEventListener("DOMContentLoaded", () => {
+	const mainArticleElement = document.querySelector(".main-article");
+        renderMathInElement(mainArticleElement, {
+            delimiters: [
+                { left: "$$", right: "$$", display: true },
+                { left: "$", right: "$", display: false },
+                { left: "\\(", right: "\\)", display: false },
+                { left: "\\[", right: "\\]", display: true }
+            ],
+            ignoredClasses: ["gist"]
+        });})
+</script>
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/p/%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">“穿针引线”的使用丨高中数学</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/p/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%AC%E5%BC%8F%E6%B1%87%E6%80%BB--%E8%AE%B0%E5%BF%86%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">三角函数公式汇总 &#43; 记忆丨高中数学</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/p/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">基本不等式丨高中数学</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/p/%E9%80%89%E5%BF%85%E4%B8%89%E6%9C%80%E5%90%8E%E4%B8%A4%E7%AB%A0%E6%80%BB%E7%BB%93%E4%B8%A8%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">选必三最后两章总结丨高中物理</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/p/%E5%B7%A5%E8%89%BA%E6%B5%81%E7%A8%8B%E9%A2%98%E4%B8%A8%E9%AB%98%E4%B8%AD%E5%8C%96%E5%AD%A6/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">工艺流程题丨高中化学</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2019 - 
+        
+        2025 小老虎s
+    </section>
+    
+    <section class="powerby">
+        
+            由 小老虎s 锐意呈现 <br/>
+        使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
+        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.31.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计 <br/>
+	<a href="https://beian.miit.gov.cn/" target="_blank">X ICP 备 2024XXXXXX 号</a> 
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.07239a73b3ad6483916a7b1276f50334a743754fc5fd9c4638529e53bb0f857b.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+<div id="particles-js"></div>
+
+<script src=https://xiaolaohus.github.io/background/particles.min.js></script>
+<script>
+  particlesJS.load('particles-js', "https://xiaolaohus.github.io/background/particlesjs-config.json", function() {
+    console.log('particles.js loaded - callback');
+  });
+</script>
+
+<style>
+  #particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+  }
+</style>
+
+
+<style>
+    #TableOfContents > ul, ol {
+        ul, ol {
+            display: none;
+        }
+        .open {
+            display: block;
+        }
+    }
+</style>
+
+<script>
+    function initTocHide() {
+        
+        let toc = document.querySelector(".widget--toc");
+        if (!toc) {
+            return;
+        }
+        
+        window.addEventListener('scroll', function() {
+            
+            let openUl = document.querySelectorAll(".open");
+            if (openUl.length > 0) {
+              openUl.forEach((ul) => {
+                ul.classList.remove("open")
+              })
+            }
+            
+            let currentLi = document.querySelector(".active-class");
+            if (!currentLi) {
+                return
+            }
+            
+            if (currentLi.children.length > 1) {
+                currentLi.children[1].classList.add("open")
+            }
+            
+            let ul = currentLi.parentElement;
+            do {
+                ul.classList.add("open");
+                ul = ul.parentElement.parentElement
+            } while (ul !== undefined && (ul.localName === 'ul' || ul.localName === 'ol'))
+        });
+    }
+    initTocHide()
+</script>
+
+<style>
+    #backTopBtn {
+        display: none;
+        position: fixed;
+        bottom: 30px;
+        z-index: 99;
+        cursor: pointer;
+        width: 30px;
+        height: 30px;
+        background-image: url(https://xiaolaohus.github.io/icons/backTop.svg);
+    }
+</style>
+
+<script>
+    
+
+    function initScrollTop() {
+        let rightSideBar = document.querySelector(".right-sidebar");
+        if (!rightSideBar) {
+            return;
+        }
+        
+        let btn = document.createElement("div");
+        btn.id = "backTopBtn";
+        btn.onclick = backToTop
+        rightSideBar.appendChild(btn)
+        
+        window.onscroll = function() {
+            
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                btn.style.display = "block";
+            } else {
+                btn.style.display = "none";
+            }
+        };
+    }
+
+    
+
+    function backToTop(){
+        window.scrollTo({ top: 0, behavior: "smooth" })
+    }
+
+    initScrollTop();
+</script>
+
+<style>
+    .highlight {
+         
+        max-height: 400px;
+        overflow: hidden;
+    }
+
+    .code-show {
+        max-height: none !important;
+    }
+
+    .code-more-box {
+        width: 100%;
+        padding-top: 78px;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0)), to(#fff));
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 1;
+    }
+
+    .code-more-btn {
+        display: block;
+        margin: auto;
+        width: 44px;
+        height: 22px;
+        background: #f0f0f5;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        padding-top: 6px;
+        cursor: pointer;
+    }
+
+    .code-more-img {
+        cursor: pointer !important;
+        display: block;
+        margin: auto;
+        width: 22px;
+        height: 16px;
+    }
+</style>
+
+<script>
+  function initCodeMoreBox() {
+    let codeBlocks = document.querySelectorAll(".highlight");
+    if (!codeBlocks) {
+      return;
+    }
+    codeBlocks.forEach(codeBlock => {
+      
+      if (codeBlock.scrollHeight <= codeBlock.clientHeight) {
+        return;
+      }
+      
+      
+      let codeMoreBox = document.createElement('div');
+      codeMoreBox.classList.add('code-more-box');
+      
+      let codeMoreBtn = document.createElement('span');
+      codeMoreBtn.classList.add('code-more-btn');
+      codeMoreBtn.addEventListener('click', () => {
+        codeBlock.classList.add('code-show');
+        codeMoreBox.style.display = 'none';
+        
+        window.dispatchEvent(new Event('resize'))
+      })
+      
+      let img = document.createElement('img');
+      img.classList.add('code-more-img');
+      img.src = "https://xiaolaohus.github.io/icons/codeMore.png"
+      
+      codeMoreBtn.appendChild(img);
+      codeMoreBox.appendChild(codeMoreBtn);
+      codeBlock.appendChild(codeMoreBox)
+    })
+  }
+  
+  initCodeMoreBox();
+</script>
+
+
+<script
+    src="https://cdn.jsdelivr.net/gh/zhixuan2333/gh-blog@v0.1.0/js/nprogress.min.js"
+    integrity="sha384-bHDlAEUFxsRI7JfULv3DTpL2IXbbgn4JHQJibgo5iiXSK6Iu8muwqHANhun74Cqg"
+    crossorigin="anonymous"
+></script>
+<link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/zhixuan2333/gh-blog@v0.1.0/css/nprogress.css"
+    integrity="sha384-KJyhr2syt5+4M9Pz5dipCvTrtvOmLk/olWVdfhAp858UCa64Ia5GFpTN7+G4BWpE"
+    crossorigin="anonymous"
+/>
+<script>
+    NProgress.start();
+    document.addEventListener("readystatechange", () => {
+        if (document.readyState === "interactive") NProgress.inc(0.8);
+        if (document.readyState === "complete") NProgress.done();
+    });
+</script>
+
+    </body>
+</html>
