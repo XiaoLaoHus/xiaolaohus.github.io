@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>高中数学 on 小老虎sの基地</title>
-        <link>https://xiaolaohus.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <link>https://xiaolaohus.top/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
         <description>Recent content in 高中数学 on 小老虎sの基地</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>小老虎s</copyright>
-        <lastBuildDate>Sun, 21 Sep 2025 23:51:39 +0800</lastBuildDate><atom:link href="https://xiaolaohus.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 21 Sep 2025 23:51:39 +0800</lastBuildDate><atom:link href="https://xiaolaohus.top/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>大除法因式分解丨高中数学</title>
-        <link>https://xiaolaohus.github.io/p/%E5%A4%A7%E9%99%A4%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <link>https://xiaolaohus.top/p/%E5%A4%A7%E9%99%A4%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
         <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://xiaolaohus.github.io/p/%E5%A4%A7%E9%99%A4%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
+        <guid>https://xiaolaohus.top/p/%E5%A4%A7%E9%99%A4%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
         <description>&lt;p&gt;首先，我们先介绍一下什么是&lt;strong&gt;大除法&lt;/strong&gt;，怎么用，怎么去理解？&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;什么是大除法？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://baike.baidu.com/item/%E5%A4%9A%E9%A1%B9%E5%BC%8F%E9%99%A4%E6%B3%95/2703247&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
@@ -263,10 +263,10 @@
         </item>
         <item>
         <title>“穿针引线”的使用丨高中数学</title>
-        <link>https://xiaolaohus.github.io/p/%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <link>https://xiaolaohus.top/p/%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
         <pubDate>Sun, 24 Nov 2024 21:30:00 +0000</pubDate>
         
-        <guid>https://xiaolaohus.github.io/p/%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
+        <guid>https://xiaolaohus.top/p/%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
         <description>&lt;h1 id=&#34;引入&#34;&gt;&lt;strong&gt;引入&lt;/strong&gt;
 &lt;/h1&gt;&lt;p&gt;首先，让我们回忆一下解不等式的方法.在初中时我们便已经学到我们可以把不等式当作方程来解，同时注意不等号的方向.&lt;/p&gt;
 &lt;p&gt;这样的方法对于一次不等式确实是最简单也是最有效的方法了.但是，当我们遇到二次不等式，那又是怎么解决的呢？&lt;/p&gt;
@@ -296,17 +296,17 @@
 &lt;p&gt;然后，让我们开始“穿线”.从哪里开始“穿”呢？其实我们可以简单试一下当x=4时它会是什么样子:&lt;/p&gt;
 &lt;p&gt;$f(4) = 3\times 2\times 1 = 6&amp;gt;0 $&lt;/p&gt;
 &lt;p&gt;那么，这便说明我们应该从右上角开始“穿”.“穿”完后，我们便可以得到一个大致的函数图像，然后用它写出原不等式的解集.&lt;/p&gt;
-&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/eg1.png&#34; alt=&#34;eg1&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;img src=&#34;https://xiaolaohus.top/assets/posts/eg1.png&#34; alt=&#34;eg1&#34; style=&#34;zoom:50%&#34; /&gt;
 &lt;hr&gt;
 &lt;p&gt;多项式不等式一般可以使用这个方法.不过，分式方程是怎么解决的呢？让我们回想一下：在高中时，我们会将分式的分子与分母相乘变为多项式来解.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;例2.&lt;/strong&gt; 解不等式 $ \dfrac{(x-1)(x+2)}{(x-3)(x-2)} &amp;gt;0 .$&lt;/p&gt;
 &lt;p&gt;首先将原不等式转化，将分子与分母相乘转化为多项式: $ (x-1)(x+2)(x-3)(x-2)&amp;gt;0. $&lt;/p&gt;
 &lt;p&gt;然后便可以用穿针引线法来解决这个不等式了.&lt;/p&gt;
-&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/eg2.png&#34; alt=&#34;eg2&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;img src=&#34;https://xiaolaohus.top/assets/posts/eg2.png&#34; alt=&#34;eg2&#34; style=&#34;zoom:50%&#34; /&gt;
 &lt;hr&gt;
 &lt;p&gt;不过，这里出现了一些不太一样的地方.当我们比较用穿针引线画出来的大致图像与原不等式左边的真实图像之间发生了不小的偏差:&lt;/p&gt;
-&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/gra2.png&#34; alt=&#34;gra2&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;img src=&#34;https://xiaolaohus.top/assets/posts/gra2.png&#34; alt=&#34;gra2&#34; style=&#34;zoom:50%&#34; /&gt;
 &lt;p&gt;那图像上的偏差是否会影响答案的正确性呢？“穿针引线法”难道出现问题了吗？&lt;/p&gt;
 &lt;h1 id=&#34;穿针引线法的溯源&#34;&gt;&lt;strong&gt;穿针引线法的溯源&lt;/strong&gt;
 &lt;/h1&gt;&lt;p&gt;首先我们要知道“穿针引线”是怎么来的.根据函数的单调性，例如 $ f(x)=x-1 $ 这个函数，我们可以得知它在 $ R $ 上单调递增.因此，在它的零点 $ x=1 $ 的左、右分别小于 $ 0 $ 、大于 $ 0 $ .&lt;/p&gt;
@@ -316,9 +316,9 @@
 &lt;h1 id=&#34;穿针引线法的推广&#34;&gt;&lt;strong&gt;穿针引线法的推广&lt;/strong&gt;
 &lt;/h1&gt;&lt;p&gt;&lt;strong&gt;例3.&lt;/strong&gt; 解不等式 $ (x-4)(e^x-1)&amp;gt;0. $&lt;/p&gt;
 &lt;p&gt;我们使用瞪眼法，得出两个零点 $ x=0 , x=4 $.因为函数 $ y=(x-4) $ 和 $ y=e^x-1 $ 均在 $R$ 内单调递增，所以我们便可以画出这样的图像来求解了.&lt;/p&gt;
-&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/eg3.png&#34; alt=&#34;eg3&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;img src=&#34;https://xiaolaohus.top/assets/posts/eg3.png&#34; alt=&#34;eg3&#34; style=&#34;zoom:50%&#34; /&gt;
 &lt;p&gt;这与它的函数原图像颇为相似：&lt;/p&gt;
-&lt;img src=&#34;https://xiaolaohus.github.io/assets/posts/gra3.png&#34; alt=&#34;gra3&#34; style=&#34;zoom:50%&#34; /&gt;
+&lt;img src=&#34;https://xiaolaohus.top/assets/posts/gra3.png&#34; alt=&#34;gra3&#34; style=&#34;zoom:50%&#34; /&gt;
 &lt;h1 id=&#34;课后练习&#34;&gt;&lt;strong&gt;课后练习&lt;/strong&gt;
 &lt;/h1&gt;&lt;p&gt;&lt;strong&gt;解下列不等式:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;$(1) (x-4)log(3,x)&amp;lt;0 ; $&lt;/p&gt;
@@ -327,10 +327,10 @@
         </item>
         <item>
         <title>三角函数公式汇总 &#43; 记忆丨高中数学</title>
-        <link>https://xiaolaohus.github.io/p/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%AC%E5%BC%8F%E6%B1%87%E6%80%BB--%E8%AE%B0%E5%BF%86%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <link>https://xiaolaohus.top/p/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%AC%E5%BC%8F%E6%B1%87%E6%80%BB--%E8%AE%B0%E5%BF%86%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
         <pubDate>Tue, 14 May 2024 11:47:00 +0000</pubDate>
         
-        <guid>https://xiaolaohus.github.io/p/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%AC%E5%BC%8F%E6%B1%87%E6%80%BB--%E8%AE%B0%E5%BF%86%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
+        <guid>https://xiaolaohus.top/p/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%AC%E5%BC%8F%E6%B1%87%E6%80%BB--%E8%AE%B0%E5%BF%86%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
         <description>&lt;p&gt;&lt;img src=&#34;https://pic1.zhimg.com/v2-979de35605f87260cb76e0e541bfc6b4_b.jpg&#34;
 	
 	
@@ -721,10 +721,10 @@
         </item>
         <item>
         <title>基本不等式丨高中数学</title>
-        <link>https://xiaolaohus.github.io/p/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
+        <link>https://xiaolaohus.top/p/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</link>
         <pubDate>Sat, 16 Mar 2024 21:30:00 +0000</pubDate>
         
-        <guid>https://xiaolaohus.github.io/p/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
+        <guid>https://xiaolaohus.top/p/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/</guid>
         <description>&lt;h1 id=&#34;1基本不等式&#34;&gt;1.&lt;strong&gt;基本不等式&lt;/strong&gt;
 &lt;/h1&gt;&lt;p&gt;这是我们一般说的基本不等式：对非负实数 $a,b$ ，有&lt;/p&gt;
 $$
